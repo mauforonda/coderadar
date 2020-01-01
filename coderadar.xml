@@ -1,0 +1,746 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Code Radar</title>
+    <link>https://github.com/mauforonda/coderadar</link>
+    <description>Code Radar</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Wed, 01 Jan 2020 15:52:34 +0000</lastBuildDate>
+    <item>
+      <title>react-redux-ts</title>
+      <link>https://github.com/alemonas/react-redux-ts</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alemonas"&gt;alemonas&lt;/p&gt; &lt;p&gt;React with Redux and Typescript boilerplate&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/6874963?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/alemonas/react-redux-ts</guid>
+      <pubDate>Wed, 01 Jan 2020 15:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>arb-convert</title>
+      <link>https://github.com/trufi-association/arb-convert</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/trufi-association"&gt;trufi-association&lt;/p&gt; &lt;p&gt;Convert Application Resource Bundle (ARB) translation files to other translation formats and back&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/48569587?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/trufi-association/arb-convert</guid>
+      <pubDate>Wed, 01 Jan 2020 14:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>osbo-whatsapp-verifier</title>
+      <link>https://github.com/Programmercito/osbo-whatsapp-verifier</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Programmercito"&gt;Programmercito&lt;/p&gt; &lt;p&gt;Verificador de ultima coneccion, en linea y otros de los estados de whatsapp&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/4504287?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/Programmercito/osbo-whatsapp-verifier</guid>
+      <pubDate>Wed, 01 Jan 2020 06:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>andyibanez.github.io</title>
+      <link>https://github.com/AndyIbanez/andyibanez.github.io</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AndyIbanez"&gt;AndyIbanez&lt;/p&gt; &lt;p&gt;Published static site&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/892112?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/AndyIbanez/andyibanez.github.io</guid>
+      <pubDate>Wed, 01 Jan 2020 04:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>andyibanez-com</title>
+      <link>https://github.com/AndyIbanez/andyibanez-com</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AndyIbanez"&gt;AndyIbanez&lt;/p&gt; &lt;p&gt;Static website.&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/892112?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/AndyIbanez/andyibanez-com</guid>
+      <pubDate>Wed, 01 Jan 2020 04:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>D.C.S.-Cursos_Desarrollo_Android-Java_Kotlin</title>
+      <link>https://github.com/developer-community-sw/D.C.S.-Cursos_Desarrollo_Android-Java_Kotlin</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/developer-community-sw"&gt;developer-community-sw&lt;/p&gt; &lt;p&gt;D.C.S | Curso Online: Udemy | Cursos: Master Desarrollo Android | Lenguaje: Java y Kotlin | Ide: Android Studio 3.5.3&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/51020778?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/developer-community-sw/D.C.S.-Cursos_Desarrollo_Android-Java_Kotlin</guid>
+      <pubDate>Wed, 01 Jan 2020 03:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sistema-SAVI</title>
+      <link>https://github.com/LorneyZizzart/Sistema-SAVI</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/LorneyZizzart"&gt;LorneyZizzart&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/19616139?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/LorneyZizzart/Sistema-SAVI</guid>
+      <pubDate>Wed, 01 Jan 2020 00:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>nodeResful</title>
+      <link>https://github.com/wallas83/nodeResful</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/wallas83"&gt;wallas83&lt;/p&gt; &lt;p&gt;Doing an API with Node&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/26490152?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/wallas83/nodeResful</guid>
+      <pubDate>Wed, 01 Jan 2020 00:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>vue-simple-file-input</title>
+      <link>https://github.com/manuelojeda/vue-simple-file-input</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/manuelojeda"&gt;manuelojeda&lt;/p&gt; &lt;p&gt;A Simple File Input with Vue&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/22081875?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/manuelojeda/vue-simple-file-input</guid>
+      <pubDate>Tue, 31 Dec 2019 23:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>API-Savi</title>
+      <link>https://github.com/LorneyZizzart/API-Savi</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/LorneyZizzart"&gt;LorneyZizzart&lt;/p&gt; &lt;p&gt;API del sistema Savi para la conección a la base de datos&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/19616139?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/LorneyZizzart/API-Savi</guid>
+      <pubDate>Tue, 31 Dec 2019 23:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>lapazcloud.github.io</title>
+      <link>https://github.com/lapazcloud/lapazcloud.github.io</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/lapazcloud"&gt;lapazcloud&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/24698618?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/lapazcloud/lapazcloud.github.io</guid>
+      <pubDate>Tue, 31 Dec 2019 23:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>devops-notes</title>
+      <link>https://github.com/darvein/devops-notes</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/darvein"&gt;darvein&lt;/p&gt; &lt;p&gt;All my DevOps roadmap related notes.&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/12852802?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/darvein/devops-notes</guid>
+      <pubDate>Tue, 31 Dec 2019 21:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ABOS</title>
+      <link>https://github.com/alfreedom/ABOS</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alfreedom"&gt;alfreedom&lt;/p&gt; &lt;p&gt;AVR Bootloader Open Source&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/6258387?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/alfreedom/ABOS</guid>
+      <pubDate>Tue, 31 Dec 2019 21:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>lpthw</title>
+      <link>https://github.com/eloyhz/lpthw</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/eloyhz"&gt;eloyhz&lt;/p&gt; &lt;p&gt;Learn Python The Hard Way&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/12052001?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/eloyhz/lpthw</guid>
+      <pubDate>Tue, 31 Dec 2019 20:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>bootstrap-select-vue-component</title>
+      <link>https://github.com/westc/bootstrap-select-vue-component</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/westc"&gt;westc&lt;/p&gt; &lt;p&gt;A Vue.js component for SnapAppointments' bootstrap-select solution.&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/704518?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/westc/bootstrap-select-vue-component</guid>
+      <pubDate>Tue, 31 Dec 2019 19:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tuppertest</title>
+      <link>https://github.com/mkantonio/Tuppertest</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mkantonio"&gt;mkantonio&lt;/p&gt; &lt;p&gt;repositorio temporal&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/39425186?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/mkantonio/Tuppertest</guid>
+      <pubDate>Tue, 31 Dec 2019 18:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>react-redux</title>
+      <link>https://github.com/alemonas/react-redux</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alemonas"&gt;alemonas&lt;/p&gt; &lt;p&gt;React with Redux boilerplate app&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/6874963?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/alemonas/react-redux</guid>
+      <pubDate>Tue, 31 Dec 2019 17:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Programming-in-C-Exam-70-483-Guide</title>
+      <link>https://github.com/rontucuman/Programming-in-C-Exam-70-483-Guide</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/rontucuman"&gt;rontucuman&lt;/p&gt; &lt;p&gt;Programming in C#: Exam 70-483 Guide: Learn Basic to Advanced Concepts of C#, Including C# 8, to Pass Microsoft MCSD 70-483 Exam&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/11792135?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/rontucuman/Programming-in-C-Exam-70-483-Guide</guid>
+      <pubDate>Tue, 31 Dec 2019 16:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PlatziMediaPlayer.JS</title>
+      <link>https://github.com/RicrdoMedina/PlatziMediaPlayer.JS</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/RicrdoMedina"&gt;RicrdoMedina&lt;/p&gt; &lt;p&gt;Escuela de Javascript - Curso profesional de javascript&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/22272414?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/RicrdoMedina/PlatziMediaPlayer.JS</guid>
+      <pubDate>Tue, 31 Dec 2019 15:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>trufi-app</title>
+      <link>https://github.com/trufi-association/trufi-app</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/trufi-association"&gt;trufi-association&lt;/p&gt; &lt;p&gt;Trufi App - A Flutter app for Public Transportation&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/48569587?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/trufi-association/trufi-app</guid>
+      <pubDate>Tue, 31 Dec 2019 14:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ultracopier</title>
+      <link>https://github.com/alphaonex86/Ultracopier</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alphaonex86"&gt;alphaonex86&lt;/p&gt; &lt;p&gt;Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/778581?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/alphaonex86/Ultracopier</guid>
+      <pubDate>Tue, 31 Dec 2019 11:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ng-vendei-auth</title>
+      <link>https://github.com/kapit4n/ng-vendei-auth</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt; &lt;p&gt;Login and logout from vendei&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/ng-vendei-auth</guid>
+      <pubDate>Tue, 31 Dec 2019 06:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>inventory-core</title>
+      <link>https://github.com/kapit4n/inventory-core</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt; &lt;p&gt;inventory api, loopback&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/inventory-core</guid>
+      <pubDate>Tue, 31 Dec 2019 05:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>socket-io-typescript-chat</title>
+      <link>https://github.com/luixaviles/socket-io-typescript-chat</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/luixaviles"&gt;luixaviles&lt;/p&gt; &lt;p&gt;A chat application implemented using Socket.io, TypeScript, Angular and Angular Material components&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/3485075?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/luixaviles/socket-io-typescript-chat</guid>
+      <pubDate>Tue, 31 Dec 2019 03:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>npl_aylien_python</title>
+      <link>https://github.com/luucamay/npl_aylien_python</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/luucamay"&gt;luucamay&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/15850514?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/luucamay/npl_aylien_python</guid>
+      <pubDate>Tue, 31 Dec 2019 01:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>practicasCSS</title>
+      <link>https://github.com/julk3772/practicasCSS</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/julk3772"&gt;julk3772&lt;/p&gt; &lt;p&gt;Practicando CSS &lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/18661419?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/julk3772/practicasCSS</guid>
+      <pubDate>Tue, 31 Dec 2019 01:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>my-travel-plans</title>
+      <link>https://github.com/lanortizv/my-travel-plans</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/lanortizv"&gt;lanortizv&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/11711940?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/lanortizv/my-travel-plans</guid>
+      <pubDate>Tue, 31 Dec 2019 01:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SchoolManagement</title>
+      <link>https://github.com/Reddyforcode/SchoolManagement</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Reddyforcode"&gt;Reddyforcode&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/20909101?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/Reddyforcode/SchoolManagement</guid>
+      <pubDate>Mon, 30 Dec 2019 23:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>supra-vim</title>
+      <link>https://github.com/carakan/supra-vim</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/carakan"&gt;carakan&lt;/p&gt; &lt;p&gt;fork of ancient spf13-vim, removed all legacy code and using powerful dein plugin manager.&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/6695?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/carakan/supra-vim</guid>
+      <pubDate>Mon, 30 Dec 2019 22:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>reddit-xstate</title>
+      <link>https://github.com/arkgast/reddit-xstate</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/arkgast"&gt;arkgast&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5279327?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/arkgast/reddit-xstate</guid>
+      <pubDate>Mon, 30 Dec 2019 21:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comida</title>
+      <link>https://github.com/JuanFajardo/Comida</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/JuanFajardo"&gt;JuanFajardo&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/6690095?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/JuanFajardo/Comida</guid>
+      <pubDate>Mon, 30 Dec 2019 21:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>API_Contabilidad</title>
+      <link>https://github.com/logistikgo/API_Contabilidad</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/logistikgo"&gt;logistikgo&lt;/p&gt; &lt;p&gt;Servicio para comunicación contable de todos los proyectos&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/29544760?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/logistikgo/API_Contabilidad</guid>
+      <pubDate>Mon, 30 Dec 2019 21:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RUTValidator</title>
+      <link>https://github.com/devcarlos/RUTValidator</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/devcarlos"&gt;devcarlos&lt;/p&gt; &lt;p&gt;A Chilean RUT Validator for Swift 5&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/646364?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/devcarlos/RUTValidator</guid>
+      <pubDate>Mon, 30 Dec 2019 21:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>revicartui</title>
+      <link>https://github.com/StevenRojas/revicartui</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/StevenRojas"&gt;StevenRojas&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/7003861?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/StevenRojas/revicartui</guid>
+      <pubDate>Mon, 30 Dec 2019 20:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sis_soporte</title>
+      <link>https://github.com/kplian/sis_soporte</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt; &lt;p&gt;help desk&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/kplian/sis_soporte</guid>
+      <pubDate>Mon, 30 Dec 2019 20:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PassSuite</title>
+      <link>https://github.com/DanielTorres1/PassSuite</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/DanielTorres1"&gt;DanielTorres1&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/22946964?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/DanielTorres1/PassSuite</guid>
+      <pubDate>Mon, 30 Dec 2019 20:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webhacks</title>
+      <link>https://github.com/DanielTorres1/Webhacks</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/DanielTorres1"&gt;DanielTorres1&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/22946964?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/DanielTorres1/Webhacks</guid>
+      <pubDate>Mon, 30 Dec 2019 20:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>webintruder</title>
+      <link>https://github.com/DanielTorres1/webintruder</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/DanielTorres1"&gt;DanielTorres1&lt;/p&gt; &lt;p&gt;Web Intruder feature of BurpSuite&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/22946964?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/DanielTorres1/webintruder</guid>
+      <pubDate>Mon, 30 Dec 2019 20:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sfg-pet-clinic</title>
+      <link>https://github.com/rvillarroel84/sfg-pet-clinic</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/rvillarroel84"&gt;rvillarroel84&lt;/p&gt; &lt;p&gt;spring framework-pet-clinic&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/8586790?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/rvillarroel84/sfg-pet-clinic</guid>
+      <pubDate>Mon, 30 Dec 2019 18:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpyLite</title>
+      <link>https://github.com/jpsandoval/SpyLite</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jpsandoval"&gt;jpsandoval&lt;/p&gt; &lt;p&gt;A light version of Spy&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/948869?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/jpsandoval/SpyLite</guid>
+      <pubDate>Mon, 30 Dec 2019 18:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>reactPrueba</title>
+      <link>https://github.com/AugustoBet4/reactPrueba</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AugustoBet4"&gt;AugustoBet4&lt;/p&gt; &lt;p&gt;First aproach to reactJS&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/23347594?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/AugustoBet4/reactPrueba</guid>
+      <pubDate>Mon, 30 Dec 2019 17:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>biometrico</title>
+      <link>https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/biometrico</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA"&gt;MUTUAL-DE-SERVICIOS-AL-POLICIA&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/42221638?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/biometrico</guid>
+      <pubDate>Mon, 30 Dec 2019 16:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FGPT-VERIFY</title>
+      <link>https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/FGPT-VERIFY</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA"&gt;MUTUAL-DE-SERVICIOS-AL-POLICIA&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/42221638?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/FGPT-VERIFY</guid>
+      <pubDate>Mon, 30 Dec 2019 16:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sis_proyectos</title>
+      <link>https://github.com/kplian/sis_proyectos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt; &lt;p&gt;Sistema de proyectos&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/kplian/sis_proyectos</guid>
+      <pubDate>Mon, 30 Dec 2019 15:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sis_kactivos_fijos</title>
+      <link>https://github.com/kplian/sis_kactivos_fijos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt; &lt;p&gt;Gestión de Activos Fijos Kplian&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/kplian/sis_kactivos_fijos</guid>
+      <pubDate>Mon, 30 Dec 2019 14:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>almacenArchivos</title>
+      <link>https://github.com/strymsg/almacenArchivos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/strymsg"&gt;strymsg&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/35537786?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/strymsg/almacenArchivos</guid>
+      <pubDate>Mon, 30 Dec 2019 14:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>libreria-generic-model-codeigniter</title>
+      <link>https://github.com/gumiel/libreria-generic-model-codeigniter</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gumiel"&gt;gumiel&lt;/p&gt; &lt;p&gt;Libreria Generic Model para CodeIgniter&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/12777908?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/gumiel/libreria-generic-model-codeigniter</guid>
+      <pubDate>Mon, 30 Dec 2019 13:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sis_sigep</title>
+      <link>https://github.com/boabo/sis_sigep</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/boabo"&gt;boabo&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/8247954?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/boabo/sis_sigep</guid>
+      <pubDate>Mon, 30 Dec 2019 13:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>conDiplomat</title>
+      <link>https://github.com/pr00thmatic/conDiplomat</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/pr00thmatic"&gt;pr00thmatic&lt;/p&gt; &lt;p&gt;Un juego en desarrollo para Oculus Quest. Negocia el futuro de tu país en cenas diplomáticas con las altas esferas de la sociedad. https://drive.google.com/open?id=1LyraQMLujTyEzdsE3kWfpAXicefJCTek &lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/5183802?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/pr00thmatic/conDiplomat</guid>
+      <pubDate>Mon, 30 Dec 2019 12:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>weather-forecast-web</title>
+      <link>https://github.com/maikomr/weather-forecast-web</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/maikomr"&gt;maikomr&lt;/p&gt; &lt;p&gt;Web app that displays the 5 days forecast for a given city.&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/3672014?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/maikomr/weather-forecast-web</guid>
+      <pubDate>Mon, 30 Dec 2019 12:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>recipe-app</title>
+      <link>https://github.com/rvillarroel84/recipe-app</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/rvillarroel84"&gt;rvillarroel84&lt;/p&gt; &lt;p&gt;Spring Recipe App project&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/8586790?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/rvillarroel84/recipe-app</guid>
+      <pubDate>Mon, 30 Dec 2019 12:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>back-online-store-v5</title>
+      <link>https://github.com/alxmcr/back-online-store-v5</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alxmcr"&gt;alxmcr&lt;/p&gt; &lt;p&gt;back-online-store-v5&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/8689897?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/alxmcr/back-online-store-v5</guid>
+      <pubDate>Mon, 30 Dec 2019 03:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>nandes2062.github.io</title>
+      <link>https://github.com/nandes2062/nandes2062.github.io</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/nandes2062"&gt;nandes2062&lt;/p&gt; &lt;p&gt;My web site&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/6126258?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/nandes2062/nandes2062.github.io</guid>
+      <pubDate>Mon, 30 Dec 2019 03:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Admin-hospital</title>
+      <link>https://github.com/SergioDavidRamos/Admin-hospital</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/SergioDavidRamos"&gt;SergioDavidRamos&lt;/p&gt; &lt;p&gt;Este en el demo en el que estoy trabajando&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/38688110?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/SergioDavidRamos/Admin-hospital</guid>
+      <pubDate>Mon, 30 Dec 2019 02:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>frontend-base-react</title>
+      <link>https://github.com/diego-adrian/frontend-base-react</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/diego-adrian"&gt;diego-adrian&lt;/p&gt; &lt;p&gt;Admin desarrollado con react-hooks, material-ui y otras tecnologìas&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/4738575?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/diego-adrian/frontend-base-react</guid>
+      <pubDate>Mon, 30 Dec 2019 01:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ByteLabWeb</title>
+      <link>https://github.com/whiletruedothis/ByteLabWeb</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/whiletruedothis"&gt;whiletruedothis&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/11529293?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/whiletruedothis/ByteLabWeb</guid>
+      <pubDate>Mon, 30 Dec 2019 00:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>facebook-scraper</title>
+      <link>https://github.com/stanlee321/facebook-scraper</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/stanlee321"&gt;stanlee321&lt;/p&gt; &lt;p&gt;This scrap facebook pages&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/7696948?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/stanlee321/facebook-scraper</guid>
+      <pubDate>Mon, 30 Dec 2019 00:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>aprendiendo</title>
+      <link>https://github.com/darwabo/aprendiendo</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/darwabo"&gt;darwabo&lt;/p&gt; &lt;p&gt;Notas ejemplos sobre mi aprendizaje ,con pocos o muchos errores ortograficos.&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/51031299?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/darwabo/aprendiendo</guid>
+      <pubDate>Sun, 29 Dec 2019 23:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>front-online-store-v6</title>
+      <link>https://github.com/alxmcr/front-online-store-v6</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alxmcr"&gt;alxmcr&lt;/p&gt; &lt;p&gt;front-online-store-v6&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/8689897?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/alxmcr/front-online-store-v6</guid>
+      <pubDate>Sun, 29 Dec 2019 21:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>front-online-store-v7</title>
+      <link>https://github.com/alxmcr/front-online-store-v7</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alxmcr"&gt;alxmcr&lt;/p&gt; &lt;p&gt;front-online-store-v7&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/8689897?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/alxmcr/front-online-store-v7</guid>
+      <pubDate>Sun, 29 Dec 2019 21:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TelegramBotTemplate</title>
+      <link>https://github.com/czeballos/TelegramBotTemplate</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/czeballos"&gt;czeballos&lt;/p&gt; &lt;p&gt;Example of Telegram bot using pyTelegramBotAPI lirabrary.&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/7482403?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/czeballos/TelegramBotTemplate</guid>
+      <pubDate>Sun, 29 Dec 2019 19:58:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>tornado-wp</title>
+      <link>https://github.com/EngCode/tornado-wp</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/EngCode"&gt;EngCode&lt;/p&gt; &lt;p&gt;Tornado UI v2 - WordPress Starter Theme.&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5614800?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/EngCode/tornado-wp</guid>
+      <pubDate>Sun, 29 Dec 2019 18:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kafka-Kotlin</title>
+      <link>https://github.com/aiqency/Kafka-Kotlin</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/aiqency"&gt;aiqency&lt;/p&gt; &lt;p&gt;Spring Boot Kotlin Kafka Example&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/31509627?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/aiqency/Kafka-Kotlin</guid>
+      <pubDate>Sun, 29 Dec 2019 15:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>docker-angular-cli</title>
+      <link>https://github.com/juliosguz/docker-angular-cli</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/juliosguz"&gt;juliosguz&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/896522?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/juliosguz/docker-angular-cli</guid>
+      <pubDate>Sun, 29 Dec 2019 04:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ng-vendei</title>
+      <link>https://github.com/kapit4n/ng-vendei</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt; &lt;p&gt;Point of sell, cashier, Angular 8.&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/ng-vendei</guid>
+      <pubDate>Sun, 29 Dec 2019 04:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Exercism</title>
+      <link>https://github.com/eloyhz/Exercism</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/eloyhz"&gt;eloyhz&lt;/p&gt; &lt;p&gt;Exercism exercises&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/12052001?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/eloyhz/Exercism</guid>
+      <pubDate>Sun, 29 Dec 2019 02:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>note3-weather-website</title>
+      <link>https://github.com/mateopuna98/note3-weather-website</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mateopuna98"&gt;mateopuna98&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/25805943?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/mateopuna98/note3-weather-website</guid>
+      <pubDate>Sat, 28 Dec 2019 23:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>flask-course-platzi</title>
+      <link>https://github.com/Reddyforcode/flask-course-platzi</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Reddyforcode"&gt;Reddyforcode&lt;/p&gt; &lt;p&gt;Code following the course https://platzi.com/clases/flask/&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/20909101?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/Reddyforcode/flask-course-platzi</guid>
+      <pubDate>Sat, 28 Dec 2019 19:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MagicCompiler</title>
+      <link>https://github.com/LeonardoADS08/MagicCompiler</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/LeonardoADS08"&gt;LeonardoADS08&lt;/p&gt; &lt;p&gt;A compiler for compilers written in c#&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/12341837?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/LeonardoADS08/MagicCompiler</guid>
+      <pubDate>Sat, 28 Dec 2019 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>trotro-app</title>
+      <link>https://github.com/trufi-association/trotro-app</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/trufi-association"&gt;trufi-association&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/48569587?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/trufi-association/trotro-app</guid>
+      <pubDate>Sat, 28 Dec 2019 13:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tornado-UI-v2</title>
+      <link>https://github.com/EngCode/Tornado-UI-v2</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/EngCode"&gt;EngCode&lt;/p&gt; &lt;p&gt;Tornado v2 | User Interface Framework&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5614800?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/EngCode/Tornado-UI-v2</guid>
+      <pubDate>Sat, 28 Dec 2019 12:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>proyectoSecreto</title>
+      <link>https://github.com/DanielTorres1/proyectoSecreto</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/DanielTorres1"&gt;DanielTorres1&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/22946964?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/DanielTorres1/proyectoSecreto</guid>
+      <pubDate>Sat, 28 Dec 2019 10:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>infosec-notes</title>
+      <link>https://github.com/darvein/infosec-notes</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/darvein"&gt;darvein&lt;/p&gt; &lt;p&gt;Solved and in-progress CTFs challenges&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/12852802?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/darvein/infosec-notes</guid>
+      <pubDate>Sat, 28 Dec 2019 03:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>credit-card-fraud</title>
+      <link>https://github.com/jrcinco/credit-card-fraud</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jrcinco"&gt;jrcinco&lt;/p&gt; &lt;p&gt;credit card fraud&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/11895256?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/jrcinco/credit-card-fraud</guid>
+      <pubDate>Fri, 27 Dec 2019 23:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ageticfiles</title>
+      <link>https://github.com/aadalid5/ageticfiles</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/aadalid5"&gt;aadalid5&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/16575909?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/aadalid5/ageticfiles</guid>
+      <pubDate>Fri, 27 Dec 2019 23:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ProyectoUnivercidad</title>
+      <link>https://github.com/hermozo/ProyectoUnivercidad</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/hermozo"&gt;hermozo&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/7084363?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/hermozo/ProyectoUnivercidad</guid>
+      <pubDate>Fri, 27 Dec 2019 21:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>dotfiles</title>
+      <link>https://github.com/carakan/dotfiles</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/carakan"&gt;carakan&lt;/p&gt; &lt;p&gt;dotfiles across my multiples computers&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/6695?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/carakan/dotfiles</guid>
+      <pubDate>Fri, 27 Dec 2019 20:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CodigoControlBOLIVIA</title>
+      <link>https://github.com/hermozo/CodigoControlBOLIVIA</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/hermozo"&gt;hermozo&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/7084363?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/hermozo/CodigoControlBOLIVIA</guid>
+      <pubDate>Fri, 27 Dec 2019 19:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SimpleDesigner</title>
+      <link>https://github.com/duhnnie/SimpleDesigner</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/duhnnie"&gt;duhnnie&lt;/p&gt; &lt;p&gt;An attempt of BPMN Process Designer&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/1747923?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/duhnnie/SimpleDesigner</guid>
+      <pubDate>Fri, 27 Dec 2019 18:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>post-app</title>
+      <link>https://github.com/wzeta21/post-app</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/wzeta21"&gt;wzeta21&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/18192113?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/wzeta21/post-app</guid>
+      <pubDate>Fri, 27 Dec 2019 17:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>react-native-example</title>
+      <link>https://github.com/vladwelt/react-native-example</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/vladwelt"&gt;vladwelt&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/3821723?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/vladwelt/react-native-example</guid>
+      <pubDate>Fri, 27 Dec 2019 17:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>proyecto_base_en_codeigniter</title>
+      <link>https://github.com/gumiel/proyecto_base_en_codeigniter</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gumiel"&gt;gumiel&lt;/p&gt; &lt;p&gt;Es un proyecto base de codeigniter para programar&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/12777908?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/gumiel/proyecto_base_en_codeigniter</guid>
+      <pubDate>Fri, 27 Dec 2019 17:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>prueba</title>
+      <link>https://github.com/gumiel/prueba</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gumiel"&gt;gumiel&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/12777908?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/gumiel/prueba</guid>
+      <pubDate>Fri, 27 Dec 2019 16:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>fluttercodelab</title>
+      <link>https://github.com/wzeta21/fluttercodelab</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/wzeta21"&gt;wzeta21&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/18192113?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/wzeta21/fluttercodelab</guid>
+      <pubDate>Fri, 27 Dec 2019 16:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>libreria_captcha_codeigniter</title>
+      <link>https://github.com/gumiel/libreria_captcha_codeigniter</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gumiel"&gt;gumiel&lt;/p&gt; &lt;p&gt;Esta es una librería para crear un captcha&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/12777908?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/gumiel/libreria_captcha_codeigniter</guid>
+      <pubDate>Fri, 27 Dec 2019 15:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Multithreading-Danmaku</title>
+      <link>https://github.com/toborochi/Multithreading-Danmaku</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/toborochi"&gt;toborochi&lt;/p&gt; &lt;p&gt;Multithreading Game &lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/24641130?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/toborochi/Multithreading-Danmaku</guid>
+      <pubDate>Fri, 27 Dec 2019 13:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sistema_de_videoclubs</title>
+      <link>https://github.com/gumiel/sistema_de_videoclubs</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gumiel"&gt;gumiel&lt;/p&gt; &lt;p&gt;Es un sistema de renta de videos (Videos Clubs) en fase beta. Este proyecto esta basado en componentes html js y css con codeigniter.&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/12777908?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/gumiel/sistema_de_videoclubs</guid>
+      <pubDate>Fri, 27 Dec 2019 12:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Personal_Notes</title>
+      <link>https://github.com/emiliohdez/Personal_Notes</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/emiliohdez"&gt;emiliohdez&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/35811916?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/emiliohdez/Personal_Notes</guid>
+      <pubDate>Fri, 27 Dec 2019 05:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>himnario-vue</title>
+      <link>https://github.com/omarmus/himnario-vue</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/omarmus"&gt;omarmus&lt;/p&gt; &lt;p&gt;Himnario SMI - Movimiento de Reforma&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/2482184?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/omarmus/himnario-vue</guid>
+      <pubDate>Fri, 27 Dec 2019 03:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>programming-notes</title>
+      <link>https://github.com/darvein/programming-notes</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/darvein"&gt;darvein&lt;/p&gt; &lt;p&gt;Hackerrank solutions&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/12852802?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/darvein/programming-notes</guid>
+      <pubDate>Fri, 27 Dec 2019 02:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sis_obingresos</title>
+      <link>https://github.com/boabo/sis_obingresos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/boabo"&gt;boabo&lt;/p&gt; &lt;p&gt;Sistema de Ingresos&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/8247954?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/boabo/sis_obingresos</guid>
+      <pubDate>Thu, 26 Dec 2019 21:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>file-upload</title>
+      <link>https://github.com/JordyMorales/file-upload</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/JordyMorales"&gt;JordyMorales&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/51468253?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/JordyMorales/file-upload</guid>
+      <pubDate>Thu, 26 Dec 2019 19:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>clientPxpJs</title>
+      <link>https://github.com/kplian/clientPxpJs</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt; &lt;p&gt;clientPxpJs cliente JS para pxp node&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/kplian/clientPxpJs</guid>
+      <pubDate>Thu, 26 Dec 2019 19:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>candidates-backend</title>
+      <link>https://github.com/mauriciolanda4/candidates-backend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriciolanda4"&gt;mauriciolanda4&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/10816635?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauriciolanda4/candidates-backend</guid>
+      <pubDate>Thu, 26 Dec 2019 19:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pxp</title>
+      <link>https://github.com/kplian/pxp</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt; &lt;p&gt;Framework PXP for agile web development&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/kplian/pxp</guid>
+      <pubDate>Thu, 26 Dec 2019 19:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>almacen</title>
+      <link>https://github.com/logistikgo/almacen</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/logistikgo"&gt;logistikgo&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/29544760?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/logistikgo/almacen</guid>
+      <pubDate>Thu, 26 Dec 2019 19:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sistema-de-Administracion-de-Alumnos-Grupos-asistencia-Comportamiento-y-Calificaciones-para-Profe</title>
+      <link>https://github.com/Mauriinf/Sistema-de-Administracion-de-Alumnos-Grupos-asistencia-Comportamiento-y-Calificaciones-para-Profe</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Mauriinf"&gt;Mauriinf&lt;/p&gt; &lt;p&gt;Sistema de Administracion de Alumnos, Grupos, asistencia, Comportamiento y Calificaciones para Profesores echo en php y mysql&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/52255947?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/Mauriinf/Sistema-de-Administracion-de-Alumnos-Grupos-asistencia-Comportamiento-y-Calificaciones-para-Profe</guid>
+      <pubDate>Thu, 26 Dec 2019 18:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sis_bus_sigep</title>
+      <link>https://github.com/boabo/sis_bus_sigep</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/boabo"&gt;boabo&lt;/p&gt; &lt;p&gt;Service Bus Sigep&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/8247954?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/boabo/sis_bus_sigep</guid>
+      <pubDate>Thu, 26 Dec 2019 16:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sistema-de-lubricantes</title>
+      <link>https://github.com/Mauriinf/sistema-de-lubricantes</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Mauriinf"&gt;Mauriinf&lt;/p&gt; &lt;p&gt;sistema de venta de lubricantes en php y mysql&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/52255947?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/Mauriinf/sistema-de-lubricantes</guid>
+      <pubDate>Thu, 26 Dec 2019 16:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reproductor-de-musica</title>
+      <link>https://github.com/Mauriinf/Reproductor-de-musica</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Mauriinf"&gt;Mauriinf&lt;/p&gt; &lt;p&gt;proyecto de emergentes reproductor de música&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/52255947?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/Mauriinf/Reproductor-de-musica</guid>
+      <pubDate>Thu, 26 Dec 2019 15:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PVA-RRHH</title>
+      <link>https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVA-RRHH</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA"&gt;MUTUAL-DE-SERVICIOS-AL-POLICIA&lt;/p&gt; &lt;p&gt;Plataforma Virtual Administrativa - Módulo de Recursos Humanos&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/42221638?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVA-RRHH</guid>
+      <pubDate>Thu, 26 Dec 2019 15:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ejemplo-angular</title>
+      <link>https://github.com/lfmll/ejemplo-angular</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/lfmll"&gt;lfmll&lt;/p&gt; &lt;p&gt;probando angular&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/20020341?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/lfmll/ejemplo-angular</guid>
+      <pubDate>Thu, 26 Dec 2019 03:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>new-railscasts-vscode</title>
+      <link>https://github.com/carakan/new-railscasts-vscode</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/carakan"&gt;carakan&lt;/p&gt; &lt;p&gt;A (new) vscode color scheme based on the Railscasts Textmate theme.&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/6695?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/carakan/new-railscasts-vscode</guid>
+      <pubDate>Thu, 26 Dec 2019 02:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>okingles_frontend</title>
+      <link>https://github.com/gabrieltosh/okingles_frontend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gabrieltosh"&gt;gabrieltosh&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/20992375?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/gabrieltosh/okingles_frontend</guid>
+      <pubDate>Thu, 26 Dec 2019 02:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>okingles_backend</title>
+      <link>https://github.com/gabrieltosh/okingles_backend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gabrieltosh"&gt;gabrieltosh&lt;/p&gt; &lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/20992375?v=4"&gt;&lt;/img&gt;</description>
+      <guid isPermaLink="false">https://github.com/gabrieltosh/okingles_backend</guid>
+      <pubDate>Thu, 26 Dec 2019 02:04:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
