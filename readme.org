@@ -1,0 +1,11 @@
+* coderadar
+
+Monitor github within a location
+
+This little script will search for projects updated in the last week by the 1000 github users with most repositories in a given location and make an rss feed you can subscribe to. You can tweak the locations and days to search for in =config.json=.
+
+Before you run it, you need a [[https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line][personal access token]] from github.
+
+I'm using CircleCI to update the feed on a daily basis.
+
+

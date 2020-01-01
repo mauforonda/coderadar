@@ -1,0 +1,18 @@
+{
+  "github": {
+    "username": "mauforonda",
+    "token": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  "search": {
+    "locations": ["bolivia", "la paz", "cochabamba", "santa cruz de la sierra", "sucre", "potosí", "oruro", "tarija", "beni", "pando"],
+    "days": 7
+  },
+  "rss": {
+    "title":"Code Radar",
+    "description":"Code Radar",
+    "author":"Mauricio Foronda",
+    "email":"mauriforonda@gmail.com",
+    "link":"https://github.com/mauforonda/coderadar",
+    "output": "coderadar.xml"
+  }
+}

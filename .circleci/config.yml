@@ -1,0 +1,33 @@
+version: 2
+jobs:
+  fetch_and_commit:
+    docker:
+      - image: circleci/python:3.6.4
+    steps:
+      - checkout
+      - run:
+          command: |
+            sed -i "s/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/$GITHUB_PERSONAL_TOKEN/g" config.json
+            sudo pip install -r requirements.txt
+            git config --global user.email "radarbot@example.com"
+            git config --global user.name "radarbot"
+            python coderadar.py
+            git add coderadar.xml
+            git commit -m '[ci skip]' && \
+              git push -q https://${GITHUB_PERSONAL_TOKEN}@github.com/mauforonda/coderadar.git master \
+              || true
+workflows:
+  version: 2
+  build:
+    jobs:
+      - fetch_and_commit
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - fetch_and_commit
