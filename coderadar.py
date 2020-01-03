@@ -24,7 +24,7 @@ def save(data, rss):
         fe.title(i['name'])
         fe.link(href=i['link'])
         fe.published(i['updated'])
-        fe.description('<p>made by <a href="https://github.com/{o}">{o}</p> <p>{d}</p> <img src="{img}"></img>'.format(d=i['description'], o=i['owner'], img=i['img']))
+        fe.description('<p>made by <a href="https://github.com/{o}">{o}</p><p>{d}</p> <img src="{img}"></img><p>{u}</p>'.format(d=i['description'], o=i['owner'], img=i['img'], u=i['updated'].strftime('updated %B %d, %Y at %H:%M')))
     fg.rss_file(rss['output'], pretty=True)
 
 def get_users(github, locations, page):
