@@ -27,8 +27,9 @@ def save(data, rss):
         fe.description('<p>made by <a href="https://github.com/{o}">{o}</p><p>{d}</p> <img src="{img}"></img><p>{u}</p>'.format(d=i['description'], o=i['owner'], img=i['img'], u=i['updated'].strftime('updated %B %d, %Y at %H:%M')))
     fg.rss_file(rss['output'], pretty=True)
 
-def get_users(github, locations, page):
-    url = "https://api.github.com/search/users?sort=repositories&order=desc&q={}&per_page=100&page=".format('+'.join(['location:"'+l+'"' for l in locations]))
+def get_users(github, locations, exclude, page):
+    query = '+'.join(['location:"'+l+'"' for l in locations]) + ''.join(['-location:"'+e+'"' for e in exclude])
+    url = "https://api.github.com/search/users?sort=repositories&order=desc&q={}&per_page=100&page=".format(query)
     response = requests.get(url + str(page), auth=(github['username'], github['token'])).json()
     return {'users': [u['login'] for u in response['items']],
             'total': response['total_count']}
@@ -53,8 +54,8 @@ def get_since(days):
     return {'datetime': day,
             'string': datetime.strftime(day, '%Y-%m-%d')}
 
-def get_data(github, locations, page, since):
-    users = get_users(github, locations, page)
+def get_data(github, search, page, since):
+    users = get_users(github, search['locations'], search['exclude'], page)
     repos = get_repos(github, users['users'], since)
     return {'repos': repos, 'total_users': users['total']}
 
@@ -63,7 +64,7 @@ feed = []
 since  = get_since(search['days'])
 
 for p in range(1,11): # The Github API only allows us to retrieve the first 1000 results
-    data = get_data(github, search['locations'], p, since)
+    data = get_data(github, search, p, since)
     feed.extend(data['repos'])
 
 save(feed, rss)

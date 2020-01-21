@@ -5,6 +5,7 @@
   },
   "search": {
     "locations": ["bolivia", "la paz", "cochabamba", "santa cruz de la sierra", "sucre", "potosí", "oruro", "tarija", "beni", "pando"],
+    "exclude": ["san luis"],
     "days": 7
   },
   "rss": {
