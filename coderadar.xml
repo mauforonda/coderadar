@@ -6,20 +6,419 @@
     <description>Code Radar</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 11 May 2020 00:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 00:01:43 +0000</lastBuildDate>
+    <item>
+      <title>first-nextjs-app</title>
+      <link>https://github.com/jecs580/first-nextjs-app</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jecs580"&gt;jecs580&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/36284419?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 12, 2020 at 00:00&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jecs580/first-nextjs-app</guid>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>cchura94.github.io</title>
+      <link>https://github.com/cchura94/cchura94.github.io</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cchura94"&gt;cchura94&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/15663327?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 23:50&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cchura94/cchura94.github.io</guid>
+      <pubDate>Mon, 11 May 2020 23:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pipeline-AWS-Lab2</title>
+      <link>https://github.com/Emmilili/Pipeline-AWS-Lab2</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Emmilili"&gt;Emmilili&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/57343427?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 23:49&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Emmilili/Pipeline-AWS-Lab2</guid>
+      <pubDate>Mon, 11 May 2020 23:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>vue-typescript-webpack-template</title>
+      <link>https://github.com/manuelojeda/vue-typescript-webpack-template</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/manuelojeda"&gt;manuelojeda&lt;/p&gt;&lt;p&gt;Preloaded template for Vue using TypeScript and Webpack&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/22081875?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 23:40&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/manuelojeda/vue-typescript-webpack-template</guid>
+      <pubDate>Mon, 11 May 2020 23:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>frontend-base-react</title>
+      <link>https://github.com/diego-adrian/frontend-base-react</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/diego-adrian"&gt;diego-adrian&lt;/p&gt;&lt;p&gt;Admin desarrollado con react-hooks, material-ui y otras tecnologìas&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/4738575?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 23:37&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/diego-adrian/frontend-base-react</guid>
+      <pubDate>Mon, 11 May 2020 23:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>mauriballes.github.io</title>
+      <link>https://github.com/mauriballes/mauriballes.github.io</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriballes"&gt;mauriballes&lt;/p&gt;&lt;p&gt;Portfolio Repo&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/16750543?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 23:36&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauriballes/mauriballes.github.io</guid>
+      <pubDate>Mon, 11 May 2020 23:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DrupalDeveloper</title>
+      <link>https://github.com/vacho/DrupalDeveloper</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/vacho"&gt;vacho&lt;/p&gt;&lt;p&gt;Contiene los conocimientos básicos que debe tener un dev para trabajar en desarrollo web sobre drupal&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/3926391?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 23:35&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/vacho/DrupalDeveloper</guid>
+      <pubDate>Mon, 11 May 2020 23:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>archive</title>
+      <link>https://github.com/mauriballes/archive</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriballes"&gt;mauriballes&lt;/p&gt;&lt;p&gt;Archive - Library of Private YouTube Videos&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/16750543?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 23:20&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauriballes/archive</guid>
+      <pubDate>Mon, 11 May 2020 23:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>karinaluna</title>
+      <link>https://github.com/boriscy/karinaluna</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/boriscy"&gt;boriscy&lt;/p&gt;&lt;p&gt;Website for Karina Luna&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/38298?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 23:14&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/boriscy/karinaluna</guid>
+      <pubDate>Mon, 11 May 2020 23:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android-Firebase-Authentication-</title>
+      <link>https://github.com/fazozela/Android-Firebase-Authentication-</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/fazozela"&gt;fazozela&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/33166027?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 22:38&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/fazozela/Android-Firebase-Authentication-</guid>
+      <pubDate>Mon, 11 May 2020 22:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>l_python</title>
+      <link>https://github.com/Fernando23296/l_python</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Fernando23296"&gt;Fernando23296&lt;/p&gt;&lt;p&gt;Notes of different exercises done in Python&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/22714140?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 22:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Fernando23296/l_python</guid>
+      <pubDate>Mon, 11 May 2020 22:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>app-inventarios</title>
+      <link>https://github.com/cchura94/app-inventarios</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cchura94"&gt;cchura94&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/15663327?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 22:02&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cchura94/app-inventarios</guid>
+      <pubDate>Mon, 11 May 2020 22:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EST-383</title>
+      <link>https://github.com/AlvaroLimber/EST-383</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AlvaroLimber"&gt;AlvaroLimber&lt;/p&gt;&lt;p&gt;Bases de datos y codigo en R de la materia de Programación I. UMSA &lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/8467833?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 21:48&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/AlvaroLimber/EST-383</guid>
+      <pubDate>Mon, 11 May 2020 21:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>app-flutter-dialogflow</title>
+      <link>https://github.com/cartory/app-flutter-dialogflow</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cartory"&gt;cartory&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/48525396?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 21:22&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cartory/app-flutter-dialogflow</guid>
+      <pubDate>Mon, 11 May 2020 21:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>androidFirebaseAuth</title>
+      <link>https://github.com/rodritorrico/androidFirebaseAuth</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/rodritorrico"&gt;rodritorrico&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/11529293?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 21:04&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/rodritorrico/androidFirebaseAuth</guid>
+      <pubDate>Mon, 11 May 2020 21:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CatchChallenger</title>
+      <link>https://github.com/alphaonex86/CatchChallenger</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alphaonex86"&gt;alphaonex86&lt;/p&gt;&lt;p&gt;CatchChallenger is a MMORPG. JRPG + crafting + TvT + management game&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/778581?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 20:59&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/alphaonex86/CatchChallenger</guid>
+      <pubDate>Mon, 11 May 2020 20:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pxp-ui</title>
+      <link>https://github.com/kplian/pxp-ui</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 20:55&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kplian/pxp-ui</guid>
+      <pubDate>Mon, 11 May 2020 20:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://github.com/groverinho/Java</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/groverinho"&gt;groverinho&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/9745906?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 20:29&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/groverinho/Java</guid>
+      <pubDate>Mon, 11 May 2020 20:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sis_contabilidad</title>
+      <link>https://github.com/kplian/sis_contabilidad</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 20:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kplian/sis_contabilidad</guid>
+      <pubDate>Mon, 11 May 2020 20:23:00 +0000</pubDate>
+    </item>
     <item>
       <title>ladylake_ac_lists</title>
       <link>https://github.com/AndyIbanez/ladylake_ac_lists</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/AndyIbanez"&gt;AndyIbanez&lt;/p&gt;&lt;p&gt;My personal lists of items I have in Animal Crossing: New Horizons&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/892112?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 23:57&lt;/p&gt;</description>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AndyIbanez"&gt;AndyIbanez&lt;/p&gt;&lt;p&gt;My personal lists of items I have in Animal Crossing: New Horizons&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/892112?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 20:12&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/AndyIbanez/ladylake_ac_lists</guid>
-      <pubDate>Sun, 10 May 2020 23:57:00 +0000</pubDate>
+      <pubDate>Mon, 11 May 2020 20:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PVT</title>
+      <link>https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA"&gt;MUTUAL-DE-SERVICIOS-AL-POLICIA&lt;/p&gt;&lt;p&gt;Plataforma Virtual de Trámites&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/42221638?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 20:04&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT</guid>
+      <pubDate>Mon, 11 May 2020 20:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>arrestos-cuarentena</title>
+      <link>https://github.com/mauforonda/arrestos-cuarentena</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Datos de arrestos durante la cuarentena en Bolivia&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 19:01&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/arrestos-cuarentena</guid>
+      <pubDate>Mon, 11 May 2020 19:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>proyectodgbd</title>
+      <link>https://github.com/martinez96carlos/proyectodgbd</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/martinez96carlos"&gt;martinez96carlos&lt;/p&gt;&lt;p&gt;Base de Datos de proyecto de grado.&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/25162967?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 18:55&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/martinez96carlos/proyectodgbd</guid>
+      <pubDate>Mon, 11 May 2020 18:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>nodos-algoritmos</title>
+      <link>https://github.com/AugustoBet4/nodos-algoritmos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AugustoBet4"&gt;AugustoBet4&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/23347594?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 18:04&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/AugustoBet4/nodos-algoritmos</guid>
+      <pubDate>Mon, 11 May 2020 18:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CarsKeep10</title>
+      <link>https://github.com/toitolucho/CarsKeep10</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/toitolucho"&gt;toitolucho&lt;/p&gt;&lt;p&gt;Sistema de Mantenimiento de Movilidades&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/1872880?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 17:02&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/toitolucho/CarsKeep10</guid>
+      <pubDate>Mon, 11 May 2020 17:02:00 +0000</pubDate>
     </item>
     <item>
       <title>material-x-flutter</title>
       <link>https://github.com/kevin554/material-x-flutter</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/kevin554"&gt;kevin554&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/34633097?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 23:50&lt;/p&gt;</description>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kevin554"&gt;kevin554&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/34633097?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 16:10&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/kevin554/material-x-flutter</guid>
-      <pubDate>Sun, 10 May 2020 23:50:00 +0000</pubDate>
+      <pubDate>Mon, 11 May 2020 16:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>documentos</title>
+      <link>https://github.com/caleeli/documentos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/caleeli"&gt;caleeli&lt;/p&gt;&lt;p&gt;Permite cargar documentos&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/8028650?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 16:01&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/caleeli/documentos</guid>
+      <pubDate>Mon, 11 May 2020 16:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generate-Faces</title>
+      <link>https://github.com/gmendozah/Generate-Faces</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gmendozah"&gt;gmendozah&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/20589494?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 14:28&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/gmendozah/Generate-Faces</guid>
+      <pubDate>Mon, 11 May 2020 14:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generate-TV-Scripts</title>
+      <link>https://github.com/gmendozah/Generate-TV-Scripts</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gmendozah"&gt;gmendozah&lt;/p&gt;&lt;p&gt;This project generates Seinfeld TV scripts using RNNs. It uses a Seinfeld dataset of scripts from 9 seasons. The Neural Network will generate a new, "fake" TV script.&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/20589494?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 14:27&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/gmendozah/Generate-TV-Scripts</guid>
+      <pubDate>Mon, 11 May 2020 14:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>deep-learning-with-pytorch</title>
+      <link>https://github.com/gmendozah/deep-learning-with-pytorch</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gmendozah"&gt;gmendozah&lt;/p&gt;&lt;p&gt;This repo helps keep track about exercises, Jupyter Notebooks and datasets of the Deep Learning Nanodegree Program program offered by Udacity.&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/20589494?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 14:14&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/gmendozah/deep-learning-with-pytorch</guid>
+      <pubDate>Mon, 11 May 2020 14:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>react-ts-graphql</title>
+      <link>https://github.com/alemonas/react-ts-graphql</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alemonas"&gt;alemonas&lt;/p&gt;&lt;p&gt;Boilerplate for react, redux, typescript and graphql&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/6874963?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 14:09&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/alemonas/react-ts-graphql</guid>
+      <pubDate>Mon, 11 May 2020 14:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>covid19-bolivia2</title>
+      <link>https://github.com/mauforonda/covid19-bolivia2</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 13:07&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/covid19-bolivia2</guid>
+      <pubDate>Mon, 11 May 2020 13:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>conferencias</title>
+      <link>https://github.com/DavidSalinasPoma/conferencias</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/DavidSalinasPoma"&gt;DavidSalinasPoma&lt;/p&gt;&lt;p&gt;Sistema de conferencias con angular y laravel&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/38930982?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 11:25&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/DavidSalinasPoma/conferencias</guid>
+      <pubDate>Mon, 11 May 2020 11:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>prueba</title>
+      <link>https://github.com/hrnn/prueba</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/hrnn"&gt;hrnn&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/854676?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 11:24&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/hrnn/prueba</guid>
+      <pubDate>Mon, 11 May 2020 11:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>animation-of-monsters-and-men</title>
+      <link>https://github.com/sergiodavidramos/animation-of-monsters-and-men</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/sergiodavidramos"&gt;sergiodavidramos&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/38688110?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 09:59&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/sergiodavidramos/animation-of-monsters-and-men</guid>
+      <pubDate>Mon, 11 May 2020 09:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sis_cobros</title>
+      <link>https://github.com/kplian/sis_cobros</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt;&lt;p&gt;Sistema de cobros, se integra con libro de ventas&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 09:47&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kplian/sis_cobros</guid>
+      <pubDate>Mon, 11 May 2020 09:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>java-spring-demo</title>
+      <link>https://github.com/rafarobert/java-spring-demo</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/rafarobert"&gt;rafarobert&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/12502237?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 07:27&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/rafarobert/java-spring-demo</guid>
+      <pubDate>Mon, 11 May 2020 07:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>platzi-interfaces-android</title>
+      <link>https://github.com/rafarobert/platzi-interfaces-android</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/rafarobert"&gt;rafarobert&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/12502237?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 07:24&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/rafarobert/platzi-interfaces-android</guid>
+      <pubDate>Mon, 11 May 2020 07:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SQL-Compiler-Electron</title>
+      <link>https://github.com/ignacioiglesias43/SQL-Compiler-Electron</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/ignacioiglesias43"&gt;ignacioiglesias43&lt;/p&gt;&lt;p&gt;A SQL Compiler for my Systems Programming project, build in electron.&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/51436771?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 06:49&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/ignacioiglesias43/SQL-Compiler-Electron</guid>
+      <pubDate>Mon, 11 May 2020 06:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>flutterIntermediate</title>
+      <link>https://github.com/wallas83/flutterIntermediate</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/wallas83"&gt;wallas83&lt;/p&gt;&lt;p&gt;proyect using design patterns and advance UI&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/26490152?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 06:44&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/wallas83/flutterIntermediate</guid>
+      <pubDate>Mon, 11 May 2020 06:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pub_sub_model_sync</title>
+      <link>https://github.com/owen2345/pub_sub_model_sync</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/owen2345"&gt;owen2345&lt;/p&gt;&lt;p&gt;Permit to sync models between apps through pub/sub&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/1148415?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 06:27&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/owen2345/pub_sub_model_sync</guid>
+      <pubDate>Mon, 11 May 2020 06:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>curso-selenium-python-platzi</title>
+      <link>https://github.com/terranigmark/curso-selenium-python-platzi</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/terranigmark"&gt;terranigmark&lt;/p&gt;&lt;p&gt;Repositorio con los archivos de cada clase en el Curso de Introducción a Selenium con Python de Platzi&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/21066556?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 05:37&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/terranigmark/curso-selenium-python-platzi</guid>
+      <pubDate>Mon, 11 May 2020 05:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>board-game-firebase</title>
+      <link>https://github.com/AllanLeon/board-game-firebase</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AllanLeon"&gt;AllanLeon&lt;/p&gt;&lt;p&gt;A small project to test firebase features on an online board game&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/7703565?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 05:30&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/AllanLeon/board-game-firebase</guid>
+      <pubDate>Mon, 11 May 2020 05:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>problem2</title>
+      <link>https://github.com/jperedoapb/problem2</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jperedoapb"&gt;jperedoapb&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/4349932?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 05:00&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jperedoapb/problem2</guid>
+      <pubDate>Mon, 11 May 2020 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>problem1</title>
+      <link>https://github.com/jperedoapb/problem1</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jperedoapb"&gt;jperedoapb&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/4349932?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 04:57&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jperedoapb/problem1</guid>
+      <pubDate>Mon, 11 May 2020 04:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>andyibanez-com</title>
+      <link>https://github.com/AndyIbanez/andyibanez-com</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AndyIbanez"&gt;AndyIbanez&lt;/p&gt;&lt;p&gt;Static website.&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/892112?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 04:49&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/AndyIbanez/andyibanez-com</guid>
+      <pubDate>Mon, 11 May 2020 04:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>spring-boot-java-example</title>
+      <link>https://github.com/mlopez383/spring-boot-java-example</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mlopez383"&gt;mlopez383&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/2935288?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 04:43&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mlopez383/spring-boot-java-example</guid>
+      <pubDate>Mon, 11 May 2020 04:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>covid19-bolivia</title>
+      <link>https://github.com/mauforonda/covid19-bolivia</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Series de tiempo de casos de covid-19 en Bolivia&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 04:05&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/covid19-bolivia</guid>
+      <pubDate>Mon, 11 May 2020 04:05:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>apirestnodepost</title>
+      <link>https://github.com/martinez96carlos/apirestnodepost</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/martinez96carlos"&gt;martinez96carlos&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/25162967?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 04:04&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/martinez96carlos/apirestnodepost</guid>
+      <pubDate>Mon, 11 May 2020 04:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>edd-java-small-shooting-game</title>
+      <link>https://github.com/vecalciskay/edd-java-small-shooting-game</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/vecalciskay"&gt;vecalciskay&lt;/p&gt;&lt;p&gt;Es un ejemplo para la clase de Estructura de datos para preparar y publicar sus proyectos&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/173696?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 03:55&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/vecalciskay/edd-java-small-shooting-game</guid>
+      <pubDate>Mon, 11 May 2020 03:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Courses</title>
+      <link>https://github.com/mijaelrcf/Courses</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mijaelrcf"&gt;mijaelrcf&lt;/p&gt;&lt;p&gt;Learning courses&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/57671897?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 03:32&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mijaelrcf/Courses</guid>
+      <pubDate>Mon, 11 May 2020 03:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TensorFlow_sandbox</title>
+      <link>https://github.com/nathalyAlarconT/TensorFlow_sandbox</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/nathalyAlarconT"&gt;nathalyAlarconT&lt;/p&gt;&lt;p&gt;Exercises and examples with TensorFlow 2&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/4137439?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 03:30&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/nathalyAlarconT/TensorFlow_sandbox</guid>
+      <pubDate>Mon, 11 May 2020 03:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Backtesting</title>
+      <link>https://github.com/NicolasPinell/Backtesting</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/NicolasPinell"&gt;NicolasPinell&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/43768810?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 03:12&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/NicolasPinell/Backtesting</guid>
+      <pubDate>Mon, 11 May 2020 03:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>wpfChallenge</title>
+      <link>https://github.com/beracho/wpfChallenge</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/beracho"&gt;beracho&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/12438259?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 02:54&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/beracho/wpfChallenge</guid>
+      <pubDate>Mon, 11 May 2020 02:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>crudnodepostgres</title>
+      <link>https://github.com/martinez96carlos/crudnodepostgres</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/martinez96carlos"&gt;martinez96carlos&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/25162967?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 02:17&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/martinez96carlos/crudnodepostgres</guid>
+      <pubDate>Mon, 11 May 2020 02:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>okIngles_frontend</title>
+      <link>https://github.com/gabrieltosh/okIngles_frontend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gabrieltosh"&gt;gabrieltosh&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/20992375?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 02:10&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/gabrieltosh/okIngles_frontend</guid>
+      <pubDate>Mon, 11 May 2020 02:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>angular5-examples</title>
+      <link>https://github.com/franco148/angular5-examples</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/franco148"&gt;franco148&lt;/p&gt;&lt;p&gt;Some examples related to angular4&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/10811329?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 00:29&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/franco148/angular5-examples</guid>
+      <pubDate>Mon, 11 May 2020 00:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stack-Mern</title>
+      <link>https://github.com/jecs580/Stack-Mern</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jecs580"&gt;jecs580&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/36284419?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 00:28&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jecs580/Stack-Mern</guid>
+      <pubDate>Mon, 11 May 2020 00:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>coderadar</title>
+      <link>https://github.com/mauforonda/coderadar</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Monitor github within a location&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 11, 2020 at 00:01&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/coderadar</guid>
+      <pubDate>Mon, 11 May 2020 00:01:00 +0000</pubDate>
     </item>
     <item>
       <title>MAT1105-Soluciones</title>
@@ -29,32 +428,11 @@
       <pubDate>Sun, 10 May 2020 23:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>edd-java-small-shooting-game</title>
-      <link>https://github.com/vecalciskay/edd-java-small-shooting-game</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/vecalciskay"&gt;vecalciskay&lt;/p&gt;&lt;p&gt;Es un ejemplo para la clase de Estructura de datos para preparar y publicar sus proyectos&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/173696?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 23:09&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/vecalciskay/edd-java-small-shooting-game</guid>
-      <pubDate>Sun, 10 May 2020 23:09:00 +0000</pubDate>
-    </item>
-    <item>
       <title>devmerz.github.io</title>
       <link>https://github.com/devmerz/devmerz.github.io</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/devmerz"&gt;devmerz&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5478401?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 22:17&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/devmerz/devmerz.github.io</guid>
       <pubDate>Sun, 10 May 2020 22:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>nodos-algoritmos</title>
-      <link>https://github.com/AugustoBet4/nodos-algoritmos</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/AugustoBet4"&gt;AugustoBet4&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/23347594?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 21:58&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/AugustoBet4/nodos-algoritmos</guid>
-      <pubDate>Sun, 10 May 2020 21:58:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>curso-selenium-python-platzi</title>
-      <link>https://github.com/terranigmark/curso-selenium-python-platzi</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/terranigmark"&gt;terranigmark&lt;/p&gt;&lt;p&gt;Repositorio con los archivos de cada clase en el Curso de Introducción a Selenium con Python de Platzi&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/21066556?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 21:28&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/terranigmark/curso-selenium-python-platzi</guid>
-      <pubDate>Sun, 10 May 2020 21:28:00 +0000</pubDate>
     </item>
     <item>
       <title>rest-api-nodejs-express-mongodb-jwt</title>
@@ -78,20 +456,6 @@
       <pubDate>Sun, 10 May 2020 21:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>cchura94.github.io</title>
-      <link>https://github.com/cchura94/cchura94.github.io</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/cchura94"&gt;cchura94&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/15663327?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 20:28&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/cchura94/cchura94.github.io</guid>
-      <pubDate>Sun, 10 May 2020 20:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>board-game-firebase</title>
-      <link>https://github.com/AllanLeon/board-game-firebase</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/AllanLeon"&gt;AllanLeon&lt;/p&gt;&lt;p&gt;A small project to test firebase features on an online board game&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/7703565?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 20:13&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/AllanLeon/board-game-firebase</guid>
-      <pubDate>Sun, 10 May 2020 20:13:00 +0000</pubDate>
-    </item>
-    <item>
       <title>lara-notifications</title>
       <link>https://github.com/axelbol/lara-notifications</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/axelbol"&gt;axelbol&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/21364346?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 20:12&lt;/p&gt;</description>
@@ -99,39 +463,11 @@
       <pubDate>Sun, 10 May 2020 20:12:00 +0000</pubDate>
     </item>
     <item>
-      <title>pub_sub_model_sync</title>
-      <link>https://github.com/owen2345/pub_sub_model_sync</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/owen2345"&gt;owen2345&lt;/p&gt;&lt;p&gt;Permit to sync models between apps through pub/sub&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/1148415?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 20:06&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/owen2345/pub_sub_model_sync</guid>
-      <pubDate>Sun, 10 May 2020 20:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>arrestos-cuarentena</title>
-      <link>https://github.com/mauforonda/arrestos-cuarentena</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Datos de arrestos durante la cuarentena en Bolivia&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 19:02&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/arrestos-cuarentena</guid>
-      <pubDate>Sun, 10 May 2020 19:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>covid19-bolivia</title>
-      <link>https://github.com/mauforonda/covid19-bolivia</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Series de tiempo de casos de covid-19 en Bolivia&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 18:59&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/covid19-bolivia</guid>
-      <pubDate>Sun, 10 May 2020 18:59:00 +0000</pubDate>
-    </item>
-    <item>
       <title>orgview</title>
       <link>https://github.com/mauforonda/orgview</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Renders org-mode documents in a web browser on demand&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 18:47&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/mauforonda/orgview</guid>
       <pubDate>Sun, 10 May 2020 18:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>deep-learning-with-pytorch</title>
-      <link>https://github.com/gmendozah/deep-learning-with-pytorch</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/gmendozah"&gt;gmendozah&lt;/p&gt;&lt;p&gt;This repo helps keep track about exercises, Jupyter Notebooks and datasets of the Deep Learning Nanodegree Program program offered by Udacity.&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/20589494?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 17:14&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/gmendozah/deep-learning-with-pytorch</guid>
-      <pubDate>Sun, 10 May 2020 17:14:00 +0000</pubDate>
     </item>
     <item>
       <title>react-shopping-cart</title>
@@ -160,13 +496,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/erikfva"&gt;erikfva&lt;/p&gt;&lt;p&gt;Adiciona funcionalidades a PHPMaker orientadas a crear aplicaciones y sistemas web.&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/24607160?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 14:38&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/erikfva/phpmaker-plugins2019</guid>
       <pubDate>Sun, 10 May 2020 14:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>covid19-bolivia2</title>
-      <link>https://github.com/mauforonda/covid19-bolivia2</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 13:06&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/covid19-bolivia2</guid>
-      <pubDate>Sun, 10 May 2020 13:06:00 +0000</pubDate>
     </item>
     <item>
       <title>project-ng-week-2020</title>
@@ -232,13 +561,6 @@
       <pubDate>Sun, 10 May 2020 02:21:00 +0000</pubDate>
     </item>
     <item>
-      <title>pxp-ui</title>
-      <link>https://github.com/kplian/pxp-ui</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 00:45&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/kplian/pxp-ui</guid>
-      <pubDate>Sun, 10 May 2020 00:45:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ng-week-2020</title>
       <link>https://github.com/ng-bolivia/ng-week-2020</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/ng-bolivia"&gt;ng-bolivia&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/39955210?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 00:38&lt;/p&gt;</description>
@@ -246,32 +568,11 @@
       <pubDate>Sun, 10 May 2020 00:38:00 +0000</pubDate>
     </item>
     <item>
-      <title>Stack-Mern</title>
-      <link>https://github.com/jecs580/Stack-Mern</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/jecs580"&gt;jecs580&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/36284419?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 00:25&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/jecs580/Stack-Mern</guid>
-      <pubDate>Sun, 10 May 2020 00:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Courses</title>
-      <link>https://github.com/mijaelrcf/Courses</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mijaelrcf"&gt;mijaelrcf&lt;/p&gt;&lt;p&gt;Learning courses&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/57671897?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 00:21&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mijaelrcf/Courses</guid>
-      <pubDate>Sun, 10 May 2020 00:21:00 +0000</pubDate>
-    </item>
-    <item>
       <title>archivador_salud</title>
       <link>https://github.com/mauforonda/archivador_salud</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Script para archivar imágenes publicadas por el Ministerio de Salud de Bolivia en twitter&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 00:13&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/mauforonda/archivador_salud</guid>
       <pubDate>Sun, 10 May 2020 00:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>coderadar</title>
-      <link>https://github.com/mauforonda/coderadar</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Monitor github within a location&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 10, 2020 at 00:01&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/coderadar</guid>
-      <pubDate>Sun, 10 May 2020 00:01:00 +0000</pubDate>
     </item>
     <item>
       <title>my-flutter-app</title>
@@ -302,25 +603,11 @@
       <pubDate>Sat, 09 May 2020 23:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>Java</title>
-      <link>https://github.com/groverinho/Java</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/groverinho"&gt;groverinho&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/9745906?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 09, 2020 at 21:52&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/groverinho/Java</guid>
-      <pubDate>Sat, 09 May 2020 21:52:00 +0000</pubDate>
-    </item>
-    <item>
       <title>num-converter</title>
       <link>https://github.com/raullp/num-converter</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/raullp"&gt;raullp&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/1318762?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 09, 2020 at 21:26&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/raullp/num-converter</guid>
       <pubDate>Sat, 09 May 2020 21:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>spring-boot-java-example</title>
-      <link>https://github.com/mlopez383/spring-boot-java-example</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mlopez383"&gt;mlopez383&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/2935288?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 09, 2020 at 21:20&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mlopez383/spring-boot-java-example</guid>
-      <pubDate>Sat, 09 May 2020 21:20:00 +0000</pubDate>
     </item>
     <item>
       <title>SMapping-neurologicalPrediction-ML-PRS</title>
@@ -344,13 +631,6 @@
       <pubDate>Sat, 09 May 2020 18:18:00 +0000</pubDate>
     </item>
     <item>
-      <title>Generate-TV-Scripts</title>
-      <link>https://github.com/gmendozah/Generate-TV-Scripts</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/gmendozah"&gt;gmendozah&lt;/p&gt;&lt;p&gt;This project generates Seinfeld TV scripts using RNNs. It uses a Seinfeld dataset of scripts from 9 seasons. The Neural Network will generate a new, "fake" TV script.&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/20589494?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 09, 2020 at 18:17&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/gmendozah/Generate-TV-Scripts</guid>
-      <pubDate>Sat, 09 May 2020 18:17:00 +0000</pubDate>
-    </item>
-    <item>
       <title>proyEmp</title>
       <link>https://github.com/Nelwey/proyEmp</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Nelwey"&gt;Nelwey&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/36905375?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 09, 2020 at 17:20&lt;/p&gt;</description>
@@ -370,13 +650,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/JessAT18"&gt;JessAT18&lt;/p&gt;&lt;p&gt;Apuntes de la materia&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/30136460?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 09, 2020 at 13:51&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/JessAT18/SI310-Estructuras-de-Datos-Avanzadas</guid>
       <pubDate>Sat, 09 May 2020 13:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CarsKeep10</title>
-      <link>https://github.com/toitolucho/CarsKeep10</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/toitolucho"&gt;toitolucho&lt;/p&gt;&lt;p&gt;Sistema de Mantenimiento de Movilidades&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/1872880?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 09, 2020 at 11:00&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/toitolucho/CarsKeep10</guid>
-      <pubDate>Sat, 09 May 2020 11:00:00 +0000</pubDate>
     </item>
     <item>
       <title>ABCIT</title>
@@ -477,13 +750,6 @@
       <pubDate>Fri, 08 May 2020 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>CatchChallenger</title>
-      <link>https://github.com/alphaonex86/CatchChallenger</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/alphaonex86"&gt;alphaonex86&lt;/p&gt;&lt;p&gt;CatchChallenger is a MMORPG. JRPG + crafting + TvT + management game&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/778581?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 22:54&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/alphaonex86/CatchChallenger</guid>
-      <pubDate>Fri, 08 May 2020 22:54:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ShantiAppSDK</title>
       <link>https://github.com/GChavezM/ShantiAppSDK</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/GChavezM"&gt;GChavezM&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/46617014?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 22:53&lt;/p&gt;</description>
@@ -496,13 +762,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/raul93611"&gt;raul93611&lt;/p&gt;&lt;p&gt;System to manage RFQ.&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/27871832?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 22:08&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/raul93611/rfq</guid>
       <pubDate>Fri, 08 May 2020 22:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>app-inventarios</title>
-      <link>https://github.com/cchura94/app-inventarios</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/cchura94"&gt;cchura94&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/15663327?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 21:31&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/cchura94/app-inventarios</guid>
-      <pubDate>Fri, 08 May 2020 21:31:00 +0000</pubDate>
     </item>
     <item>
       <title>cpp-and-js</title>
@@ -519,13 +778,6 @@
       <pubDate>Fri, 08 May 2020 21:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>SQL-Compiler-Electron</title>
-      <link>https://github.com/ignacioiglesias43/SQL-Compiler-Electron</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/ignacioiglesias43"&gt;ignacioiglesias43&lt;/p&gt;&lt;p&gt;A SQL Compiler for my Systems Programming project, build in electron.&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/51436771?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 21:19&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/ignacioiglesias43/SQL-Compiler-Electron</guid>
-      <pubDate>Fri, 08 May 2020 21:19:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GestorMedicoPaciente</title>
       <link>https://github.com/alekeyX/GestorMedicoPaciente</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/alekeyX"&gt;alekeyX&lt;/p&gt;&lt;p&gt;Sistema de gestión de médicos y pacientes, e historial clínico&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/43247020?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 20:40&lt;/p&gt;</description>
@@ -538,20 +790,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/marcos-x86"&gt;marcos-x86&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/12157902?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 20:37&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/marcos-x86/test-repo-rename</guid>
       <pubDate>Fri, 08 May 2020 20:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DrupalDeveloper</title>
-      <link>https://github.com/vacho/DrupalDeveloper</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/vacho"&gt;vacho&lt;/p&gt;&lt;p&gt;Contiene los conocimientos básicos que debe tener un dev para trabajar en desarrollo web sobre drupal&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/3926391?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 20:10&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/vacho/DrupalDeveloper</guid>
-      <pubDate>Fri, 08 May 2020 20:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PVT</title>
-      <link>https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA"&gt;MUTUAL-DE-SERVICIOS-AL-POLICIA&lt;/p&gt;&lt;p&gt;Plataforma Virtual de Trámites&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/42221638?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 20:01&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT</guid>
-      <pubDate>Fri, 08 May 2020 20:01:00 +0000</pubDate>
     </item>
     <item>
       <title>COVID19</title>
@@ -573,13 +811,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/owen2345"&gt;owen2345&lt;/p&gt;&lt;p&gt;Camaleon CMS is a dynamic and advanced content management system based on Ruby on Rails&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/1148415?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 18:07&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/owen2345/camaleon-cms</guid>
       <pubDate>Fri, 08 May 2020 18:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>sis_cobros</title>
-      <link>https://github.com/kplian/sis_cobros</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt;&lt;p&gt;Sistema de cobros, se integra con libro de ventas&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 17:17&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/kplian/sis_cobros</guid>
-      <pubDate>Fri, 08 May 2020 17:17:00 +0000</pubDate>
     </item>
     <item>
       <title>dotnet_mvc_learning_repo</title>
@@ -617,13 +848,6 @@
       <pubDate>Fri, 08 May 2020 14:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>prueba</title>
-      <link>https://github.com/hrnn/prueba</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/hrnn"&gt;hrnn&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/854676?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 12:43&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/hrnn/prueba</guid>
-      <pubDate>Fri, 08 May 2020 12:43:00 +0000</pubDate>
-    </item>
-    <item>
       <title>django-wise</title>
       <link>https://github.com/vicobits/django-wise</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/vicobits"&gt;vicobits&lt;/p&gt;&lt;p&gt;Django Rest API / GraphQL template&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/2671876?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 09:34&lt;/p&gt;</description>
@@ -636,13 +860,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/vicobits"&gt;vicobits&lt;/p&gt;&lt;p&gt;Simple URL shortener with a powerful API&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/2671876?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 09:34&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/vicobits/xib.li</guid>
       <pubDate>Fri, 08 May 2020 09:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>flutterIntermediate</title>
-      <link>https://github.com/wallas83/flutterIntermediate</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/wallas83"&gt;wallas83&lt;/p&gt;&lt;p&gt;proyect using design patterns and advance UI&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/26490152?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 06:15&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/wallas83/flutterIntermediate</guid>
-      <pubDate>Fri, 08 May 2020 06:15:00 +0000</pubDate>
     </item>
     <item>
       <title>plantilla-latex-proyecto-de-grado</title>
@@ -671,13 +888,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/adnanref7"&gt;adnanref7&lt;/p&gt;&lt;p&gt;Proyecto de Compilación del 2020.&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/49009615?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 02:45&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/adnanref7/PitonesconRaquetas</guid>
       <pubDate>Fri, 08 May 2020 02:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>frontend-base-react</title>
-      <link>https://github.com/diego-adrian/frontend-base-react</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/diego-adrian"&gt;diego-adrian&lt;/p&gt;&lt;p&gt;Admin desarrollado con react-hooks, material-ui y otras tecnologìas&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/4738575?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 08, 2020 at 02:04&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/diego-adrian/frontend-base-react</guid>
-      <pubDate>Fri, 08 May 2020 02:04:00 +0000</pubDate>
     </item>
     <item>
       <title>componentes-web</title>
@@ -771,13 +981,6 @@
       <pubDate>Thu, 07 May 2020 19:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>EST-383</title>
-      <link>https://github.com/AlvaroLimber/EST-383</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/AlvaroLimber"&gt;AlvaroLimber&lt;/p&gt;&lt;p&gt;Bases de datos y codigo en R de la materia de Programación I. UMSA &lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/8467833?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 07, 2020 at 19:17&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/AlvaroLimber/EST-383</guid>
-      <pubDate>Thu, 07 May 2020 19:17:00 +0000</pubDate>
-    </item>
-    <item>
       <title>EST-384</title>
       <link>https://github.com/AlvaroLimber/EST-384</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/AlvaroLimber"&gt;AlvaroLimber&lt;/p&gt;&lt;p&gt;Programación Estadística II&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/8467833?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 07, 2020 at 19:16&lt;/p&gt;</description>
@@ -804,13 +1007,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/ignacioiglesias43"&gt;ignacioiglesias43&lt;/p&gt;&lt;p&gt;Proyecto final de la materia Ingeniería de Software II&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/51436771?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 07, 2020 at 18:19&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/ignacioiglesias43/MedicAlarm</guid>
       <pubDate>Thu, 07 May 2020 18:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pipeline-AWS-Lab2</title>
-      <link>https://github.com/Emmilili/Pipeline-AWS-Lab2</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Emmilili"&gt;Emmilili&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/57343427?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 07, 2020 at 16:07&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Emmilili/Pipeline-AWS-Lab2</guid>
-      <pubDate>Thu, 07 May 2020 16:07:00 +0000</pubDate>
     </item>
     <item>
       <title>Dog-Breed-Classifier</title>
@@ -902,13 +1098,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/luucamay"&gt;luucamay&lt;/p&gt;&lt;p&gt;Personal Blog Website Project&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/15850514?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 07, 2020 at 02:38&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/luucamay/personal-blog-website</guid>
       <pubDate>Thu, 07 May 2020 02:38:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>sis_contabilidad</title>
-      <link>https://github.com/kplian/sis_contabilidad</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 07, 2020 at 01:46&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/kplian/sis_contabilidad</guid>
-      <pubDate>Thu, 07 May 2020 01:46:00 +0000</pubDate>
     </item>
     <item>
       <title>react-final-practice</title>
@@ -1023,13 +1212,6 @@
       <pubDate>Wed, 06 May 2020 15:26:00 +0000</pubDate>
     </item>
     <item>
-      <title>andyibanez-com</title>
-      <link>https://github.com/AndyIbanez/andyibanez-com</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/AndyIbanez"&gt;AndyIbanez&lt;/p&gt;&lt;p&gt;Static website.&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/892112?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 06, 2020 at 15:26&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/AndyIbanez/andyibanez-com</guid>
-      <pubDate>Wed, 06 May 2020 15:26:00 +0000</pubDate>
-    </item>
-    <item>
       <title>PythonCourse</title>
       <link>https://github.com/devcarlos/PythonCourse</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/devcarlos"&gt;devcarlos&lt;/p&gt;&lt;p&gt;Microsoft Python Course&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/646364?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 06, 2020 at 13:02&lt;/p&gt;</description>
@@ -1098,181 +1280,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/05K4R1N"&gt;05K4R1N&lt;/p&gt;&lt;p&gt;Comandos para Magento 2&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5255678?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 06, 2020 at 00:25&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/05K4R1N/Magento-2-Apuntes</guid>
       <pubDate>Wed, 06 May 2020 00:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SQL-Analyzer-ElectronJS</title>
-      <link>https://github.com/Chaidez13/SQL-Analyzer-ElectronJS</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Chaidez13"&gt;Chaidez13&lt;/p&gt;&lt;p&gt;A SQL DDL &amp; DML Analyzer made in Electron JS&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/56051074?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 22:13&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Chaidez13/SQL-Analyzer-ElectronJS</guid>
-      <pubDate>Tue, 05 May 2020 22:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>USO_DE_SUELOS-</title>
-      <link>https://github.com/juanbautista1992/USO_DE_SUELOS-</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/juanbautista1992"&gt;juanbautista1992&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/64751209?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 21:06&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/juanbautista1992/USO_DE_SUELOS-</guid>
-      <pubDate>Tue, 05 May 2020 21:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>myAppFire</title>
-      <link>https://github.com/srgr89/myAppFire</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/srgr89"&gt;srgr89&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/36084834?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 20:43&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/srgr89/myAppFire</guid>
-      <pubDate>Tue, 05 May 2020 20:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>sis_kactivos_fijos</title>
-      <link>https://github.com/kplian/sis_kactivos_fijos</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/kplian"&gt;kplian&lt;/p&gt;&lt;p&gt;Gestión de Activos Fijos Kplian&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5582737?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 19:52&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/kplian/sis_kactivos_fijos</guid>
-      <pubDate>Tue, 05 May 2020 19:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LetsQuiz</title>
-      <link>https://github.com/devcarlos/LetsQuiz</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/devcarlos"&gt;devcarlos&lt;/p&gt;&lt;p&gt;LetsQuiz App in Flutter&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/646364?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 19:32&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/devcarlos/LetsQuiz</guid>
-      <pubDate>Tue, 05 May 2020 19:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enlacegit</title>
-      <link>https://github.com/raggyGitHub/Enlacegit</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/raggyGitHub"&gt;raggyGitHub&lt;/p&gt;&lt;p&gt;first test to git&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/24485895?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 19:13&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/raggyGitHub/Enlacegit</guid>
-      <pubDate>Tue, 05 May 2020 19:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>phpmaker</title>
-      <link>https://github.com/erikfva/phpmaker</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/erikfva"&gt;erikfva&lt;/p&gt;&lt;p&gt;Plantilla base de aplicación web para PHPMaker.&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/24607160?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 19:04&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/erikfva/phpmaker</guid>
-      <pubDate>Tue, 05 May 2020 19:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>lecture0</title>
-      <link>https://github.com/raggyGitHub/lecture0</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/raggyGitHub"&gt;raggyGitHub&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/24485895?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 16:55&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/raggyGitHub/lecture0</guid>
-      <pubDate>Tue, 05 May 2020 16:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hackerblocks</title>
-      <link>https://github.com/skyfall947/Hackerblocks</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/skyfall947"&gt;skyfall947&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/33062530?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 16:44&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/skyfall947/Hackerblocks</guid>
-      <pubDate>Tue, 05 May 2020 16:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>juanbautista1992.github.com-</title>
-      <link>https://github.com/juanbautista1992/juanbautista1992.github.com-</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/juanbautista1992"&gt;juanbautista1992&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/64751209?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 16:37&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/juanbautista1992/juanbautista1992.github.com-</guid>
-      <pubDate>Tue, 05 May 2020 16:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>marcelo170690.github.io</title>
-      <link>https://github.com/marcelo170690/marcelo170690.github.io</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/marcelo170690"&gt;marcelo170690&lt;/p&gt;&lt;p&gt;Mi github page&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/29951871?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 15:44&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/marcelo170690/marcelo170690.github.io</guid>
-      <pubDate>Tue, 05 May 2020 15:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>azumo-test</title>
-      <link>https://github.com/hegeltrigo/azumo-test</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/hegeltrigo"&gt;hegeltrigo&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/1336964?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 14:49&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/hegeltrigo/azumo-test</guid>
-      <pubDate>Tue, 05 May 2020 14:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>transitions_listener</title>
-      <link>https://github.com/owen2345/transitions_listener</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/owen2345"&gt;owen2345&lt;/p&gt;&lt;p&gt;Listen all state transitions and make actions before and after the transition is saved&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/1148415?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 14:45&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/owen2345/transitions_listener</guid>
-      <pubDate>Tue, 05 May 2020 14:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>proyectocoteco</title>
-      <link>https://github.com/Ajerhy/proyectocoteco</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Ajerhy"&gt;Ajerhy&lt;/p&gt;&lt;p&gt;Guia Telefonica,Cooperativa de Telecomunicaciones Cobija Ltda.&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/34432038?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 14:26&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Ajerhy/proyectocoteco</guid>
-      <pubDate>Tue, 05 May 2020 14:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>umss-dev-training</title>
-      <link>https://github.com/franco148/umss-dev-training</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/franco148"&gt;franco148&lt;/p&gt;&lt;p&gt;Public project for supporting UMSS students about commercial software development.&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/10811329?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 14:05&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/franco148/umss-dev-training</guid>
-      <pubDate>Tue, 05 May 2020 14:05:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>U.A.G.R.M.-REPOSITORIO_Practicos-DOCENTE_Ing_Mollo-MATERIA_Programacion_I-IDE_Visual_Basic</title>
-      <link>https://github.com/uagrm-developer-community-sw/U.A.G.R.M.-REPOSITORIO_Practicos-DOCENTE_Ing_Mollo-MATERIA_Programacion_I-IDE_Visual_Basic</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/uagrm-developer-community-sw"&gt;uagrm-developer-community-sw&lt;/p&gt;&lt;p&gt;U.A.G.R.M. | Materia: Programacion I | Docente: Albero Mollo | Repositorio: Practicos | Lenguaje: Visual Basic "Consola" | IDE: Visual Basic - Visual Studio 2019 (Community)&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/53412176?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 13:59&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/uagrm-developer-community-sw/U.A.G.R.M.-REPOSITORIO_Practicos-DOCENTE_Ing_Mollo-MATERIA_Programacion_I-IDE_Visual_Basic</guid>
-      <pubDate>Tue, 05 May 2020 13:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>cict-online</title>
-      <link>https://github.com/wvsu-cict-code/cict-online</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/wvsu-cict-code"&gt;wvsu-cict-code&lt;/p&gt;&lt;p&gt;Source code of the CICT official website.&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/9645096?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 11:09&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/wvsu-cict-code/cict-online</guid>
-      <pubDate>Tue, 05 May 2020 11:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Flutter_pruebas</title>
-      <link>https://github.com/LorneyZizzart/Flutter_pruebas</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/LorneyZizzart"&gt;LorneyZizzart&lt;/p&gt;&lt;p&gt;Inicios de aprendizaje con flutter&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/19616139?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 04:33&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/LorneyZizzart/Flutter_pruebas</guid>
-      <pubDate>Tue, 05 May 2020 04:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>nodejsRestAPI</title>
-      <link>https://github.com/cuscamayta/nodejsRestAPI</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/cuscamayta"&gt;cuscamayta&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/2279620?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 03:33&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/cuscamayta/nodejsRestAPI</guid>
-      <pubDate>Tue, 05 May 2020 03:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Simple-google-forms-bot-nodejs</title>
-      <link>https://github.com/TeDyGuN/Simple-google-forms-bot-nodejs</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/TeDyGuN"&gt;TeDyGuN&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/6343504?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 02:54&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/TeDyGuN/Simple-google-forms-bot-nodejs</guid>
-      <pubDate>Tue, 05 May 2020 02:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>apirest-go-mux</title>
-      <link>https://github.com/rubendajimenez/apirest-go-mux</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/rubendajimenez"&gt;rubendajimenez&lt;/p&gt;&lt;p&gt;apirest golang&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/5815939?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 02:47&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/rubendajimenez/apirest-go-mux</guid>
-      <pubDate>Tue, 05 May 2020 02:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>crwn-clothing</title>
-      <link>https://github.com/ston3/crwn-clothing</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/ston3"&gt;ston3&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/16125100?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 02:31&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/ston3/crwn-clothing</guid>
-      <pubDate>Tue, 05 May 2020 02:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>upb-code</title>
-      <link>https://github.com/Emmilili/upb-code</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Emmilili"&gt;Emmilili&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/57343427?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 02:18&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Emmilili/upb-code</guid>
-      <pubDate>Tue, 05 May 2020 02:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ahorro-app</title>
-      <link>https://github.com/05K4R1N/ahorro-app</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/05K4R1N"&gt;05K4R1N&lt;/p&gt;&lt;p&gt;Pequenio sistema para control de ahorro con React.js&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/5255678?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 02:15&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/05K4R1N/ahorro-app</guid>
-      <pubDate>Tue, 05 May 2020 02:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JenkinsAzureDev</title>
-      <link>https://github.com/cuscamayta/JenkinsAzureDev</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/cuscamayta"&gt;cuscamayta&lt;/p&gt;&lt;p&gt;This is a project that implement Jenkins file with parameters and stages&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/2279620?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated May 05, 2020 at 00:20&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/cuscamayta/JenkinsAzureDev</guid>
-      <pubDate>Tue, 05 May 2020 00:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
