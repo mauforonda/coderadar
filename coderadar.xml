@@ -6,7 +6,14 @@
     <description>Code Radar</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 01 Dec 2020 00:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:04:35 +0000</lastBuildDate>
+    <item>
+      <title>coderadar</title>
+      <link>https://github.com/mauforonda/coderadar</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Monitor github within a location&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 01, 2020 at 00:01&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/coderadar</guid>
+      <pubDate>Tue, 01 Dec 2020 00:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>tess4j-demo</title>
       <link>https://github.com/marcos-x86/tess4j-demo</link>
@@ -211,6 +218,13 @@
       <pubDate>Mon, 30 Nov 2020 18:53:00 +0000</pubDate>
     </item>
     <item>
+      <title>frontend-base-svelte-sapper</title>
+      <link>https://github.com/diego-adrian/frontend-base-svelte-sapper</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/diego-adrian"&gt;diego-adrian&lt;/p&gt;&lt;p&gt;Frontend base realizada con svelte y sapper&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/4738575?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 30, 2020 at 18:28&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/diego-adrian/frontend-base-svelte-sapper</guid>
+      <pubDate>Mon, 30 Nov 2020 18:28:00 +0000</pubDate>
+    </item>
+    <item>
       <title>clasi-template-welink</title>
       <link>https://github.com/felixTineo/clasi-template-welink</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/felixTineo"&gt;felixTineo&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/52043874?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 30, 2020 at 18:09&lt;/p&gt;</description>
@@ -351,13 +365,6 @@
       <pubDate>Mon, 30 Nov 2020 07:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>adminpro</title>
-      <link>https://github.com/jecs580/adminpro</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/jecs580"&gt;jecs580&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/36284419?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 30, 2020 at 04:40&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/jecs580/adminpro</guid>
-      <pubDate>Mon, 30 Nov 2020 04:40:00 +0000</pubDate>
-    </item>
-    <item>
       <title>dev-ops-notes</title>
       <link>https://github.com/franco148/dev-ops-notes</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/franco148"&gt;franco148&lt;/p&gt;&lt;p&gt;Important notes regarding to Docker, Docker Swarm, Kubernetes, Jenkins, etc.&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/10811329?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 30, 2020 at 04:36&lt;/p&gt;</description>
@@ -428,13 +435,6 @@
       <pubDate>Mon, 30 Nov 2020 00:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>coderadar</title>
-      <link>https://github.com/mauforonda/coderadar</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Monitor github within a location&lt;/p&gt; &lt;img src="https://avatars1.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 30, 2020 at 00:01&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/coderadar</guid>
-      <pubDate>Mon, 30 Nov 2020 00:01:00 +0000</pubDate>
-    </item>
-    <item>
       <title>javascript-para-react</title>
       <link>https://github.com/devferx/javascript-para-react</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/devferx"&gt;devferx&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/37563836?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 29, 2020 at 23:56&lt;/p&gt;</description>
@@ -442,25 +442,11 @@
       <pubDate>Sun, 29 Nov 2020 23:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>TECNM_Kotlin_Workshop</title>
-      <link>https://github.com/lizarragadev/TECNM_Kotlin_Workshop</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/lizarragadev"&gt;lizarragadev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/1924390?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 29, 2020 at 23:52&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/lizarragadev/TECNM_Kotlin_Workshop</guid>
-      <pubDate>Sun, 29 Nov 2020 23:52:00 +0000</pubDate>
-    </item>
-    <item>
       <title>03react</title>
       <link>https://github.com/jasbel/03react</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/jasbel"&gt;jasbel&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/38922692?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 29, 2020 at 22:45&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/jasbel/03react</guid>
       <pubDate>Sun, 29 Nov 2020 22:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>metodos_numericos_menu</title>
-      <link>https://github.com/reddytocode/metodos_numericos_menu</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/reddytocode"&gt;reddytocode&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/20909101?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 29, 2020 at 22:35&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/reddytocode/metodos_numericos_menu</guid>
-      <pubDate>Sun, 29 Nov 2020 22:35:00 +0000</pubDate>
     </item>
     <item>
       <title>AgritechJC</title>
@@ -503,6 +489,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/fjsuarez"&gt;fjsuarez&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars3.githubusercontent.com/u/3099648?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 29, 2020 at 16:56&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/fjsuarez/fjsuarez.github.io</guid>
       <pubDate>Sun, 29 Nov 2020 16:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>jdd-vue-components</title>
+      <link>https://github.com/caleeli/jdd-vue-components</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/caleeli"&gt;caleeli&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars0.githubusercontent.com/u/8028650?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 29, 2020 at 15:24&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/caleeli/jdd-vue-components</guid>
+      <pubDate>Sun, 29 Nov 2020 15:24:00 +0000</pubDate>
     </item>
     <item>
       <title>movies-reviews</title>
@@ -902,6 +895,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriciocartagena"&gt;mauriciocartagena&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/51917913?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 27, 2020 at 03:04&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/mauriciocartagena/my-perfil</guid>
       <pubDate>Fri, 27 Nov 2020 03:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>03-bandNames</title>
+      <link>https://github.com/mauriciocartagena/03-bandNames</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriciocartagena"&gt;mauriciocartagena&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars2.githubusercontent.com/u/51917913?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated November 27, 2020 at 02:34&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauriciocartagena/03-bandNames</guid>
+      <pubDate>Fri, 27 Nov 2020 02:34:00 +0000</pubDate>
     </item>
     <item>
       <title>03-bandNames-server</title>
