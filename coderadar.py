@@ -40,7 +40,7 @@ def get_repos(github, users, since):
     filtered = []
     for item in response['items']:
         pushed = datetime.strptime(item['updated_at']+'+0000', '%Y-%m-%dT%H:%M:%fZ%z')
-        if pushed > since['datetime']:
+        if pushed > since['datetime'] and item['private'] == False:
             filtered.append({'name':item['name'],
                              'owner':item['owner']['login'],
                              'img': item['owner']['avatar_url'],
