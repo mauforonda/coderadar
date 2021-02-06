@@ -6,13 +6,377 @@
     <description>Code Radar</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Feb 2021 00:05:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Feb 2021 00:05:26 +0000</lastBuildDate>
+    <item>
+      <title>DrupalDeveloper</title>
+      <link>https://github.com/vacho/DrupalDeveloper</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/vacho"&gt;vacho&lt;/p&gt;&lt;p&gt;Contiene los conocimientos básicos que debe tener un dev para trabajar en desarrollo web sobre drupal&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/3926391?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 06, 2021 at 00:02&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/vacho/DrupalDeveloper</guid>
+      <pubDate>Sat, 06 Feb 2021 00:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>kinobot</title>
+      <link>https://github.com/vitiko98/kinobot</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/vitiko98"&gt;vitiko98&lt;/p&gt;&lt;p&gt;Facebook bot for cinephiles&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/59455966?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 23:51&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/vitiko98/kinobot</guid>
+      <pubDate>Fri, 05 Feb 2021 23:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UpTask</title>
+      <link>https://github.com/andrescastromamani/UpTask</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/andrescastromamani"&gt;andrescastromamani&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/40498384?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 23:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/andrescastromamani/UpTask</guid>
+      <pubDate>Fri, 05 Feb 2021 23:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AgendaContactos</title>
+      <link>https://github.com/andrescastromamani/AgendaContactos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/andrescastromamani"&gt;andrescastromamani&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/40498384?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 23:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/andrescastromamani/AgendaContactos</guid>
+      <pubDate>Fri, 05 Feb 2021 23:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>social-network-BE</title>
+      <link>https://github.com/ctola91/social-network-BE</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/ctola91"&gt;ctola91&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/9135312?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 23:06&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/ctola91/social-network-BE</guid>
+      <pubDate>Fri, 05 Feb 2021 23:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>hospital-frontend</title>
+      <link>https://github.com/RicardoPary/hospital-frontend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/RicardoPary"&gt;RicardoPary&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/21285250?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 23:03&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/RicardoPary/hospital-frontend</guid>
+      <pubDate>Fri, 05 Feb 2021 23:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>alvarolimber.github.io</title>
+      <link>https://github.com/AlvaroLimber/alvarolimber.github.io</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AlvaroLimber"&gt;AlvaroLimber&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/8467833?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 22:46&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/AlvaroLimber/alvarolimber.github.io</guid>
+      <pubDate>Fri, 05 Feb 2021 22:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AngularSpringJavaFullStack</title>
+      <link>https://github.com/VictorCruzGo/AngularSpringJavaFullStack</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/VictorCruzGo"&gt;VictorCruzGo&lt;/p&gt;&lt;p&gt;Angular y Spring Java FullStack:-Angular (frontend)-Spring Framework  + JPA (backend)-Angular + Spring + JPA + Restful-Manejo de componentes, directivas, rutas, pipes y servicios de una aplicación Angular-Manejo Spring Security OAuth2 y JWT (autenticación y autorización basada en token)-Paginación de resultado con Angular y Spring-Cargado de archivos con angular-Despliegue del backend Spring en la nube con Heroku-Despliegue del frontend Angular en la nube con Google Firebase-Despliegue backend en producción localmente con Apache Tomcat embebido-Despliegue del frontend Angular en producción localmente con Apache(httpd) y con Node JS y Express-Chat en tiempo real con Socket y MongoDB-Integracion MongoDB en Spring&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/11742782?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 22:45&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/VictorCruzGo/AngularSpringJavaFullStack</guid>
+      <pubDate>Fri, 05 Feb 2021 22:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>bebidas</title>
+      <link>https://github.com/DarkAstaroth/bebidas</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/DarkAstaroth"&gt;DarkAstaroth&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/35034650?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 22:27&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/DarkAstaroth/bebidas</guid>
+      <pubDate>Fri, 05 Feb 2021 22:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>covid19bolivia-municipal</title>
+      <link>https://github.com/mauforonda/covid19bolivia-municipal</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 22:25&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/covid19bolivia-municipal</guid>
+      <pubDate>Fri, 05 Feb 2021 22:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>mac-agregar-variables-de-entorno-permanentemente</title>
+      <link>https://github.com/willianra/mac-agregar-variables-de-entorno-permanentemente</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/willianra"&gt;willianra&lt;/p&gt;&lt;p&gt;mac agregar variables de entorno permanentemente&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/26130580?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 22:18&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/willianra/mac-agregar-variables-de-entorno-permanentemente</guid>
+      <pubDate>Fri, 05 Feb 2021 22:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>hackerearth</title>
+      <link>https://github.com/skyfall947/hackerearth</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/skyfall947"&gt;skyfall947&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/33062530?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 22:00&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/skyfall947/hackerearth</guid>
+      <pubDate>Fri, 05 Feb 2021 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>appxiadmin</title>
+      <link>https://github.com/loginweb-dev/appxiadmin</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/loginweb-dev"&gt;loginweb-dev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/45406884?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 21:55&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/loginweb-dev/appxiadmin</guid>
+      <pubDate>Fri, 05 Feb 2021 21:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>asap_challenge_cubit</title>
+      <link>https://github.com/marcoleonardini/asap_challenge_cubit</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/marcoleonardini"&gt;marcoleonardini&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/2449572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 21:53&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/marcoleonardini/asap_challenge_cubit</guid>
+      <pubDate>Fri, 05 Feb 2021 21:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pub_sub_model_sync</title>
+      <link>https://github.com/owen2345/pub_sub_model_sync</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/owen2345"&gt;owen2345&lt;/p&gt;&lt;p&gt;Permit to sync models between apps through pub/sub&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1148415?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 21:46&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/owen2345/pub_sub_model_sync</guid>
+      <pubDate>Fri, 05 Feb 2021 21:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>my-app</title>
+      <link>https://github.com/IsaiasMorochi/my-app</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/IsaiasMorochi"&gt;IsaiasMorochi&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/26234355?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 21:38&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/IsaiasMorochi/my-app</guid>
+      <pubDate>Fri, 05 Feb 2021 21:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>hospital-backend</title>
+      <link>https://github.com/RicardoPary/hospital-backend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/RicardoPary"&gt;RicardoPary&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/21285250?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 21:14&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/RicardoPary/hospital-backend</guid>
+      <pubDate>Fri, 05 Feb 2021 21:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>rest-node</title>
+      <link>https://github.com/matcop/rest-node</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/matcop"&gt;matcop&lt;/p&gt;&lt;p&gt;REST en node&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/20216771?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 21:13&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/matcop/rest-node</guid>
+      <pubDate>Fri, 05 Feb 2021 21:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>myflix</title>
+      <link>https://github.com/eaguirre1120/myflix</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/eaguirre1120"&gt;eaguirre1120&lt;/p&gt;&lt;p&gt;App creada para el programa de Architect Coders&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/47926093?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 20:28&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/eaguirre1120/myflix</guid>
+      <pubDate>Fri, 05 Feb 2021 20:28:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>3.5-Months-of-Bertelsmann-Scholarship-Data-Track</title>
+      <link>https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/susyjam"&gt;susyjam&lt;/p&gt;&lt;p&gt;My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7839719?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 20:12&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track</guid>
+      <pubDate>Fri, 05 Feb 2021 20:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>mi-ranchito</title>
+      <link>https://github.com/raulzarzadev/mi-ranchito</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/raulzarzadev"&gt;raulzarzadev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/46048980?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 19:38&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/raulzarzadev/mi-ranchito</guid>
+      <pubDate>Fri, 05 Feb 2021 19:38:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>reactTodoApp</title>
+      <link>https://github.com/raggyGitHub/reactTodoApp</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/raggyGitHub"&gt;raggyGitHub&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/24485895?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 19:01&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/raggyGitHub/reactTodoApp</guid>
+      <pubDate>Fri, 05 Feb 2021 19:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Principios-Solid</title>
+      <link>https://github.com/xandyx2014/Principios-Solid</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/xandyx2014"&gt;xandyx2014&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/24982392?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 18:54&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/xandyx2014/Principios-Solid</guid>
+      <pubDate>Fri, 05 Feb 2021 18:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MiniFrontendProjects</title>
+      <link>https://github.com/DevDuxAaron/MiniFrontendProjects</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/DevDuxAaron"&gt;DevDuxAaron&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/48360535?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 18:54&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/DevDuxAaron/MiniFrontendProjects</guid>
+      <pubDate>Fri, 05 Feb 2021 18:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Geolocalizador</title>
+      <link>https://github.com/JorgeMiguelDelgado/Geolocalizador</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/JorgeMiguelDelgado"&gt;JorgeMiguelDelgado&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/41923835?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 17:46&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/JorgeMiguelDelgado/Geolocalizador</guid>
+      <pubDate>Fri, 05 Feb 2021 17:46:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>andyibanez.github.io</title>
+      <link>https://github.com/AndyIbanez/andyibanez.github.io</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AndyIbanez"&gt;AndyIbanez&lt;/p&gt;&lt;p&gt;Published static site&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/892112?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 17:00&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/AndyIbanez/andyibanez.github.io</guid>
+      <pubDate>Fri, 05 Feb 2021 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SistemaParroquia</title>
+      <link>https://github.com/JohnnHidalgo/SistemaParroquia</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/JohnnHidalgo"&gt;JohnnHidalgo&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/31965496?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 16:50&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/JohnnHidalgo/SistemaParroquia</guid>
+      <pubDate>Fri, 05 Feb 2021 16:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>store-nextjs</title>
+      <link>https://github.com/tomas-vasquez/store-nextjs</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/tomas-vasquez"&gt;tomas-vasquez&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/62443612?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 16:43&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/tomas-vasquez/store-nextjs</guid>
+      <pubDate>Fri, 05 Feb 2021 16:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>kevinsanbolivia.github.io</title>
+      <link>https://github.com/kevinsanbolivia/kevinsanbolivia.github.io</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kevinsanbolivia"&gt;kevinsanbolivia&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/13000919?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 14:41&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kevinsanbolivia/kevinsanbolivia.github.io</guid>
+      <pubDate>Fri, 05 Feb 2021 14:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>covid19-bolivia-udape</title>
+      <link>https://github.com/mauforonda/covid19-bolivia-udape</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Datos de casos diarios de covid-19 por departamento en Bolivia, publicados por UDAPE y transcritos diariamente&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 14:20&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/covid19-bolivia-udape</guid>
+      <pubDate>Fri, 05 Feb 2021 14:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>covid19-lapaz</title>
+      <link>https://github.com/mauforonda/covid19-lapaz</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Casos de covid-19 por zona en el Municipio de La Paz, Bolivia&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 14:15&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/covid19-lapaz</guid>
+      <pubDate>Fri, 05 Feb 2021 14:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>transitabilidad-bolivia</title>
+      <link>https://github.com/mauforonda/transitabilidad-bolivia</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Datos históricos de transitabilidad en carreteras de Bolivia&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 12:17&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/transitabilidad-bolivia</guid>
+      <pubDate>Fri, 05 Feb 2021 12:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CursoUnity</title>
+      <link>https://github.com/Mademoisellefou/CursoUnity</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Mademoisellefou"&gt;Mademoisellefou&lt;/p&gt;&lt;p&gt;CursoUnity&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/63152500?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 11:04&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Mademoisellefou/CursoUnity</guid>
+      <pubDate>Fri, 05 Feb 2021 11:04:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>qobuz-dl</title>
+      <link>https://github.com/vitiko98/qobuz-dl</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/vitiko98"&gt;vitiko98&lt;/p&gt;&lt;p&gt;The complete Lossless and Hi-Res music downloader for Qobuz&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/59455966?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 10:27&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/vitiko98/qobuz-dl</guid>
+      <pubDate>Fri, 05 Feb 2021 10:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PVT</title>
+      <link>https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA"&gt;MUTUAL-DE-SERVICIOS-AL-POLICIA&lt;/p&gt;&lt;p&gt;Plataforma Virtual de Trámites&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/42221638?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 10:17&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT</guid>
+      <pubDate>Fri, 05 Feb 2021 10:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JuanJoseMirandaM</title>
+      <link>https://github.com/JuanJoseMirandaM/JuanJoseMirandaM</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/JuanJoseMirandaM"&gt;JuanJoseMirandaM&lt;/p&gt;&lt;p&gt;My GitHub Profile&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/39716343?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 10:02&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/JuanJoseMirandaM/JuanJoseMirandaM</guid>
+      <pubDate>Fri, 05 Feb 2021 10:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>vanillajs-maze</title>
+      <link>https://github.com/borissoto/vanillajs-maze</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/borissoto"&gt;borissoto&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7810247?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 06:48&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/borissoto/vanillajs-maze</guid>
+      <pubDate>Fri, 05 Feb 2021 06:48:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>python-django</title>
+      <link>https://github.com/alejandrozeb/python-django</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alejandrozeb"&gt;alejandrozeb&lt;/p&gt;&lt;p&gt;Apuntes del curso&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/50850784?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 05:55&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/alejandrozeb/python-django</guid>
+      <pubDate>Fri, 05 Feb 2021 05:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>gatsby-portafolio</title>
+      <link>https://github.com/tomas-vasquez/gatsby-portafolio</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/tomas-vasquez"&gt;tomas-vasquez&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/62443612?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 04:53&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/tomas-vasquez/gatsby-portafolio</guid>
+      <pubDate>Fri, 05 Feb 2021 04:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>dotfiles</title>
+      <link>https://github.com/carakan/dotfiles</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/carakan"&gt;carakan&lt;/p&gt;&lt;p&gt;dotfiles across my multiples computers&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/6695?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 04:42&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/carakan/dotfiles</guid>
+      <pubDate>Fri, 05 Feb 2021 04:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>react_wikimovies</title>
+      <link>https://github.com/alexanderJPV/react_wikimovies</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alexanderJPV"&gt;alexanderJPV&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/6625724?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 04:15&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/alexanderJPV/react_wikimovies</guid>
+      <pubDate>Fri, 05 Feb 2021 04:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>lizarragadev</title>
+      <link>https://github.com/lizarragadev/lizarragadev</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/lizarragadev"&gt;lizarragadev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1924390?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 03:31&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/lizarragadev/lizarragadev</guid>
+      <pubDate>Fri, 05 Feb 2021 03:31:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>chat-websockets</title>
+      <link>https://github.com/jecs580/chat-websockets</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jecs580"&gt;jecs580&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/36284419?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 03:16&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jecs580/chat-websockets</guid>
+      <pubDate>Fri, 05 Feb 2021 03:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>laravel-ventas</title>
+      <link>https://github.com/cchura94/laravel-ventas</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cchura94"&gt;cchura94&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/15663327?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 02:44&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cchura94/laravel-ventas</guid>
+      <pubDate>Fri, 05 Feb 2021 02:44:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>l-10000-dev</title>
+      <link>https://github.com/kapit4n/l-10000-dev</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt;&lt;p&gt;Workout programming, 100 lines daily&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 02:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/l-10000-dev</guid>
+      <pubDate>Fri, 05 Feb 2021 02:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>sistema-becarios</title>
+      <link>https://github.com/arceus6666/sistema-becarios</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/arceus6666"&gt;arceus6666&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/38559541?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 02:00&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/arceus6666/sistema-becarios</guid>
+      <pubDate>Fri, 05 Feb 2021 02:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>jorge-llanque</title>
+      <link>https://github.com/jorge-llanque/jorge-llanque</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jorge-llanque"&gt;jorge-llanque&lt;/p&gt;&lt;p&gt;My personal repository&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/36458315?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 01:43&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jorge-llanque/jorge-llanque</guid>
+      <pubDate>Fri, 05 Feb 2021 01:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>letras</title>
+      <link>https://github.com/DarkAstaroth/letras</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/DarkAstaroth"&gt;DarkAstaroth&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/35034650?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 01:14&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/DarkAstaroth/letras</guid>
+      <pubDate>Fri, 05 Feb 2021 01:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>platzi-profesional-javascript</title>
+      <link>https://github.com/mabalderramav/platzi-profesional-javascript</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mabalderramav"&gt;mabalderramav&lt;/p&gt;&lt;p&gt;Learning with platzi how to be a professional at JavaScript&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7308841?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 01:10&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mabalderramav/platzi-profesional-javascript</guid>
+      <pubDate>Fri, 05 Feb 2021 01:10:00 +0000</pubDate>
+    </item>
     <item>
       <title>puromelamina</title>
       <link>https://github.com/jlarteagap/puromelamina</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/jlarteagap"&gt;jlarteagap&lt;/p&gt;&lt;p&gt;Blog on Gatsby Js&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/64978772?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 23:48&lt;/p&gt;</description>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jlarteagap"&gt;jlarteagap&lt;/p&gt;&lt;p&gt;Blog on Gatsby Js&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/64978772?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 00:51&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/jlarteagap/puromelamina</guid>
-      <pubDate>Thu, 04 Feb 2021 23:48:00 +0000</pubDate>
+      <pubDate>Fri, 05 Feb 2021 00:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>demo-frontend-sis257</title>
+      <link>https://github.com/enevaca/demo-frontend-sis257</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/enevaca"&gt;enevaca&lt;/p&gt;&lt;p&gt;Vue js + Axios + Heroku&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/12105692?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 00:27&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/enevaca/demo-frontend-sis257</guid>
+      <pubDate>Fri, 05 Feb 2021 00:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>demo-backend-sis257</title>
+      <link>https://github.com/enevaca/demo-backend-sis257</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/enevaca"&gt;enevaca&lt;/p&gt;&lt;p&gt;NodeJS + Express + JWT + MySQL&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/12105692?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 00:22&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/enevaca/demo-backend-sis257</guid>
+      <pubDate>Fri, 05 Feb 2021 00:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>coderadar</title>
+      <link>https://github.com/mauforonda/coderadar</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Monitor github within a location&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 05, 2021 at 00:05&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/coderadar</guid>
+      <pubDate>Fri, 05 Feb 2021 00:05:00 +0000</pubDate>
     </item>
     <item>
       <title>TecWeb-1-2021</title>
@@ -27,62 +391,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/jasbel"&gt;jasbel&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/38922692?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 23:33&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/jasbel/node-mysql-typescript</guid>
       <pubDate>Thu, 04 Feb 2021 23:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>mi-ranchito</title>
-      <link>https://github.com/raulzarzadev/mi-ranchito</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/raulzarzadev"&gt;raulzarzadev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/46048980?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 23:19&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/raulzarzadev/mi-ranchito</guid>
-      <pubDate>Thu, 04 Feb 2021 23:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>qobuz-dl</title>
-      <link>https://github.com/vitiko98/qobuz-dl</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/vitiko98"&gt;vitiko98&lt;/p&gt;&lt;p&gt;The complete Lossless and Hi-Res music downloader for Qobuz&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/59455966?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 23:09&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/vitiko98/qobuz-dl</guid>
-      <pubDate>Thu, 04 Feb 2021 23:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>letras</title>
-      <link>https://github.com/DarkAstaroth/letras</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/DarkAstaroth"&gt;DarkAstaroth&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/35034650?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 22:49&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/DarkAstaroth/letras</guid>
-      <pubDate>Thu, 04 Feb 2021 22:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>react_wikimovies</title>
-      <link>https://github.com/alexanderJPV/react_wikimovies</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/alexanderJPV"&gt;alexanderJPV&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/6625724?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 22:36&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/alexanderJPV/react_wikimovies</guid>
-      <pubDate>Thu, 04 Feb 2021 22:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>appxiadmin</title>
-      <link>https://github.com/loginweb-dev/appxiadmin</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/loginweb-dev"&gt;loginweb-dev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/45406884?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 22:19&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/loginweb-dev/appxiadmin</guid>
-      <pubDate>Thu, 04 Feb 2021 22:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>transitabilidad-bolivia</title>
-      <link>https://github.com/mauforonda/transitabilidad-bolivia</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Datos históricos de transitabilidad en carreteras de Bolivia&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 22:14&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/transitabilidad-bolivia</guid>
-      <pubDate>Thu, 04 Feb 2021 22:14:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>3.5-Months-of-Bertelsmann-Scholarship-Data-Track</title>
-      <link>https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/susyjam"&gt;susyjam&lt;/p&gt;&lt;p&gt;My advance in the Technology Scholarships Introduction to Problem Solving with Advanced Analytics Challenge Course. By Bertelsmann&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7839719?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 21:33&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/susyjam/3.5-Months-of-Bertelsmann-Scholarship-Data-Track</guid>
-      <pubDate>Thu, 04 Feb 2021 21:33:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Principios-Solid</title>
-      <link>https://github.com/xandyx2014/Principios-Solid</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/xandyx2014"&gt;xandyx2014&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/24982392?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 21:25&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/xandyx2014/Principios-Solid</guid>
-      <pubDate>Thu, 04 Feb 2021 21:25:00 +0000</pubDate>
     </item>
     <item>
       <title>node-generate-pdf-puppeteer</title>
@@ -113,48 +421,6 @@
       <pubDate>Thu, 04 Feb 2021 19:07:00 +0000</pubDate>
     </item>
     <item>
-      <title>covid19bolivia-municipal</title>
-      <link>https://github.com/mauforonda/covid19bolivia-municipal</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 18:26&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/covid19bolivia-municipal</guid>
-      <pubDate>Thu, 04 Feb 2021 18:26:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>kinobot</title>
-      <link>https://github.com/vitiko98/kinobot</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/vitiko98"&gt;vitiko98&lt;/p&gt;&lt;p&gt;Facebook bot for cinephiles&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/59455966?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 17:20&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/vitiko98/kinobot</guid>
-      <pubDate>Thu, 04 Feb 2021 17:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PVT</title>
-      <link>https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA"&gt;MUTUAL-DE-SERVICIOS-AL-POLICIA&lt;/p&gt;&lt;p&gt;Plataforma Virtual de Trámites&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/42221638?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 16:52&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/MUTUAL-DE-SERVICIOS-AL-POLICIA/PVT</guid>
-      <pubDate>Thu, 04 Feb 2021 16:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>hackerearth</title>
-      <link>https://github.com/skyfall947/hackerearth</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/skyfall947"&gt;skyfall947&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/33062530?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 16:09&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/skyfall947/hackerearth</guid>
-      <pubDate>Thu, 04 Feb 2021 16:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AgendaContactos</title>
-      <link>https://github.com/andrescastromamani/AgendaContactos</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/andrescastromamani"&gt;andrescastromamani&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/40498384?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 15:59&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/andrescastromamani/AgendaContactos</guid>
-      <pubDate>Thu, 04 Feb 2021 15:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>asap_challenge_cubit</title>
-      <link>https://github.com/marcoleonardini/asap_challenge_cubit</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/marcoleonardini"&gt;marcoleonardini&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/2449572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 15:29&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/marcoleonardini/asap_challenge_cubit</guid>
-      <pubDate>Thu, 04 Feb 2021 15:29:00 +0000</pubDate>
-    </item>
-    <item>
       <title>PullRequests</title>
       <link>https://github.com/terranigmark/PullRequests</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/terranigmark"&gt;terranigmark&lt;/p&gt;&lt;p&gt;Repository used for the GitHub Pull Requests from Start to Finish course at Pluralsight&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/21066556?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 15:23&lt;/p&gt;</description>
@@ -162,32 +428,11 @@
       <pubDate>Thu, 04 Feb 2021 15:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>covid19-lapaz</title>
-      <link>https://github.com/mauforonda/covid19-lapaz</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Casos de covid-19 por zona en el Municipio de La Paz, Bolivia&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 15:14&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/covid19-lapaz</guid>
-      <pubDate>Thu, 04 Feb 2021 15:14:00 +0000</pubDate>
-    </item>
-    <item>
       <title>sis_obingresos</title>
       <link>https://github.com/boabo/sis_obingresos</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/boabo"&gt;boabo&lt;/p&gt;&lt;p&gt;Sistema de Ingresos&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/8247954?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 15:09&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/boabo/sis_obingresos</guid>
       <pubDate>Thu, 04 Feb 2021 15:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AngularSpringJavaFullStack</title>
-      <link>https://github.com/VictorCruzGo/AngularSpringJavaFullStack</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/VictorCruzGo"&gt;VictorCruzGo&lt;/p&gt;&lt;p&gt;Angular y Spring Java FullStack:-Angular (frontend)-Spring Framework  + JPA (backend)-Angular + Spring + JPA + Restful-Manejo de componentes, directivas, rutas, pipes y servicios de una aplicación Angular-Manejo Spring Security OAuth2 y JWT (autenticación y autorización basada en token)-Paginación de resultado con Angular y Spring-Cargado de archivos con angular-Despliegue del backend Spring en la nube con Heroku-Despliegue del frontend Angular en la nube con Google Firebase-Despliegue backend en producción localmente con Apache Tomcat embebido-Despliegue del frontend Angular en producción localmente con Apache(httpd) y con Node JS y Express-Chat en tiempo real con Socket y MongoDB-Integracion MongoDB en Spring&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/11742782?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 14:32&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/VictorCruzGo/AngularSpringJavaFullStack</guid>
-      <pubDate>Thu, 04 Feb 2021 14:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>covid19-bolivia-udape</title>
-      <link>https://github.com/mauforonda/covid19-bolivia-udape</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Datos de casos diarios de covid-19 por departamento en Bolivia, publicados por UDAPE y transcritos diariamente&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 14:20&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/covid19-bolivia-udape</guid>
-      <pubDate>Thu, 04 Feb 2021 14:20:00 +0000</pubDate>
     </item>
     <item>
       <title>hook-app</title>
@@ -211,13 +456,6 @@
       <pubDate>Thu, 04 Feb 2021 12:22:00 +0000</pubDate>
     </item>
     <item>
-      <title>JuanJoseMirandaM</title>
-      <link>https://github.com/JuanJoseMirandaM/JuanJoseMirandaM</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/JuanJoseMirandaM"&gt;JuanJoseMirandaM&lt;/p&gt;&lt;p&gt;My GitHub Profile&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/39716343?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 10:12&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/JuanJoseMirandaM/JuanJoseMirandaM</guid>
-      <pubDate>Thu, 04 Feb 2021 10:12:00 +0000</pubDate>
-    </item>
-    <item>
       <title>psony</title>
       <link>https://github.com/leenorshn/psony</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/leenorshn"&gt;leenorshn&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/22787897?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 08:58&lt;/p&gt;</description>
@@ -232,11 +470,11 @@
       <pubDate>Thu, 04 Feb 2021 07:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>python-django</title>
-      <link>https://github.com/alejandrozeb/python-django</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/alejandrozeb"&gt;alejandrozeb&lt;/p&gt;&lt;p&gt;Apuntes del curso&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/50850784?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 06:07&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/alejandrozeb/python-django</guid>
-      <pubDate>Thu, 04 Feb 2021 06:07:00 +0000</pubDate>
+      <title>playing-with-ansible</title>
+      <link>https://github.com/prmiguel/playing-with-ansible</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/prmiguel"&gt;prmiguel&lt;/p&gt;&lt;p&gt;Playing with Ansible&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/25396267?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 06:31&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/prmiguel/playing-with-ansible</guid>
+      <pubDate>Thu, 04 Feb 2021 06:31:00 +0000</pubDate>
     </item>
     <item>
       <title>react-redux-firebase-graphql-ecommerce</title>
@@ -246,6 +484,13 @@
       <pubDate>Thu, 04 Feb 2021 05:01:00 +0000</pubDate>
     </item>
     <item>
+      <title>curso-definitivo-html-css-platzi</title>
+      <link>https://github.com/terranigmark/curso-definitivo-html-css-platzi</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/terranigmark"&gt;terranigmark&lt;/p&gt;&lt;p&gt;Repositorio usado para tomar el Curso Definitivo de HTML y CSS en Platzi&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/21066556?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 04:52&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/terranigmark/curso-definitivo-html-css-platzi</guid>
+      <pubDate>Thu, 04 Feb 2021 04:52:00 +0000</pubDate>
+    </item>
+    <item>
       <title>pilasincos</title>
       <link>https://github.com/raulvp/pilasincos</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/raulvp"&gt;raulvp&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/826443?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 04:45&lt;/p&gt;</description>
@@ -253,32 +498,11 @@
       <pubDate>Thu, 04 Feb 2021 04:45:00 +0000</pubDate>
     </item>
     <item>
-      <title>chat-websockets</title>
-      <link>https://github.com/jecs580/chat-websockets</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/jecs580"&gt;jecs580&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/36284419?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 04:06&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/jecs580/chat-websockets</guid>
-      <pubDate>Thu, 04 Feb 2021 04:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>social-network-BE</title>
-      <link>https://github.com/ctola91/social-network-BE</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/ctola91"&gt;ctola91&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/9135312?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 03:34&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/ctola91/social-network-BE</guid>
-      <pubDate>Thu, 04 Feb 2021 03:34:00 +0000</pubDate>
-    </item>
-    <item>
       <title>dynamic-workflow-serve</title>
       <link>https://github.com/jroge-uagrm/dynamic-workflow-serve</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/jroge-uagrm"&gt;jroge-uagrm&lt;/p&gt;&lt;p&gt;UAGRM - Taller de Grado - Workflow dinámico - server&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/59352166?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 02:36&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/jroge-uagrm/dynamic-workflow-serve</guid>
       <pubDate>Thu, 04 Feb 2021 02:36:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>laravel-ventas</title>
-      <link>https://github.com/cchura94/laravel-ventas</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/cchura94"&gt;cchura94&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/15663327?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 02:31&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/cchura94/laravel-ventas</guid>
-      <pubDate>Thu, 04 Feb 2021 02:31:00 +0000</pubDate>
     </item>
     <item>
       <title>dev-ops-notes</title>
@@ -316,13 +540,6 @@
       <pubDate>Thu, 04 Feb 2021 00:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>coderadar</title>
-      <link>https://github.com/mauforonda/coderadar</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Monitor github within a location&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 04, 2021 at 00:05&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/coderadar</guid>
-      <pubDate>Thu, 04 Feb 2021 00:05:00 +0000</pubDate>
-    </item>
-    <item>
       <title>analuciamialcaldesa</title>
       <link>https://github.com/Ajerhy/analuciamialcaldesa</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Ajerhy"&gt;Ajerhy&lt;/p&gt;&lt;p&gt;Plataforma Ana Alcaldesa Conteo Rapido&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/34432038?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 23:52&lt;/p&gt;</description>
@@ -344,25 +561,11 @@
       <pubDate>Wed, 03 Feb 2021 23:15:00 +0000</pubDate>
     </item>
     <item>
-      <title>proyecto-sis257</title>
-      <link>https://github.com/enevaca/proyecto-sis257</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/enevaca"&gt;enevaca&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/12105692?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 22:59&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/enevaca/proyecto-sis257</guid>
-      <pubDate>Wed, 03 Feb 2021 22:59:00 +0000</pubDate>
-    </item>
-    <item>
       <title>merchandising</title>
       <link>https://github.com/RemLiquit/merchandising</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/RemLiquit"&gt;RemLiquit&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/56600012?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 21:30&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/RemLiquit/merchandising</guid>
       <pubDate>Wed, 03 Feb 2021 21:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>store-nextjs</title>
-      <link>https://github.com/tomas-vasquez/store-nextjs</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/tomas-vasquez"&gt;tomas-vasquez&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/62443612?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 20:22&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/tomas-vasquez/store-nextjs</guid>
-      <pubDate>Wed, 03 Feb 2021 20:22:00 +0000</pubDate>
     </item>
     <item>
       <title>Phyton-web-3.9</title>
@@ -435,13 +638,6 @@
       <pubDate>Wed, 03 Feb 2021 15:43:00 +0000</pubDate>
     </item>
     <item>
-      <title>gatsby-portafolio</title>
-      <link>https://github.com/tomas-vasquez/gatsby-portafolio</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/tomas-vasquez"&gt;tomas-vasquez&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/62443612?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 15:43&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/tomas-vasquez/gatsby-portafolio</guid>
-      <pubDate>Wed, 03 Feb 2021 15:43:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SIS457-02-2020</title>
       <link>https://github.com/toitolucho/SIS457-02-2020</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/toitolucho"&gt;toitolucho&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1872880?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 14:59&lt;/p&gt;</description>
@@ -468,13 +664,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/rafalopezv"&gt;rafalopezv&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/17109075?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 14:17&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/rafalopezv/vaccines</guid>
       <pubDate>Wed, 03 Feb 2021 14:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>andyibanez.github.io</title>
-      <link>https://github.com/AndyIbanez/andyibanez.github.io</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/AndyIbanez"&gt;AndyIbanez&lt;/p&gt;&lt;p&gt;Published static site&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/892112?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 14:06&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/AndyIbanez/andyibanez.github.io</guid>
-      <pubDate>Wed, 03 Feb 2021 14:06:00 +0000</pubDate>
     </item>
     <item>
       <title>sis211-02-2020</title>
@@ -603,25 +792,11 @@
       <pubDate>Wed, 03 Feb 2021 02:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>sistema-becarios</title>
-      <link>https://github.com/arceus6666/sistema-becarios</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/arceus6666"&gt;arceus6666&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/38559541?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 01:57&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/arceus6666/sistema-becarios</guid>
-      <pubDate>Wed, 03 Feb 2021 01:57:00 +0000</pubDate>
-    </item>
-    <item>
       <title>JuanElements</title>
       <link>https://github.com/JuanElements/JuanElements</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/JuanElements"&gt;JuanElements&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/15148088?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 01:46&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/JuanElements/JuanElements</guid>
       <pubDate>Wed, 03 Feb 2021 01:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>jorge-llanque</title>
-      <link>https://github.com/jorge-llanque/jorge-llanque</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/jorge-llanque"&gt;jorge-llanque&lt;/p&gt;&lt;p&gt;My personal repository&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/36458315?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 03, 2021 at 01:35&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/jorge-llanque/jorge-llanque</guid>
-      <pubDate>Wed, 03 Feb 2021 01:35:00 +0000</pubDate>
     </item>
     <item>
       <title>VisionComputadorOpenCV</title>
@@ -708,13 +883,6 @@
       <pubDate>Tue, 02 Feb 2021 18:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>rest-node</title>
-      <link>https://github.com/matcop/rest-node</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/matcop"&gt;matcop&lt;/p&gt;&lt;p&gt;REST en node&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/20216771?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 02, 2021 at 17:30&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/matcop/rest-node</guid>
-      <pubDate>Tue, 02 Feb 2021 17:30:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ecofuturo</title>
       <link>https://github.com/valentramos/ecofuturo</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/valentramos"&gt;valentramos&lt;/p&gt;&lt;p&gt;despliegue a pre produccion&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/21225234?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 02, 2021 at 16:42&lt;/p&gt;</description>
@@ -743,6 +911,13 @@
       <pubDate>Tue, 02 Feb 2021 14:57:00 +0000</pubDate>
     </item>
     <item>
+      <title>DEND-CapstoneProject</title>
+      <link>https://github.com/GooseCoder/DEND-CapstoneProject</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/GooseCoder"&gt;GooseCoder&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/356675?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 02, 2021 at 14:35&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/GooseCoder/DEND-CapstoneProject</guid>
+      <pubDate>Tue, 02 Feb 2021 14:35:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Problem-Solving</title>
       <link>https://github.com/hassan0shaban/Problem-Solving</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/hassan0shaban"&gt;hassan0shaban&lt;/p&gt;&lt;p&gt;My solutions for specific problems in Codeforces, hackerrank, hackerearth and UVa Online Judge.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/61611892?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 02, 2021 at 06:31&lt;/p&gt;</description>
@@ -762,13 +937,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Mademoisellefou"&gt;Mademoisellefou&lt;/p&gt;&lt;p&gt;EXERCISES&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/63152500?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 02, 2021 at 05:22&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Mademoisellefou/Solved_Problems</guid>
       <pubDate>Tue, 02 Feb 2021 05:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>vanillajs-maze</title>
-      <link>https://github.com/borissoto/vanillajs-maze</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/borissoto"&gt;borissoto&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7810247?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 02, 2021 at 04:30&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/borissoto/vanillajs-maze</guid>
-      <pubDate>Tue, 02 Feb 2021 04:30:00 +0000</pubDate>
     </item>
     <item>
       <title>evilcat</title>
@@ -792,25 +960,11 @@
       <pubDate>Tue, 02 Feb 2021 02:44:00 +0000</pubDate>
     </item>
     <item>
-      <title>SistemaParroquia</title>
-      <link>https://github.com/JohnnHidalgo/SistemaParroquia</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/JohnnHidalgo"&gt;JohnnHidalgo&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/31965496?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 02, 2021 at 01:11&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/JohnnHidalgo/SistemaParroquia</guid>
-      <pubDate>Tue, 02 Feb 2021 01:11:00 +0000</pubDate>
-    </item>
-    <item>
       <title>orders_two_approve</title>
       <link>https://github.com/Renatov/orders_two_approve</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Renatov"&gt;Renatov&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1545994?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 02, 2021 at 01:10&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Renatov/orders_two_approve</guid>
       <pubDate>Tue, 02 Feb 2021 01:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>myflix</title>
-      <link>https://github.com/eaguirre1120/myflix</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/eaguirre1120"&gt;eaguirre1120&lt;/p&gt;&lt;p&gt;App creada para el programa de Architect Coders&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/47926093?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 02, 2021 at 01:04&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/eaguirre1120/myflix</guid>
-      <pubDate>Tue, 02 Feb 2021 01:04:00 +0000</pubDate>
     </item>
     <item>
       <title>raulzarza</title>
@@ -846,13 +1000,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/loginweb-dev"&gt;loginweb-dev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/45406884?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 01, 2021 at 20:52&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/loginweb-dev/medicweb</guid>
       <pubDate>Mon, 01 Feb 2021 20:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DrupalDeveloper</title>
-      <link>https://github.com/vacho/DrupalDeveloper</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/vacho"&gt;vacho&lt;/p&gt;&lt;p&gt;Contiene los conocimientos básicos que debe tener un dev para trabajar en desarrollo web sobre drupal&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/3926391?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated February 01, 2021 at 20:50&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/vacho/DrupalDeveloper</guid>
-      <pubDate>Mon, 01 Feb 2021 20:50:00 +0000</pubDate>
     </item>
     <item>
       <title>remoters</title>
@@ -1126,90 +1273,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Fabbiologia"&gt;Fabbiologia&lt;/p&gt;&lt;p&gt;Code for the paper "Social Network Validation to map diving sites values in Mexico"&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/13567334?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 31, 2021 at 00:46&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Fabbiologia/SocialNetworkValidation</guid>
       <pubDate>Sun, 31 Jan 2021 00:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>practica-flexbox-css-grid</title>
-      <link>https://github.com/moonhuntercode/practica-flexbox-css-grid</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/moonhuntercode"&gt;moonhuntercode&lt;/p&gt;&lt;p&gt;practicando flexbox-css grid&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/53928868?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 23:47&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/moonhuntercode/practica-flexbox-css-grid</guid>
-      <pubDate>Sat, 30 Jan 2021 23:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DSND-optimizing-public-transportation</title>
-      <link>https://github.com/GooseCoder/DSND-optimizing-public-transportation</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/GooseCoder"&gt;GooseCoder&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/356675?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 21:42&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/GooseCoder/DSND-optimizing-public-transportation</guid>
-      <pubDate>Sat, 30 Jan 2021 21:42:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>libredu</title>
-      <link>https://github.com/marcelo170690/libredu</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/marcelo170690"&gt;marcelo170690&lt;/p&gt;&lt;p&gt;Biblioteca para cccbbbnnn&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/29951871?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 20:53&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/marcelo170690/libredu</guid>
-      <pubDate>Sat, 30 Jan 2021 20:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where_Is_My_Cheese_VideoGame</title>
-      <link>https://github.com/Mademoisellefou/Where_Is_My_Cheese_VideoGame</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Mademoisellefou"&gt;Mademoisellefou&lt;/p&gt;&lt;p&gt;(scripts)they implement good practices&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/63152500?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 19:49&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Mademoisellefou/Where_Is_My_Cheese_VideoGame</guid>
-      <pubDate>Sat, 30 Jan 2021 19:49:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Where_Is_My_Cheese</title>
-      <link>https://github.com/Mademoisellefou/Where_Is_My_Cheese</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Mademoisellefou"&gt;Mademoisellefou&lt;/p&gt;&lt;p&gt;(my1gamefor2021)the scripts are rigths good practices&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/63152500?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 19:43&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Mademoisellefou/Where_Is_My_Cheese</guid>
-      <pubDate>Sat, 30 Jan 2021 19:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>radio-internet</title>
-      <link>https://github.com/johngnu/radio-internet</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/johngnu"&gt;johngnu&lt;/p&gt;&lt;p&gt;A litle project with shoucast in linux and winamp windows application&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/5383167?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 06:18&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/johngnu/radio-internet</guid>
-      <pubDate>Sat, 30 Jan 2021 06:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>goty-backend</title>
-      <link>https://github.com/jecs580/goty-backend</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/jecs580"&gt;jecs580&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/36284419?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 03:46&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/jecs580/goty-backend</guid>
-      <pubDate>Sat, 30 Jan 2021 03:46:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>prose-test</title>
-      <link>https://github.com/IrvingArmenta/prose-test</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/IrvingArmenta"&gt;IrvingArmenta&lt;/p&gt;&lt;p&gt;testing prose cms&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/20631137?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 03:23&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/IrvingArmenta/prose-test</guid>
-      <pubDate>Sat, 30 Jan 2021 03:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>emercadogarcia.github.io</title>
-      <link>https://github.com/emercadogarcia/emercadogarcia.github.io</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/emercadogarcia"&gt;emercadogarcia&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/32363166?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 01:11&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/emercadogarcia/emercadogarcia.github.io</guid>
-      <pubDate>Sat, 30 Jan 2021 01:11:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ionic2021</title>
-      <link>https://github.com/uvillazon/ionic2021</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/uvillazon"&gt;uvillazon&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1538092?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 01:10&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/uvillazon/ionic2021</guid>
-      <pubDate>Sat, 30 Jan 2021 01:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>project-one</title>
-      <link>https://github.com/kapit4n/project-one</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt;&lt;p&gt;full stack application to register tasks in progress .Angular, python, django, task register.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 00:28&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/kapit4n/project-one</guid>
-      <pubDate>Sat, 30 Jan 2021 00:28:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>platzi-profesional-javascript</title>
-      <link>https://github.com/mabalderramav/platzi-profesional-javascript</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mabalderramav"&gt;mabalderramav&lt;/p&gt;&lt;p&gt;Learning with platzi how to be a professional at JavaScript&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7308841?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 30, 2021 at 00:04&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mabalderramav/platzi-profesional-javascript</guid>
-      <pubDate>Sat, 30 Jan 2021 00:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
