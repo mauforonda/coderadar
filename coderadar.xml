@@ -6,13 +6,146 @@
     <description>Code Radar</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 15 Jan 2022 00:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jan 2022 00:05:17 +0000</lastBuildDate>
+    <item>
+      <title>Generador-Css</title>
+      <link>https://github.com/Zelechos/Generador-Css</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Zelechos"&gt;Zelechos&lt;/p&gt;&lt;p&gt;Es un Modelo de Inteligencia Artificial dedicado para generar estilos CSS en base a un archivo HTML este modelo es creado como proyecto para la Materia de IA 3 Desarrollo de Aplicaciones Inteligentes&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/41464891?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 23:57&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Zelechos/Generador-Css</guid>
+      <pubDate>Sat, 15 Jan 2022 23:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ecommerce_admin</title>
+      <link>https://github.com/ayahosnym/ecommerce_admin</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/ayahosnym"&gt;ayahosnym&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/43790528?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 23:22&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/ayahosnym/ecommerce_admin</guid>
+      <pubDate>Sat, 15 Jan 2022 23:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>cvresumen</title>
+      <link>https://github.com/enrique159/cvresumen</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/enrique159"&gt;enrique159&lt;/p&gt;&lt;p&gt;My CV resumen&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16583689?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 22:52&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/enrique159/cvresumen</guid>
+      <pubDate>Sat, 15 Jan 2022 22:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>web-api-autores</title>
+      <link>https://github.com/lgramirez/web-api-autores</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/lgramirez"&gt;lgramirez&lt;/p&gt;&lt;p&gt;Web API desarrollada con .NET Core 6&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/19524943?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 21:20&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/lgramirez/web-api-autores</guid>
+      <pubDate>Sat, 15 Jan 2022 21:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>node-graphql-apollo-basic</title>
+      <link>https://github.com/Sergio-Al/node-graphql-apollo-basic</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Sergio-Al"&gt;Sergio-Al&lt;/p&gt;&lt;p&gt;A basic apollo client in nodejs with Typescript Mutations and Queries&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54541807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 20:13&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Sergio-Al/node-graphql-apollo-basic</guid>
+      <pubDate>Sat, 15 Jan 2022 20:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>node-typescript-boilerplate</title>
+      <link>https://github.com/Sergio-Al/node-typescript-boilerplate</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Sergio-Al"&gt;Sergio-Al&lt;/p&gt;&lt;p&gt;Boilerplate code for node with typescript&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54541807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 20:13&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Sergio-Al/node-typescript-boilerplate</guid>
+      <pubDate>Sat, 15 Jan 2022 20:13:00 +0000</pubDate>
+    </item>
     <item>
       <title>react-apollo-github</title>
       <link>https://github.com/Sergio-Al/react-apollo-github</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Sergio-Al"&gt;Sergio-Al&lt;/p&gt;&lt;p&gt;A react app using github graphql api with apollo client&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54541807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 23:53&lt;/p&gt;</description>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Sergio-Al"&gt;Sergio-Al&lt;/p&gt;&lt;p&gt;A react app using github graphql api with apollo client&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54541807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 20:09&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Sergio-Al/react-apollo-github</guid>
-      <pubDate>Fri, 14 Jan 2022 23:53:00 +0000</pubDate>
+      <pubDate>Sat, 15 Jan 2022 20:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pages-test</title>
+      <link>https://github.com/alvarohurtadobo/pages-test</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alvarohurtadobo"&gt;alvarohurtadobo&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/5840011?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 19:32&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/alvarohurtadobo/pages-test</guid>
+      <pubDate>Sat, 15 Jan 2022 19:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>my-txts</title>
+      <link>https://github.com/jcanaviri/my-txts</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jcanaviri"&gt;jcanaviri&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/31946002?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 19:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jcanaviri/my-txts</guid>
+      <pubDate>Sat, 15 Jan 2022 19:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>D.C.S.-Curso_Flask_Web_Python-Python-Flask</title>
+      <link>https://github.com/developer-community-sw/D.C.S.-Curso_Flask_Web_Python-Python-Flask</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/developer-community-sw"&gt;developer-community-sw&lt;/p&gt;&lt;p&gt;D.C.S | Curso Online: Codigo Facilito | Cursos: Curso de Flask - Codigo Facilito | Lenguaje: Flask Python | Micro Framework: Flask | Ide: VStudio Code&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/51020778?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 18:32&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/developer-community-sw/D.C.S.-Curso_Flask_Web_Python-Python-Flask</guid>
+      <pubDate>Sat, 15 Jan 2022 18:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>uploaded_backend</title>
+      <link>https://github.com/Fredvel123/uploaded_backend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Fredvel123"&gt;Fredvel123&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78813256?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 18:22&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Fredvel123/uploaded_backend</guid>
+      <pubDate>Sat, 15 Jan 2022 18:22:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>patientor-frontend</title>
+      <link>https://github.com/eddypv/patientor-frontend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/eddypv"&gt;eddypv&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/5325007?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 16:06&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/eddypv/patientor-frontend</guid>
+      <pubDate>Sat, 15 Jan 2022 16:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>timezone-issues</title>
+      <link>https://github.com/tecnocrata/timezone-issues</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/tecnocrata"&gt;tecnocrata&lt;/p&gt;&lt;p&gt;An experiment using Angular, Luxon, Momentjs and DotNetCore&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/709446?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 15:18&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/tecnocrata/timezone-issues</guid>
+      <pubDate>Sat, 15 Jan 2022 15:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>node-react-course</title>
+      <link>https://github.com/tecnocrata/node-react-course</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/tecnocrata"&gt;tecnocrata&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/709446?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 15:18&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/tecnocrata/node-react-course</guid>
+      <pubDate>Sat, 15 Jan 2022 15:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>UpTask-NodeJS</title>
+      <link>https://github.com/andrescastromamani/UpTask-NodeJS</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/andrescastromamani"&gt;andrescastromamani&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/40498384?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 12:24&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/andrescastromamani/UpTask-NodeJS</guid>
+      <pubDate>Sat, 15 Jan 2022 12:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>jest-training</title>
+      <link>https://github.com/wiltrouble/jest-training</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/wiltrouble"&gt;wiltrouble&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/23349549?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 10:19&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/wiltrouble/jest-training</guid>
+      <pubDate>Sat, 15 Jan 2022 10:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>next-example-tasks</title>
+      <link>https://github.com/josegoyo/next-example-tasks</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/josegoyo"&gt;josegoyo&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/8400079?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 06:55&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/josegoyo/next-example-tasks</guid>
+      <pubDate>Sat, 15 Jan 2022 06:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zelechos</title>
+      <link>https://github.com/Zelechos/Zelechos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Zelechos"&gt;Zelechos&lt;/p&gt;&lt;p&gt;Mi Portada de Perfil&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/41464891?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 02:42&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Zelechos/Zelechos</guid>
+      <pubDate>Sat, 15 Jan 2022 02:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>django-hello-world</title>
+      <link>https://github.com/reddytocode/django-hello-world</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/reddytocode"&gt;reddytocode&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/20909101?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 02:25&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/reddytocode/django-hello-world</guid>
+      <pubDate>Sat, 15 Jan 2022 02:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prueba-Tecnica</title>
+      <link>https://github.com/GottJagger/Prueba-Tecnica</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/GottJagger"&gt;GottJagger&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/61521547?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 01:22&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/GottJagger/Prueba-Tecnica</guid>
+      <pubDate>Sat, 15 Jan 2022 01:22:00 +0000</pubDate>
     </item>
     <item>
       <title>crud_laravel</title>
@@ -20,13 +153,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/JoseGonzalez-git"&gt;JoseGonzalez-git&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/70743629?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 23:50&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/JoseGonzalez-git/crud_laravel</guid>
       <pubDate>Fri, 14 Jan 2022 23:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>node-graphql-apollo-basic</title>
-      <link>https://github.com/Sergio-Al/node-graphql-apollo-basic</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Sergio-Al"&gt;Sergio-Al&lt;/p&gt;&lt;p&gt;A basic apollo client in nodejs with Typescript Mutations and Queries&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54541807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 23:36&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Sergio-Al/node-graphql-apollo-basic</guid>
-      <pubDate>Fri, 14 Jan 2022 23:36:00 +0000</pubDate>
     </item>
     <item>
       <title>estructuras-de-datos</title>
@@ -48,13 +174,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/LuisPerez10"&gt;LuisPerez10&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/33073738?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 20:51&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/LuisPerez10/webpagediagram</guid>
       <pubDate>Fri, 14 Jan 2022 20:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>node-typescript-boilerplate</title>
-      <link>https://github.com/Sergio-Al/node-typescript-boilerplate</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Sergio-Al"&gt;Sergio-Al&lt;/p&gt;&lt;p&gt;Boilerplate code for node with typescript&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54541807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 20:29&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Sergio-Al/node-typescript-boilerplate</guid>
-      <pubDate>Fri, 14 Jan 2022 20:29:00 +0000</pubDate>
     </item>
     <item>
       <title>graphql-react-github</title>
@@ -141,11 +260,11 @@
       <pubDate>Fri, 14 Jan 2022 11:49:00 +0000</pubDate>
     </item>
     <item>
-      <title>Clinic-API</title>
-      <link>https://github.com/OliverZulett/Clinic-API</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/OliverZulett"&gt;OliverZulett&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/61068158?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 04:04&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/OliverZulett/Clinic-API</guid>
-      <pubDate>Fri, 14 Jan 2022 04:04:00 +0000</pubDate>
+      <title>cr0wg4n</title>
+      <link>https://github.com/cr0wg4n/cr0wg4n</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cr0wg4n"&gt;cr0wg4n&lt;/p&gt;&lt;p&gt;my personal description&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/14966182?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 05:10&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cr0wg4n/cr0wg4n</guid>
+      <pubDate>Fri, 14 Jan 2022 05:10:00 +0000</pubDate>
     </item>
     <item>
       <title>heroes-app-fh</title>
@@ -274,13 +393,6 @@
       <pubDate>Thu, 13 Jan 2022 04:33:00 +0000</pubDate>
     </item>
     <item>
-      <title>Generador-Css</title>
-      <link>https://github.com/Zelechos/Generador-Css</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Zelechos"&gt;Zelechos&lt;/p&gt;&lt;p&gt;Es un Modelo de Inteligencia Artificial dedicado para generar estilos CSS en base a un archivo HTML este modelo es creado como proyecto para la Materia de IA 3 Desarrollo de Aplicaciones Inteligentes&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/41464891?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 13, 2022 at 03:29&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Zelechos/Generador-Css</guid>
-      <pubDate>Thu, 13 Jan 2022 03:29:00 +0000</pubDate>
-    </item>
-    <item>
       <title>owasp-juice-shop</title>
       <link>https://github.com/owenwilson/owasp-juice-shop</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/owenwilson"&gt;owenwilson&lt;/p&gt;&lt;p&gt;Docker compose oswasp juice shop&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/8469789?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 13, 2022 at 03:15&lt;/p&gt;</description>
@@ -293,6 +405,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/BassamRamadan2611"&gt;BassamRamadan2611&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78547180?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 13, 2022 at 01:53&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/BassamRamadan2611/Recipe-Book</guid>
       <pubDate>Thu, 13 Jan 2022 01:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>frontend_angular</title>
+      <link>https://github.com/cchura94/frontend_angular</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cchura94"&gt;cchura94&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/15663327?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 13, 2022 at 00:15&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cchura94/frontend_angular</guid>
+      <pubDate>Thu, 13 Jan 2022 00:15:00 +0000</pubDate>
     </item>
     <item>
       <title>frontendmentor---challenge-10</title>
@@ -463,6 +582,13 @@
       <pubDate>Tue, 11 Jan 2022 16:25:00 +0000</pubDate>
     </item>
     <item>
+      <title>python-helloworld</title>
+      <link>https://github.com/GooseCoder/python-helloworld</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/GooseCoder"&gt;GooseCoder&lt;/p&gt;&lt;p&gt;Python CI/CD test repository&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/356675?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 11, 2022 at 14:40&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/GooseCoder/python-helloworld</guid>
+      <pubDate>Tue, 11 Jan 2022 14:40:00 +0000</pubDate>
+    </item>
+    <item>
       <title>replicas</title>
       <link>https://github.com/rafalopezv/replicas</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/rafalopezv"&gt;rafalopezv&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/17109075?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 11, 2022 at 12:36&lt;/p&gt;</description>
@@ -580,13 +706,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/alphaonex86"&gt;alphaonex86&lt;/p&gt;&lt;p&gt;CatchChallenger is a MMORPG. JRPG + crafting + TvT + management game&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/778581?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 11, 2022 at 01:54&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/alphaonex86/CatchChallenger</guid>
       <pubDate>Tue, 11 Jan 2022 01:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>spotifu-client</title>
-      <link>https://github.com/devferx/spotifu-client</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/devferx"&gt;devferx&lt;/p&gt;&lt;p&gt;La Plataforma líder a nivel global en consumo de música bajo demanda, permite a miles de usuarios escuchar sus canciones favoritas, crear playlist personalizadas y ayudales a descubrir nuevas canciones.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/37563836?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 11, 2022 at 01:46&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/devferx/spotifu-client</guid>
-      <pubDate>Tue, 11 Jan 2022 01:46:00 +0000</pubDate>
     </item>
     <item>
       <title>mern-memories-app-client</title>
@@ -799,13 +918,6 @@
       <pubDate>Mon, 10 Jan 2022 16:28:00 +0000</pubDate>
     </item>
     <item>
-      <title>UpTask-NodeJS</title>
-      <link>https://github.com/andrescastromamani/UpTask-NodeJS</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/andrescastromamani"&gt;andrescastromamani&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/40498384?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 10, 2022 at 16:17&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/andrescastromamani/UpTask-NodeJS</guid>
-      <pubDate>Mon, 10 Jan 2022 16:17:00 +0000</pubDate>
-    </item>
-    <item>
       <title>titanic-exercise-java</title>
       <link>https://github.com/sergioKmoralesV/titanic-exercise-java</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/sergioKmoralesV"&gt;sergioKmoralesV&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7607553?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 10, 2022 at 15:53&lt;/p&gt;</description>
@@ -876,13 +988,6 @@
       <pubDate>Mon, 10 Jan 2022 04:41:00 +0000</pubDate>
     </item>
     <item>
-      <title>flufin</title>
-      <link>https://github.com/therhenals/flufin</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/therhenals"&gt;therhenals&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/30006248?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 10, 2022 at 04:24&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/therhenals/flufin</guid>
-      <pubDate>Mon, 10 Jan 2022 04:24:00 +0000</pubDate>
-    </item>
-    <item>
       <title>consumelonuestro</title>
       <link>https://github.com/mauforonda/consumelonuestro</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 10, 2022 at 04:17&lt;/p&gt;</description>
@@ -902,6 +1007,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/cr0wg4n"&gt;cr0wg4n&lt;/p&gt;&lt;p&gt;This is a funny repo of rust programming language&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/14966182?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 10, 2022 at 03:41&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/cr0wg4n/rust-by-examples</guid>
       <pubDate>Mon, 10 Jan 2022 03:41:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>lizarragadev</title>
+      <link>https://github.com/lizarragadev/lizarragadev</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/lizarragadev"&gt;lizarragadev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1924390?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 10, 2022 at 03:29&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/lizarragadev/lizarragadev</guid>
+      <pubDate>Mon, 10 Jan 2022 03:29:00 +0000</pubDate>
     </item>
     <item>
       <title>heroes_app</title>
@@ -946,13 +1058,6 @@
       <pubDate>Mon, 10 Jan 2022 00:59:00 +0000</pubDate>
     </item>
     <item>
-      <title>Servidor-proyecto-tesis</title>
-      <link>https://github.com/riquexkaton/Servidor-proyecto-tesis</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/riquexkaton"&gt;riquexkaton&lt;/p&gt;&lt;p&gt;Este es el servidor para la web inmobiliaria&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/76933290?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 22:51&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/riquexkaton/Servidor-proyecto-tesis</guid>
-      <pubDate>Sun, 09 Jan 2022 22:51:00 +0000</pubDate>
-    </item>
-    <item>
       <title>covid19-bolivia-udape</title>
       <link>https://github.com/mauforonda/covid19-bolivia-udape</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Datos de casos diarios de covid-19 por departamento en Bolivia, publicados por UDAPE y transcritos diariamente&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 22:22&lt;/p&gt;</description>
@@ -967,53 +1072,11 @@
       <pubDate>Sun, 09 Jan 2022 20:36:00 +0000</pubDate>
     </item>
     <item>
-      <title>django-docker-compose</title>
-      <link>https://github.com/libialany/django-docker-compose</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/libialany"&gt;libialany&lt;/p&gt;&lt;p&gt;Deploying Djano with Docker Compose&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/82403984?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 20:35&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/libialany/django-docker-compose</guid>
-      <pubDate>Sun, 09 Jan 2022 20:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>powerlifting-app</title>
-      <link>https://github.com/05K4R1N/powerlifting-app</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/05K4R1N"&gt;05K4R1N&lt;/p&gt;&lt;p&gt;Sistema para registro de marcas en cada uno de los ejercicios que forma parte de la disciplina.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/5255678?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 19:47&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/05K4R1N/powerlifting-app</guid>
-      <pubDate>Sun, 09 Jan 2022 19:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>productivity-tool-backend</title>
-      <link>https://github.com/reddytocode/productivity-tool-backend</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/reddytocode"&gt;reddytocode&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/20909101?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 18:23&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/reddytocode/productivity-tool-backend</guid>
-      <pubDate>Sun, 09 Jan 2022 18:23:00 +0000</pubDate>
-    </item>
-    <item>
       <title>csb-j4dyv</title>
       <link>https://github.com/dquintani/csb-j4dyv</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/dquintani"&gt;dquintani&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/70187566?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 18:09&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/dquintani/csb-j4dyv</guid>
       <pubDate>Sun, 09 Jan 2022 18:09:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AgendaCulturalEventsBackEnd</title>
-      <link>https://github.com/luisfernado28/AgendaCulturalEventsBackEnd</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/luisfernado28"&gt;luisfernado28&lt;/p&gt;&lt;p&gt;Proyecto de grado agenda cultural&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/23712020?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 15:48&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/luisfernado28/AgendaCulturalEventsBackEnd</guid>
-      <pubDate>Sun, 09 Jan 2022 15:48:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>tt</title>
-      <link>https://github.com/linuxer41/tt</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/linuxer41"&gt;linuxer41&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/46865205?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 14:07&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/linuxer41/tt</guid>
-      <pubDate>Sun, 09 Jan 2022 14:07:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>phantom</title>
-      <link>https://github.com/caleeli/phantom</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/caleeli"&gt;caleeli&lt;/p&gt;&lt;p&gt;Phantom Svelte Template&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/8028650?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 13:01&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/caleeli/phantom</guid>
-      <pubDate>Sun, 09 Jan 2022 13:01:00 +0000</pubDate>
     </item>
     <item>
       <title>nestJsEcommerce</title>
@@ -1023,20 +1086,6 @@
       <pubDate>Sun, 09 Jan 2022 11:24:00 +0000</pubDate>
     </item>
     <item>
-      <title>blade-components</title>
-      <link>https://github.com/josegus/blade-components</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/josegus"&gt;josegus&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/13947849?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 06:25&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/josegus/blade-components</guid>
-      <pubDate>Sun, 09 Jan 2022 06:25:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>risk-management</title>
-      <link>https://github.com/byUps/risk-management</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/byUps"&gt;byUps&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/25932297?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 05:57&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/byUps/risk-management</guid>
-      <pubDate>Sun, 09 Jan 2022 05:57:00 +0000</pubDate>
-    </item>
-    <item>
       <title>negocios-nextjs</title>
       <link>https://github.com/raulzarzadev/negocios-nextjs</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/raulzarzadev"&gt;raulzarzadev&lt;/p&gt;&lt;p&gt;negociosdelbarrio.com usando nextjs y firebase &lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/46048980?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 04:23&lt;/p&gt;</description>
@@ -1044,46 +1093,11 @@
       <pubDate>Sun, 09 Jan 2022 04:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>deadrabbits</title>
-      <link>https://github.com/mqJose/deadrabbits</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mqJose"&gt;mqJose&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1795243?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 04:00&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mqJose/deadrabbits</guid>
-      <pubDate>Sun, 09 Jan 2022 04:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>PragmaticMorphoide</title>
       <link>https://github.com/Zelechos/PragmaticMorphoide</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Zelechos"&gt;Zelechos&lt;/p&gt;&lt;p&gt;Morphoide It is a dynamic library open source that is easy to use and with good documentation that tries to achieve a more user-friendly experience when programming with the Java programming language.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/41464891?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 01:15&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Zelechos/PragmaticMorphoide</guid>
       <pubDate>Sun, 09 Jan 2022 01:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>proyecto_sintomasSoftware-main</title>
-      <link>https://github.com/Erick328/proyecto_sintomasSoftware-main</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Erick328"&gt;Erick328&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/48636143?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 09, 2022 at 00:54&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Erick328/proyecto_sintomasSoftware-main</guid>
-      <pubDate>Sun, 09 Jan 2022 00:54:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>rfq</title>
-      <link>https://github.com/raul93611/rfq</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/raul93611"&gt;raul93611&lt;/p&gt;&lt;p&gt;System to manage RFQ.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/27871832?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 08, 2022 at 22:00&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/raul93611/rfq</guid>
-      <pubDate>Sat, 08 Jan 2022 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>frontendaguasucurenia</title>
-      <link>https://github.com/DavidSalinasPoma/frontendaguasucurenia</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/DavidSalinasPoma"&gt;DavidSalinasPoma&lt;/p&gt;&lt;p&gt;Sistema de cobros de agua potable&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/38930982?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 08, 2022 at 16:43&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/DavidSalinasPoma/frontendaguasucurenia</guid>
-      <pubDate>Sat, 08 Jan 2022 16:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>react-go-users</title>
-      <link>https://github.com/kapit4n/react-go-users</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt;&lt;p&gt;golang(GIN)  and react &lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 08, 2022 at 14:05&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/kapit4n/react-go-users</guid>
-      <pubDate>Sat, 08 Jan 2022 14:05:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
