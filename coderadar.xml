@@ -6,7 +6,287 @@
     <description>Code Radar</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 21 Jan 2022 00:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jan 2022 00:05:24 +0000</lastBuildDate>
+    <item>
+      <title>crud-mongojs</title>
+      <link>https://github.com/aaron-fabricio-sc/crud-mongojs</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/aaron-fabricio-sc"&gt;aaron-fabricio-sc&lt;/p&gt;&lt;p&gt;Crud with mongodb and express&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54608661?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 23:59&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/aaron-fabricio-sc/crud-mongojs</guid>
+      <pubDate>Fri, 21 Jan 2022 23:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>unsplash_backend</title>
+      <link>https://github.com/Fredvel123/unsplash_backend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Fredvel123"&gt;Fredvel123&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78813256?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 23:12&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Fredvel123/unsplash_backend</guid>
+      <pubDate>Fri, 21 Jan 2022 23:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>unsplash_frontend</title>
+      <link>https://github.com/Fredvel123/unsplash_frontend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Fredvel123"&gt;Fredvel123&lt;/p&gt;&lt;p&gt;This is a Fullstack project, with UNSPLASH API&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78813256?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 23:06&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Fredvel123/unsplash_frontend</guid>
+      <pubDate>Fri, 21 Jan 2022 23:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>web-speech-angular</title>
+      <link>https://github.com/luixaviles/web-speech-angular</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/luixaviles"&gt;luixaviles&lt;/p&gt;&lt;p&gt;A Web Application that implements Speech Recognition and Speech Synthesis using Web APIs, Angular, TypeScript, RxJS, and Angular Material&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/3485075?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 22:21&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/luixaviles/web-speech-angular</guid>
+      <pubDate>Fri, 21 Jan 2022 22:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>JEdit</title>
+      <link>https://github.com/AleCossioCh/JEdit</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AleCossioCh"&gt;AleCossioCh&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/23039347?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 22:13&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/AleCossioCh/JEdit</guid>
+      <pubDate>Fri, 21 Jan 2022 22:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>signal-clone</title>
+      <link>https://github.com/wiltrouble/signal-clone</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/wiltrouble"&gt;wiltrouble&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/23349549?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 17:47&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/wiltrouble/signal-clone</guid>
+      <pubDate>Fri, 21 Jan 2022 17:47:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>dataton-urbano</title>
+      <link>https://github.com/lab-tecnosocial/dataton-urbano</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/lab-tecnosocial"&gt;lab-tecnosocial&lt;/p&gt;&lt;p&gt;Repositorio del Datatón Urbano 2021&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/60243422?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 17:06&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/lab-tecnosocial/dataton-urbano</guid>
+      <pubDate>Fri, 21 Jan 2022 17:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>espuma</title>
+      <link>https://github.com/mauforonda/espuma</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;Un día de movimientos de los buses de La Paz Bus&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 16:45&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/espuma</guid>
+      <pubDate>Fri, 21 Jan 2022 16:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>rspec_let_cache</title>
+      <link>https://github.com/owen2345/rspec_let_cache</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/owen2345"&gt;owen2345&lt;/p&gt;&lt;p&gt;Permit to cache let variables across tests&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1148415?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 16:00&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/owen2345/rspec_let_cache</guid>
+      <pubDate>Fri, 21 Jan 2022 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>football-two-adm</title>
+      <link>https://github.com/kapit4n/football-two-adm</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt;&lt;p&gt;Register championships, teams, players, schedule matches.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 15:14&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/football-two-adm</guid>
+      <pubDate>Fri, 21 Jan 2022 15:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>l-vote</title>
+      <link>https://github.com/kapit4n/l-vote</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt;&lt;p&gt;register votes, vuejs.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 15:14&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/l-vote</guid>
+      <pubDate>Fri, 21 Jan 2022 15:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>react-research</title>
+      <link>https://github.com/kapit4n/react-research</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt;&lt;p&gt;react js, material ui.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 15:14&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/react-research</guid>
+      <pubDate>Fri, 21 Jan 2022 15:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>vue-research-ui</title>
+      <link>https://github.com/kapit4n/vue-research-ui</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt;&lt;p&gt;Web application register a research process, vue&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 15:13&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/vue-research-ui</guid>
+      <pubDate>Fri, 21 Jan 2022 15:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>mockupero2</title>
+      <link>https://github.com/kapit4n/mockupero2</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt;&lt;p&gt;angular, images&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 15:12&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/mockupero2</guid>
+      <pubDate>Fri, 21 Jan 2022 15:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>l-construct</title>
+      <link>https://github.com/kapit4n/l-construct</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kapit4n"&gt;kapit4n&lt;/p&gt;&lt;p&gt;ng app, nebular, angular 8&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/277572?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 15:12&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kapit4n/l-construct</guid>
+      <pubDate>Fri, 21 Jan 2022 15:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hongo-Blender</title>
+      <link>https://github.com/HectorDanielQH/Hongo-Blender</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:43&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/Hongo-Blender</guid>
+      <pubDate>Fri, 21 Jan 2022 11:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SISTEMA-DE-CONTROL---GASBOL---HECHO-EN-JAVA-CON-MYSQL</title>
+      <link>https://github.com/HectorDanielQH/SISTEMA-DE-CONTROL---GASBOL---HECHO-EN-JAVA-CON-MYSQL</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:42&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/SISTEMA-DE-CONTROL---GASBOL---HECHO-EN-JAVA-CON-MYSQL</guid>
+      <pubDate>Fri, 21 Jan 2022 11:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SIMULACION-LANZAMIENTO-DE-PROYECTILES-EN-MATLAB-CON-INTERFACES-GRAFICAS</title>
+      <link>https://github.com/HectorDanielQH/SIMULACION-LANZAMIENTO-DE-PROYECTILES-EN-MATLAB-CON-INTERFACES-GRAFICAS</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:36&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/SIMULACION-LANZAMIENTO-DE-PROYECTILES-EN-MATLAB-CON-INTERFACES-GRAFICAS</guid>
+      <pubDate>Fri, 21 Jan 2022 11:36:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PAGINA-WEB---SIMULANDO-CASETAS-DE-ATENCION-COCHABAMBA-QUILLACOLLO</title>
+      <link>https://github.com/HectorDanielQH/PAGINA-WEB---SIMULANDO-CASETAS-DE-ATENCION-COCHABAMBA-QUILLACOLLO</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:32&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/PAGINA-WEB---SIMULANDO-CASETAS-DE-ATENCION-COCHABAMBA-QUILLACOLLO</guid>
+      <pubDate>Fri, 21 Jan 2022 11:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HectorDanielQH</title>
+      <link>https://github.com/HectorDanielQH/HectorDanielQH</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;Config files for my GitHub profile.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:29&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/HectorDanielQH</guid>
+      <pubDate>Fri, 21 Jan 2022 11:29:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SISTEMA-DE-ESCRITORIO-PARA-FARMACIA-FARMATODO-EN-C-SHARP-CON-MYSQL-SERVER</title>
+      <link>https://github.com/HectorDanielQH/SISTEMA-DE-ESCRITORIO-PARA-FARMACIA-FARMATODO-EN-C-SHARP-CON-MYSQL-SERVER</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:24&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/SISTEMA-DE-ESCRITORIO-PARA-FARMACIA-FARMATODO-EN-C-SHARP-CON-MYSQL-SERVER</guid>
+      <pubDate>Fri, 21 Jan 2022 11:24:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TROLL-APP-ROMANCE-EXAMPLE-IN-C-SHARP</title>
+      <link>https://github.com/HectorDanielQH/TROLL-APP-ROMANCE-EXAMPLE-IN-C-SHARP</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:19&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/TROLL-APP-ROMANCE-EXAMPLE-IN-C-SHARP</guid>
+      <pubDate>Fri, 21 Jan 2022 11:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MULTIPLE-CONNECTIONS-IN-CSHARP-</title>
+      <link>https://github.com/HectorDanielQH/MULTIPLE-CONNECTIONS-IN-CSHARP-</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:19&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/MULTIPLE-CONNECTIONS-IN-CSHARP-</guid>
+      <pubDate>Fri, 21 Jan 2022 11:19:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>LOGIN-EXAMPLE-C-SHARP-AND-SQL-SERVER</title>
+      <link>https://github.com/HectorDanielQH/LOGIN-EXAMPLE-C-SHARP-AND-SQL-SERVER</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:18&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/LOGIN-EXAMPLE-C-SHARP-AND-SQL-SERVER</guid>
+      <pubDate>Fri, 21 Jan 2022 11:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PROYECTO-C-SHARP--NORMALIZACION-DE-BASE-DE-DATOS-TIPO-RENO</title>
+      <link>https://github.com/HectorDanielQH/PROYECTO-C-SHARP--NORMALIZACION-DE-BASE-DE-DATOS-TIPO-RENO</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:17&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/PROYECTO-C-SHARP--NORMALIZACION-DE-BASE-DE-DATOS-TIPO-RENO</guid>
+      <pubDate>Fri, 21 Jan 2022 11:17:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SISTEMA-WEB---CONSULTORIO-MEDICO---LARAVEL-PHP-</title>
+      <link>https://github.com/HectorDanielQH/SISTEMA-WEB---CONSULTORIO-MEDICO---LARAVEL-PHP-</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:14&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/SISTEMA-WEB---CONSULTORIO-MEDICO---LARAVEL-PHP-</guid>
+      <pubDate>Fri, 21 Jan 2022 11:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SISTEMA-WEB---IMPRENTA-RIVADAVIA---LARAVEL-PHP-</title>
+      <link>https://github.com/HectorDanielQH/SISTEMA-WEB---IMPRENTA-RIVADAVIA---LARAVEL-PHP-</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:11&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/SISTEMA-WEB---IMPRENTA-RIVADAVIA---LARAVEL-PHP-</guid>
+      <pubDate>Fri, 21 Jan 2022 11:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>REPRODUCTOR-MP3-EN-LARAVLEL-PHP-</title>
+      <link>https://github.com/HectorDanielQH/REPRODUCTOR-MP3-EN-LARAVLEL-PHP-</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:09&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/REPRODUCTOR-MP3-EN-LARAVLEL-PHP-</guid>
+      <pubDate>Fri, 21 Jan 2022 11:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PAGINA-WEB-CON-FLASK-PYTHON-</title>
+      <link>https://github.com/HectorDanielQH/PAGINA-WEB-CON-FLASK-PYTHON-</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 11:07&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/PAGINA-WEB-CON-FLASK-PYTHON-</guid>
+      <pubDate>Fri, 21 Jan 2022 11:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>blog-apr</title>
+      <link>https://github.com/imer1319/blog-apr</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/imer1319"&gt;imer1319&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/42623084?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 05:33&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/imer1319/blog-apr</guid>
+      <pubDate>Fri, 21 Jan 2022 05:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TrabajoSocialPsiquiatrico_2012</title>
+      <link>https://github.com/toitolucho/TrabajoSocialPsiquiatrico_2012</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/toitolucho"&gt;toitolucho&lt;/p&gt;&lt;p&gt;Sisteamde Gestion de Historial Clinico y Ficha para una entidad de atención Psiquiatrica&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1872880?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 05:27&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/toitolucho/TrabajoSocialPsiquiatrico_2012</guid>
+      <pubDate>Fri, 21 Jan 2022 05:27:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DoblonesCeramicon</title>
+      <link>https://github.com/toitolucho/DoblonesCeramicon</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/toitolucho"&gt;toitolucho&lt;/p&gt;&lt;p&gt;Sistema de creación de Combinados Accesorios Electricos en C#&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1872880?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 05:16&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/toitolucho/DoblonesCeramicon</guid>
+      <pubDate>Fri, 21 Jan 2022 05:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doblones20</title>
+      <link>https://github.com/toitolucho/Doblones20</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/toitolucho"&gt;toitolucho&lt;/p&gt;&lt;p&gt;Sistema de Contabilidad e Inventario para una Distribuidar de Equipos de Tecnologia&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1872880?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 05:01&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/toitolucho/Doblones20</guid>
+      <pubDate>Fri, 21 Jan 2022 05:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>wp-react-native-store</title>
+      <link>https://github.com/JuanitoOrtega/wp-react-native-store</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/JuanitoOrtega"&gt;JuanitoOrtega&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/47042583?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 04:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/JuanitoOrtega/wp-react-native-store</guid>
+      <pubDate>Fri, 21 Jan 2022 04:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AlvecoComercial10</title>
+      <link>https://github.com/toitolucho/AlvecoComercial10</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/toitolucho"&gt;toitolucho&lt;/p&gt;&lt;p&gt;Sistema de Inventarios, Ventas y Compras realizado en C#&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/1872880?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 04:21&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/toitolucho/AlvecoComercial10</guid>
+      <pubDate>Fri, 21 Jan 2022 04:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>unity-snowboard</title>
+      <link>https://github.com/Sergio-Al/unity-snowboard</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Sergio-Al"&gt;Sergio-Al&lt;/p&gt;&lt;p&gt;A snowboard project exploring some Unity features&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54541807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 03:49&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Sergio-Al/unity-snowboard</guid>
+      <pubDate>Fri, 21 Jan 2022 03:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>vue-recipes</title>
+      <link>https://github.com/ctola91/vue-recipes</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/ctola91"&gt;ctola91&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/9135312?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 03:06&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/ctola91/vue-recipes</guid>
+      <pubDate>Fri, 21 Jan 2022 03:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>mendoraki</title>
+      <link>https://github.com/bladimirmv/mendoraki</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/bladimirmv"&gt;bladimirmv&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/48464836?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 01:40&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/bladimirmv/mendoraki</guid>
+      <pubDate>Fri, 21 Jan 2022 01:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>safci-backend-demo</title>
+      <link>https://github.com/borissoto/safci-backend-demo</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/borissoto"&gt;borissoto&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7810247?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 01:03&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/borissoto/safci-backend-demo</guid>
+      <pubDate>Fri, 21 Jan 2022 01:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>victorcode</title>
+      <link>https://github.com/moonhuntercode/victorcode</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/moonhuntercode"&gt;moonhuntercode&lt;/p&gt;&lt;p&gt;an cv for me and for jobs&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/53928868?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 21, 2022 at 00:25&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/moonhuntercode/victorcode</guid>
+      <pubDate>Fri, 21 Jan 2022 00:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>LWC-test-salesforce</title>
       <link>https://github.com/srodrigo23/LWC-test-salesforce</link>
@@ -15,11 +295,46 @@
       <pubDate>Thu, 20 Jan 2022 22:10:00 +0000</pubDate>
     </item>
     <item>
+      <title>SISTEMA-DE-ESCRITORIO-EN-JAVA---PIZZERIA-BUENAS-TARDES</title>
+      <link>https://github.com/HectorDanielQH/SISTEMA-DE-ESCRITORIO-EN-JAVA---PIZZERIA-BUENAS-TARDES</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 20, 2022 at 21:35&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/SISTEMA-DE-ESCRITORIO-EN-JAVA---PIZZERIA-BUENAS-TARDES</guid>
+      <pubDate>Thu, 20 Jan 2022 21:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>BREACKPOINTS-EXAMPLE-CLASS</title>
+      <link>https://github.com/HectorDanielQH/BREACKPOINTS-EXAMPLE-CLASS</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 20, 2022 at 21:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/BREACKPOINTS-EXAMPLE-CLASS</guid>
+      <pubDate>Thu, 20 Jan 2022 21:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FIRMA-AUXILIARES-DE-DOCENCIA-V2</title>
+      <link>https://github.com/HectorDanielQH/FIRMA-AUXILIARES-DE-DOCENCIA-V2</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 20, 2022 at 21:18&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/FIRMA-AUXILIARES-DE-DOCENCIA-V2</guid>
+      <pubDate>Thu, 20 Jan 2022 21:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>FIRMA-AUXILIARES-DE-DOCENCIA</title>
+      <link>https://github.com/HectorDanielQH/FIRMA-AUXILIARES-DE-DOCENCIA</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 20, 2022 at 21:15&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/FIRMA-AUXILIARES-DE-DOCENCIA</guid>
+      <pubDate>Thu, 20 Jan 2022 21:15:00 +0000</pubDate>
+    </item>
+    <item>
       <title>libGDX-Alejandria</title>
       <link>https://github.com/Raxorg/libGDX-Alejandria</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Raxorg"&gt;Raxorg&lt;/p&gt;&lt;p&gt;This repo will Soon™ hold all the knowledge about libGDX you will ever need&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/18240060?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 20, 2022 at 21:08&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Raxorg/libGDX-Alejandria</guid>
       <pubDate>Thu, 20 Jan 2022 21:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CREACION-DE-VIDEOJUEGO-PARA-PUBLICIDAD</title>
+      <link>https://github.com/HectorDanielQH/CREACION-DE-VIDEOJUEGO-PARA-PUBLICIDAD</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/HectorDanielQH"&gt;HectorDanielQH&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98060749?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 20, 2022 at 20:58&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/HectorDanielQH/CREACION-DE-VIDEOJUEGO-PARA-PUBLICIDAD</guid>
+      <pubDate>Thu, 20 Jan 2022 20:58:00 +0000</pubDate>
     </item>
     <item>
       <title>Ana-React-Test</title>
@@ -69,13 +384,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/JuanitoOrtega"&gt;JuanitoOrtega&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/47042583?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 20, 2022 at 03:24&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/JuanitoOrtega/wp-frontend-login</guid>
       <pubDate>Thu, 20 Jan 2022 03:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>unity-snowboard</title>
-      <link>https://github.com/Sergio-Al/unity-snowboard</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Sergio-Al"&gt;Sergio-Al&lt;/p&gt;&lt;p&gt;A snowboard project exploring some Unity features&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54541807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 20, 2022 at 01:46&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Sergio-Al/unity-snowboard</guid>
-      <pubDate>Thu, 20 Jan 2022 01:46:00 +0000</pubDate>
     </item>
     <item>
       <title>todo-react</title>
@@ -181,13 +489,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/agustinmejia"&gt;agustinmejia&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/22199888?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 19, 2022 at 04:30&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/agustinmejia/e-commerce</guid>
       <pubDate>Wed, 19 Jan 2022 04:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>vue-recipes</title>
-      <link>https://github.com/ctola91/vue-recipes</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/ctola91"&gt;ctola91&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/9135312?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 19, 2022 at 04:00&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/ctola91/vue-recipes</guid>
-      <pubDate>Wed, 19 Jan 2022 04:00:00 +0000</pubDate>
     </item>
     <item>
       <title>D.C.S.-Curso_Flask_Web_Python-Python-Flask</title>
@@ -540,18 +841,18 @@
       <pubDate>Sun, 16 Jan 2022 00:47:00 +0000</pubDate>
     </item>
     <item>
+      <title>Generador-Css</title>
+      <link>https://github.com/Zelechos/Generador-Css</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Zelechos"&gt;Zelechos&lt;/p&gt;&lt;p&gt;Es un Modelo de Inteligencia Artificial dedicado para generar estilos CSS en base a un archivo HTML este modelo es creado como proyecto para la Materia de IA 3 Desarrollo de Aplicaciones Inteligentes&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/41464891?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 23:57&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Zelechos/Generador-Css</guid>
+      <pubDate>Sat, 15 Jan 2022 23:57:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ecommerce_admin</title>
       <link>https://github.com/ayahosnym/ecommerce_admin</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/ayahosnym"&gt;ayahosnym&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/43790528?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 23:22&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/ayahosnym/ecommerce_admin</guid>
       <pubDate>Sat, 15 Jan 2022 23:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>cvresumen</title>
-      <link>https://github.com/enrique159/cvresumen</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/enrique159"&gt;enrique159&lt;/p&gt;&lt;p&gt;My CV resumen&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16583689?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 22:52&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/enrique159/cvresumen</guid>
-      <pubDate>Sat, 15 Jan 2022 22:52:00 +0000</pubDate>
     </item>
     <item>
       <title>web-api-autores</title>
@@ -561,27 +862,6 @@
       <pubDate>Sat, 15 Jan 2022 21:20:00 +0000</pubDate>
     </item>
     <item>
-      <title>pages-test</title>
-      <link>https://github.com/alvarohurtadobo/pages-test</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/alvarohurtadobo"&gt;alvarohurtadobo&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/5840011?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 19:32&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/alvarohurtadobo/pages-test</guid>
-      <pubDate>Sat, 15 Jan 2022 19:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>my-txts</title>
-      <link>https://github.com/jcanaviri/my-txts</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/jcanaviri"&gt;jcanaviri&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/31946002?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 19:23&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/jcanaviri/my-txts</guid>
-      <pubDate>Sat, 15 Jan 2022 19:23:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>uploaded_backend</title>
-      <link>https://github.com/Fredvel123/uploaded_backend</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Fredvel123"&gt;Fredvel123&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78813256?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 18:22&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Fredvel123/uploaded_backend</guid>
-      <pubDate>Sat, 15 Jan 2022 18:22:00 +0000</pubDate>
-    </item>
-    <item>
       <title>patientor-frontend</title>
       <link>https://github.com/eddypv/patientor-frontend</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/eddypv"&gt;eddypv&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/5325007?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 16:06&lt;/p&gt;</description>
@@ -589,46 +869,11 @@
       <pubDate>Sat, 15 Jan 2022 16:06:00 +0000</pubDate>
     </item>
     <item>
-      <title>timezone-issues</title>
-      <link>https://github.com/tecnocrata/timezone-issues</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/tecnocrata"&gt;tecnocrata&lt;/p&gt;&lt;p&gt;An experiment using Angular, Luxon, Momentjs and DotNetCore&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/709446?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 15:18&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/tecnocrata/timezone-issues</guid>
-      <pubDate>Sat, 15 Jan 2022 15:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>node-react-course</title>
-      <link>https://github.com/tecnocrata/node-react-course</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/tecnocrata"&gt;tecnocrata&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/709446?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 15:18&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/tecnocrata/node-react-course</guid>
-      <pubDate>Sat, 15 Jan 2022 15:18:00 +0000</pubDate>
-    </item>
-    <item>
       <title>UpTask-NodeJS</title>
       <link>https://github.com/andrescastromamani/UpTask-NodeJS</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/andrescastromamani"&gt;andrescastromamani&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/40498384?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 12:24&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/andrescastromamani/UpTask-NodeJS</guid>
       <pubDate>Sat, 15 Jan 2022 12:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>jest-training</title>
-      <link>https://github.com/wiltrouble/jest-training</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/wiltrouble"&gt;wiltrouble&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/23349549?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 10:19&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/wiltrouble/jest-training</guid>
-      <pubDate>Sat, 15 Jan 2022 10:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>next-example-tasks</title>
-      <link>https://github.com/josegoyo/next-example-tasks</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/josegoyo"&gt;josegoyo&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/8400079?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 06:55&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/josegoyo/next-example-tasks</guid>
-      <pubDate>Sat, 15 Jan 2022 06:55:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zelechos</title>
-      <link>https://github.com/Zelechos/Zelechos</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Zelechos"&gt;Zelechos&lt;/p&gt;&lt;p&gt;Mi Portada de Perfil&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/41464891?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 02:42&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Zelechos/Zelechos</guid>
-      <pubDate>Sat, 15 Jan 2022 02:42:00 +0000</pubDate>
     </item>
     <item>
       <title>django-hello-world</title>
@@ -643,55 +888,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/GottJagger"&gt;GottJagger&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/61521547?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 15, 2022 at 01:22&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/GottJagger/Prueba-Tecnica</guid>
       <pubDate>Sat, 15 Jan 2022 01:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>crud_laravel</title>
-      <link>https://github.com/JoseGonzalez-git/crud_laravel</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/JoseGonzalez-git"&gt;JoseGonzalez-git&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/70743629?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 23:50&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/JoseGonzalez-git/crud_laravel</guid>
-      <pubDate>Fri, 14 Jan 2022 23:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>crud-contactos</title>
-      <link>https://github.com/RaulOrtiz99/crud-contactos</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/RaulOrtiz99"&gt;RaulOrtiz99&lt;/p&gt;&lt;p&gt;proyecto crud de contactos &lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/36978009?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 19:45&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/RaulOrtiz99/crud-contactos</guid>
-      <pubDate>Fri, 14 Jan 2022 19:45:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>webcomponents-lit</title>
-      <link>https://github.com/pablocyc/webcomponents-lit</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/pablocyc"&gt;pablocyc&lt;/p&gt;&lt;p&gt;class web components by Manz on Twitch&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/29672486?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 19:08&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/pablocyc/webcomponents-lit</guid>
-      <pubDate>Fri, 14 Jan 2022 19:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>django_netflix</title>
-      <link>https://github.com/IdenTiclla/django_netflix</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/IdenTiclla"&gt;IdenTiclla&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/20525059?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 17:37&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/IdenTiclla/django_netflix</guid>
-      <pubDate>Fri, 14 Jan 2022 17:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Math-Magicians</title>
-      <link>https://github.com/oliverSCZ/Math-Magicians</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/oliverSCZ"&gt;oliverSCZ&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/87836464?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 16:19&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/oliverSCZ/Math-Magicians</guid>
-      <pubDate>Fri, 14 Jan 2022 16:19:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ws_smartHome_dialogFlow</title>
-      <link>https://github.com/LuisPerez10/ws_smartHome_dialogFlow</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/LuisPerez10"&gt;LuisPerez10&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/33073738?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 15:15&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/LuisPerez10/ws_smartHome_dialogFlow</guid>
-      <pubDate>Fri, 14 Jan 2022 15:15:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clinic-API</title>
-      <link>https://github.com/OliverZulett/Clinic-API</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/OliverZulett"&gt;OliverZulett&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/61068158?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated January 14, 2022 at 04:04&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/OliverZulett/Clinic-API</guid>
-      <pubDate>Fri, 14 Jan 2022 04:04:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
