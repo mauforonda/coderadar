@@ -6,13 +6,125 @@
     <description>Code Radar</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 02 Jul 2022 00:05:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2022 00:05:16 +0000</lastBuildDate>
+    <item>
+      <title>uberEatUser</title>
+      <link>https://github.com/wiltrouble/uberEatUser</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/wiltrouble"&gt;wiltrouble&lt;/p&gt;&lt;p&gt;React native project using expo&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/23349549?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 23:21&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/wiltrouble/uberEatUser</guid>
+      <pubDate>Sat, 02 Jul 2022 23:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>twitterBots</title>
+      <link>https://github.com/jpcrespo/twitterBots</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jpcrespo"&gt;jpcrespo&lt;/p&gt;&lt;p&gt;Distintos Bots para API de Twitter usando Python.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7275066?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 22:37&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jpcrespo/twitterBots</guid>
+      <pubDate>Sat, 02 Jul 2022 22:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Image-FInder</title>
+      <link>https://github.com/WignerJose/Image-FInder</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/WignerJose"&gt;WignerJose&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78268990?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 22:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/WignerJose/Image-FInder</guid>
+      <pubDate>Sat, 02 Jul 2022 22:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>api-gestion-productos</title>
+      <link>https://github.com/Avsco/api-gestion-productos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Avsco"&gt;Avsco&lt;/p&gt;&lt;p&gt;Subsistema 2, backend gestión de productos&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/39600098?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 19:39&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Avsco/api-gestion-productos</guid>
+      <pubDate>Sat, 02 Jul 2022 19:39:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>web-app-ui-ux</title>
+      <link>https://github.com/ArielGalvez/web-app-ui-ux</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/ArielGalvez"&gt;ArielGalvez&lt;/p&gt;&lt;p&gt;following and trying to achieve a figma design&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/32244920?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 18:53&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/ArielGalvez/web-app-ui-ux</guid>
+      <pubDate>Sat, 02 Jul 2022 18:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4-iceitech-api-sanctum</title>
+      <link>https://github.com/cfmarcadigital/v4-iceitech-api-sanctum</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cfmarcadigital"&gt;cfmarcadigital&lt;/p&gt;&lt;p&gt;Api Rest con Laravel Sanctum&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/87243674?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 18:43&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cfmarcadigital/v4-iceitech-api-sanctum</guid>
+      <pubDate>Sat, 02 Jul 2022 18:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4-iceitech-api-jwt</title>
+      <link>https://github.com/cfmarcadigital/v4-iceitech-api-jwt</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cfmarcadigital"&gt;cfmarcadigital&lt;/p&gt;&lt;p&gt;Api Rest con JWT&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/87243674?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 18:37&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cfmarcadigital/v4-iceitech-api-jwt</guid>
+      <pubDate>Sat, 02 Jul 2022 18:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>v4-iceitech-api-passport</title>
+      <link>https://github.com/cfmarcadigital/v4-iceitech-api-passport</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cfmarcadigital"&gt;cfmarcadigital&lt;/p&gt;&lt;p&gt;Api Rest con Laravel Passport&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/87243674?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 18:30&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cfmarcadigital/v4-iceitech-api-passport</guid>
+      <pubDate>Sat, 02 Jul 2022 18:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>tdd-pruebas-unitarias</title>
+      <link>https://github.com/eduatro/tdd-pruebas-unitarias</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/eduatro"&gt;eduatro&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4142968?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 13:52&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/eduatro/tdd-pruebas-unitarias</guid>
+      <pubDate>Sat, 02 Jul 2022 13:52:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DESIGNPATTERN-WITH-CSharp</title>
+      <link>https://github.com/Uliwazeer/DESIGNPATTERN-WITH-CSharp</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Uliwazeer"&gt;Uliwazeer&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/84068430?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 10:35&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Uliwazeer/DESIGNPATTERN-WITH-CSharp</guid>
+      <pubDate>Sat, 02 Jul 2022 10:35:00 +0000</pubDate>
+    </item>
     <item>
       <title>node-mysql-docker</title>
       <link>https://github.com/andycortex/node-mysql-docker</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/andycortex"&gt;andycortex&lt;/p&gt;&lt;p&gt;create image in docker for node and mysql&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/12237050?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 01, 2022 at 22:23&lt;/p&gt;</description>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/andycortex"&gt;andycortex&lt;/p&gt;&lt;p&gt;create image in docker for node and mysql&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/12237050?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 08:56&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/andycortex/node-mysql-docker</guid>
-      <pubDate>Fri, 01 Jul 2022 22:23:00 +0000</pubDate>
+      <pubDate>Sat, 02 Jul 2022 08:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>P12Css-Web-Practica</title>
+      <link>https://github.com/noedev001/P12Css-Web-Practica</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/noedev001"&gt;noedev001&lt;/p&gt;&lt;p&gt;Practica con Css&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/68041409?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 06:50&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/noedev001/P12Css-Web-Practica</guid>
+      <pubDate>Sat, 02 Jul 2022 06:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EMQX_MONGODB_ACL</title>
+      <link>https://github.com/Jeziel-Guiev/EMQX_MONGODB_ACL</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Jeziel-Guiev"&gt;Jeziel-Guiev&lt;/p&gt;&lt;p&gt;Conexion de emqx con mongodb y autenticacion acl, para este repo se utilizo emqx v4.0.6 y mongo v5.0.6&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/76492671?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 06:07&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Jeziel-Guiev/EMQX_MONGODB_ACL</guid>
+      <pubDate>Sat, 02 Jul 2022 06:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>computerScience1</title>
+      <link>https://github.com/moonhuntercode/computerScience1</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/moonhuntercode"&gt;moonhuntercode&lt;/p&gt;&lt;p&gt;computerScience1&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/53928868?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 04:00&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/moonhuntercode/computerScience1</guid>
+      <pubDate>Sat, 02 Jul 2022 04:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>project_ap</title>
+      <link>https://github.com/Antonmarchitec/project_ap</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Antonmarchitec"&gt;Antonmarchitec&lt;/p&gt;&lt;p&gt;project_ap || Antonio Ponce&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/70084380?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 03:43&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Antonmarchitec/project_ap</guid>
+      <pubDate>Sat, 02 Jul 2022 03:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Platzi__Curso_Pr-ctico_de_HTML_y_CSS</title>
+      <link>https://github.com/GerardoDev25/Platzi__Curso_Pr-ctico_de_HTML_y_CSS</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/GerardoDev25"&gt;GerardoDev25&lt;/p&gt;&lt;p&gt;Platzi--Curso Práctico de HTML y CSS clone google&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/83968980?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 02, 2022 at 00:10&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/GerardoDev25/Platzi__Curso_Pr-ctico_de_HTML_y_CSS</guid>
+      <pubDate>Sat, 02 Jul 2022 00:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>app_band_name</title>
+      <link>https://github.com/RaulOrtiz99/app_band_name</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/RaulOrtiz99"&gt;RaulOrtiz99&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/36978009?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 01, 2022 at 22:56&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/RaulOrtiz99/app_band_name</guid>
+      <pubDate>Fri, 01 Jul 2022 22:56:00 +0000</pubDate>
     </item>
     <item>
       <title>node-docker</title>
@@ -57,6 +169,13 @@
       <pubDate>Fri, 01 Jul 2022 18:50:00 +0000</pubDate>
     </item>
     <item>
+      <title>taller-272-blog</title>
+      <link>https://github.com/AleMancilla/taller-272-blog</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AleMancilla"&gt;AleMancilla&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/49656371?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 01, 2022 at 18:45&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/AleMancilla/taller-272-blog</guid>
+      <pubDate>Fri, 01 Jul 2022 18:45:00 +0000</pubDate>
+    </item>
+    <item>
       <title>ssc-brewery</title>
       <link>https://github.com/JessAT18/ssc-brewery</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/JessAT18"&gt;JessAT18&lt;/p&gt;&lt;p&gt;https://github.com/springframeworkguru/ssc-brewery&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/30136460?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 01, 2022 at 18:22&lt;/p&gt;</description>
@@ -76,13 +195,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Jeziel-Guiev"&gt;Jeziel-Guiev&lt;/p&gt;&lt;p&gt;Con un modulo esp32 wemos lite y un modulo enc28j60 se logro conectarlo y enviar datos por cable ethernet a nuestro servidor broker EMQX&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/76492671?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 01, 2022 at 15:02&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Jeziel-Guiev/ESP32_ENC28J60_MQTT</guid>
       <pubDate>Fri, 01 Jul 2022 15:02:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Platzi__Curso_Pr-ctico_de_HTML_y_CSS</title>
-      <link>https://github.com/GerardoDev25/Platzi__Curso_Pr-ctico_de_HTML_y_CSS</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/GerardoDev25"&gt;GerardoDev25&lt;/p&gt;&lt;p&gt;Platzi--Curso Práctico de HTML y CSS clone google&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/83968980?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 01, 2022 at 14:58&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/GerardoDev25/Platzi__Curso_Pr-ctico_de_HTML_y_CSS</guid>
-      <pubDate>Fri, 01 Jul 2022 14:58:00 +0000</pubDate>
     </item>
     <item>
       <title>Python-ProblemSolving</title>
@@ -118,6 +230,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/QuantumCode2000"&gt;QuantumCode2000&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/64666591?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 01, 2022 at 02:15&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/QuantumCode2000/monitoring-app-frontend</guid>
       <pubDate>Fri, 01 Jul 2022 02:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>monitoringApp_backend</title>
+      <link>https://github.com/QuantumCode2000/monitoringApp_backend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/QuantumCode2000"&gt;QuantumCode2000&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/64666591?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated July 01, 2022 at 01:17&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/QuantumCode2000/monitoringApp_backend</guid>
+      <pubDate>Fri, 01 Jul 2022 01:17:00 +0000</pubDate>
     </item>
     <item>
       <title>ProyectoFinalNEAT-HII-51225</title>
@@ -253,6 +372,13 @@
       <pubDate>Thu, 30 Jun 2022 02:45:00 +0000</pubDate>
     </item>
     <item>
+      <title>frontend-app-laravel-angular</title>
+      <link>https://github.com/cchura94/frontend-app-laravel-angular</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cchura94"&gt;cchura94&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/15663327?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 30, 2022 at 02:10&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cchura94/frontend-app-laravel-angular</guid>
+      <pubDate>Thu, 30 Jun 2022 02:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title>asynchrony_js</title>
       <link>https://github.com/migueljunior/asynchrony_js</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/migueljunior"&gt;migueljunior&lt;/p&gt;&lt;p&gt;Repository about asynchrony in JS&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/20824133?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 30, 2022 at 00:36&lt;/p&gt;</description>
@@ -274,11 +400,11 @@
       <pubDate>Wed, 29 Jun 2022 22:23:00 +0000</pubDate>
     </item>
     <item>
-      <title>project_aps</title>
-      <link>https://github.com/Antonmarchitec/project_aps</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Antonmarchitec"&gt;Antonmarchitec&lt;/p&gt;&lt;p&gt;Project_aps || Antonio Ponce&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/70084380?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 29, 2022 at 22:05&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Antonmarchitec/project_aps</guid>
-      <pubDate>Wed, 29 Jun 2022 22:05:00 +0000</pubDate>
+      <title>AgoraNet</title>
+      <link>https://github.com/Pericena/AgoraNet</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Pericena"&gt;Pericena&lt;/p&gt;&lt;p&gt;.net 4 &lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/24308878?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 29, 2022 at 22:22&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Pericena/AgoraNet</guid>
+      <pubDate>Wed, 29 Jun 2022 22:22:00 +0000</pubDate>
     </item>
     <item>
       <title>CalculadoraJS</title>
@@ -321,6 +447,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/linuxer41"&gt;linuxer41&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/46865205?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 29, 2022 at 15:43&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/linuxer41/rtc_test</guid>
       <pubDate>Wed, 29 Jun 2022 15:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>casita</title>
+      <link>https://github.com/caleeli/casita</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/caleeli"&gt;caleeli&lt;/p&gt;&lt;p&gt;casita&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/8028650?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 29, 2022 at 13:46&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/caleeli/casita</guid>
+      <pubDate>Wed, 29 Jun 2022 13:46:00 +0000</pubDate>
     </item>
     <item>
       <title>ExamenFinalPatrones</title>
@@ -393,6 +526,13 @@
       <pubDate>Tue, 28 Jun 2022 21:55:00 +0000</pubDate>
     </item>
     <item>
+      <title>final_mod3</title>
+      <link>https://github.com/patoCode/final_mod3</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/patoCode"&gt;patoCode&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/3080775?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 21:10&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/patoCode/final_mod3</guid>
+      <pubDate>Tue, 28 Jun 2022 21:10:00 +0000</pubDate>
+    </item>
+    <item>
       <title>kinobot</title>
       <link>https://github.com/vitiko98/kinobot</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/vitiko98"&gt;vitiko98&lt;/p&gt;&lt;p&gt;Aesthetically perfectionist bot for cinephiles&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/59455966?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 20:38&lt;/p&gt;</description>
@@ -463,6 +603,27 @@
       <pubDate>Tue, 28 Jun 2022 13:19:00 +0000</pubDate>
     </item>
     <item>
+      <title>guluarte</title>
+      <link>https://github.com/guluarte/guluarte</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 05:12&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/guluarte/guluarte</guid>
+      <pubDate>Tue, 28 Jun 2022 05:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xresources</title>
+      <link>https://github.com/guluarte/xresources</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 05:03&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/guluarte/xresources</guid>
+      <pubDate>Tue, 28 Jun 2022 05:03:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>xgantt</title>
+      <link>https://github.com/guluarte/xgantt</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 05:02&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/guluarte/xgantt</guid>
+      <pubDate>Tue, 28 Jun 2022 05:02:00 +0000</pubDate>
+    </item>
+    <item>
       <title>continuosspacedrepetitionalgo</title>
       <link>https://github.com/guluarte/continuosspacedrepetitionalgo</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 05:02&lt;/p&gt;</description>
@@ -470,11 +631,53 @@
       <pubDate>Tue, 28 Jun 2022 05:02:00 +0000</pubDate>
     </item>
     <item>
+      <title>paat-usuario</title>
+      <link>https://github.com/guluarte/paat-usuario</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 05:00&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/guluarte/paat-usuario</guid>
+      <pubDate>Tue, 28 Jun 2022 05:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>paat.mobileapp</title>
+      <link>https://github.com/guluarte/paat.mobileapp</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 04:59&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/guluarte/paat.mobileapp</guid>
+      <pubDate>Tue, 28 Jun 2022 04:59:00 +0000</pubDate>
+    </item>
+    <item>
       <title>filesizeuploadfeature</title>
       <link>https://github.com/guluarte/filesizeuploadfeature</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 04:57&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/guluarte/filesizeuploadfeature</guid>
       <pubDate>Tue, 28 Jun 2022 04:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>googletranslatescrapper</title>
+      <link>https://github.com/guluarte/googletranslatescrapper</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 04:55&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/guluarte/googletranslatescrapper</guid>
+      <pubDate>Tue, 28 Jun 2022 04:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pimsleauraudio</title>
+      <link>https://github.com/guluarte/pimsleauraudio</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 04:55&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/guluarte/pimsleauraudio</guid>
+      <pubDate>Tue, 28 Jun 2022 04:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>php-spider</title>
+      <link>https://github.com/guluarte/php-spider</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 04:53&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/guluarte/php-spider</guid>
+      <pubDate>Tue, 28 Jun 2022 04:53:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>crmutils</title>
+      <link>https://github.com/guluarte/crmutils</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/guluarte"&gt;guluarte&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/197089?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 04:49&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/guluarte/crmutils</guid>
+      <pubDate>Tue, 28 Jun 2022 04:49:00 +0000</pubDate>
     </item>
     <item>
       <title>static-generator</title>
@@ -503,6 +706,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Alondra87"&gt;Alondra87&lt;/p&gt;&lt;p&gt;In this project, we will build a basic website that allows users to add/remove books from a list. We will achieve that by using JavaScript objects and arrays. Also, We dynamically modify the DOM and add basic events.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/99088112?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 01:57&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Alondra87/Awesome_books</guid>
       <pubDate>Tue, 28 Jun 2022 01:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>image-processor</title>
+      <link>https://github.com/OliverZulett/image-processor</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/OliverZulett"&gt;OliverZulett&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/61068158?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 28, 2022 at 01:14&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/OliverZulett/image-processor</guid>
+      <pubDate>Tue, 28 Jun 2022 01:14:00 +0000</pubDate>
     </item>
     <item>
       <title>P11RJs-Web-pizza-website</title>
@@ -603,13 +813,6 @@
       <pubDate>Mon, 27 Jun 2022 10:48:00 +0000</pubDate>
     </item>
     <item>
-      <title>mui-datagrid</title>
-      <link>https://github.com/jasbel/mui-datagrid</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/jasbel"&gt;jasbel&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/38922692?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 27, 2022 at 04:51&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/jasbel/mui-datagrid</guid>
-      <pubDate>Mon, 27 Jun 2022 04:51:00 +0000</pubDate>
-    </item>
-    <item>
       <title>quasar-second-playground</title>
       <link>https://github.com/Sergio-Al/quasar-second-playground</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Sergio-Al"&gt;Sergio-Al&lt;/p&gt;&lt;p&gt;A quasar project using more amazing features of vue 3&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54541807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 27, 2022 at 04:09&lt;/p&gt;</description>
@@ -622,6 +825,20 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/fernanCayoC"&gt;fernanCayoC&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/86861092?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 27, 2022 at 04:02&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/fernanCayoC/comuni1</guid>
       <pubDate>Mon, 27 Jun 2022 04:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>json-server</title>
+      <link>https://github.com/jasbel/json-server</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jasbel"&gt;jasbel&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/38922692?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 27, 2022 at 03:26&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jasbel/json-server</guid>
+      <pubDate>Mon, 27 Jun 2022 03:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>formik-react</title>
+      <link>https://github.com/WignerJose/formik-react</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/WignerJose"&gt;WignerJose&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78268990?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 27, 2022 at 02:26&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/WignerJose/formik-react</guid>
+      <pubDate>Mon, 27 Jun 2022 02:26:00 +0000</pubDate>
     </item>
     <item>
       <title>ecma_script</title>
@@ -659,13 +876,6 @@
       <pubDate>Mon, 27 Jun 2022 00:01:00 +0000</pubDate>
     </item>
     <item>
-      <title>dart-experiments</title>
-      <link>https://github.com/gnujavasergio/dart-experiments</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/gnujavasergio"&gt;gnujavasergio&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/654790?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 26, 2022 at 23:01&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/gnujavasergio/dart-experiments</guid>
-      <pubDate>Sun, 26 Jun 2022 23:01:00 +0000</pubDate>
-    </item>
-    <item>
       <title>terraform-files</title>
       <link>https://github.com/libialany/terraform-files</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/libialany"&gt;libialany&lt;/p&gt;&lt;p&gt;terraform files&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/82403984?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 26, 2022 at 22:58&lt;/p&gt;</description>
@@ -685,34 +895,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/westc"&gt;westc&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/704518?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 26, 2022 at 21:35&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/westc/prismize</guid>
       <pubDate>Sun, 26 Jun 2022 21:35:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Regex-js-example</title>
-      <link>https://github.com/owenwilson/Regex-js-example</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/owenwilson"&gt;owenwilson&lt;/p&gt;&lt;p&gt;Regex Examples JS&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/8469789?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 26, 2022 at 03:03&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/owenwilson/Regex-js-example</guid>
-      <pubDate>Sun, 26 Jun 2022 03:03:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>delivery</title>
-      <link>https://github.com/loginweb-dev/delivery</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/loginweb-dev"&gt;loginweb-dev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/45406884?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 25, 2022 at 22:40&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/loginweb-dev/delivery</guid>
-      <pubDate>Sat, 25 Jun 2022 22:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>nest-jira-api</title>
-      <link>https://github.com/nicobytes/nest-jira-api</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/nicobytes"&gt;nicobytes&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7611944?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 25, 2022 at 22:37&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/nicobytes/nest-jira-api</guid>
-      <pubDate>Sat, 25 Jun 2022 22:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ansible-hypothetical-cases</title>
-      <link>https://github.com/libialany/ansible-hypothetical-cases</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/libialany"&gt;libialany&lt;/p&gt;&lt;p&gt;basic &lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/82403984?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated June 25, 2022 at 21:20&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/libialany/ansible-hypothetical-cases</guid>
-      <pubDate>Sat, 25 Jun 2022 21:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
