@@ -6,20 +6,139 @@
     <description>Code Radar</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Aug 2022 00:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2022 00:05:23 +0000</lastBuildDate>
+    <item>
+      <title>app-cloud</title>
+      <link>https://github.com/enevaca/app-cloud</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/enevaca"&gt;enevaca&lt;/p&gt;&lt;p&gt;Backend y Frontend para la práctiva de Computación en la Nube&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/12105692?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 23:50&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/enevaca/app-cloud</guid>
+      <pubDate>Sun, 14 Aug 2022 23:50:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>template-asamblea</title>
+      <link>https://github.com/agustinmejia/template-asamblea</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/agustinmejia"&gt;agustinmejia&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/22199888?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 23:42&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/agustinmejia/template-asamblea</guid>
+      <pubDate>Sun, 14 Aug 2022 23:42:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>prueba_maestria</title>
+      <link>https://github.com/gumiel/prueba_maestria</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/gumiel"&gt;gumiel&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/12777908?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 22:21&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/gumiel/prueba_maestria</guid>
+      <pubDate>Sun, 14 Aug 2022 22:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>react-gifExpert</title>
+      <link>https://github.com/AdrianRMV/react-gifExpert</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/AdrianRMV"&gt;AdrianRMV&lt;/p&gt;&lt;p&gt;Este es mi repositorio de buscadores de Gifs con REACT 18.2&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/64291671?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 21:20&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/AdrianRMV/react-gifExpert</guid>
+      <pubDate>Sun, 14 Aug 2022 21:20:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>.dotfiles</title>
+      <link>https://github.com/phreakphreak/.dotfiles</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/phreakphreak"&gt;phreakphreak&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/91038818?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 20:57&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/phreakphreak/.dotfiles</guid>
+      <pubDate>Sun, 14 Aug 2022 20:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>localregistry</title>
+      <link>https://github.com/fraj123/localregistry</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/fraj123"&gt;fraj123&lt;/p&gt;&lt;p&gt;Local Registry in Kubernetes&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7632963?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 20:40&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/fraj123/localregistry</guid>
+      <pubDate>Sun, 14 Aug 2022 20:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>bayesianas-expertos</title>
+      <link>https://github.com/mauriballes/bayesianas-expertos</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriballes"&gt;mauriballes&lt;/p&gt;&lt;p&gt;Proyecto de Sistemas Expertos de la UAGRM&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16750543?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 19:35&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauriballes/bayesianas-expertos</guid>
+      <pubDate>Sun, 14 Aug 2022 19:35:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>landing-v2</title>
+      <link>https://github.com/mauriballes/landing-v2</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriballes"&gt;mauriballes&lt;/p&gt;&lt;p&gt;Landing Page using Next.js&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16750543?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 19:33&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauriballes/landing-v2</guid>
+      <pubDate>Sun, 14 Aug 2022 19:33:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>theHuntsman</title>
+      <link>https://github.com/felipemiramontesr/theHuntsman</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/felipemiramontesr"&gt;felipemiramontesr&lt;/p&gt;&lt;p&gt;Drupal Theme | The Huntsman&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/2458832?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 19:16&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/felipemiramontesr/theHuntsman</guid>
+      <pubDate>Sun, 14 Aug 2022 19:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>slytherinColors</title>
+      <link>https://github.com/felipemiramontesr/slytherinColors</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/felipemiramontesr"&gt;felipemiramontesr&lt;/p&gt;&lt;p&gt;Drupal Theme | Slytherin Colors&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/2458832?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 19:12&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/felipemiramontesr/slytherinColors</guid>
+      <pubDate>Sun, 14 Aug 2022 19:12:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ravenClawColors</title>
+      <link>https://github.com/felipemiramontesr/ravenClawColors</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/felipemiramontesr"&gt;felipemiramontesr&lt;/p&gt;&lt;p&gt;Drupal Theme | Raven Claw Colors&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/2458832?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 19:06&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/felipemiramontesr/ravenClawColors</guid>
+      <pubDate>Sun, 14 Aug 2022 19:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>binary-tree</title>
+      <link>https://github.com/mauriballes/binary-tree</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriballes"&gt;mauriballes&lt;/p&gt;&lt;p&gt;Binary Tree with ES6&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16750543?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 18:59&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauriballes/binary-tree</guid>
+      <pubDate>Sun, 14 Aug 2022 18:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>pinkAndBluePastel</title>
+      <link>https://github.com/felipemiramontesr/pinkAndBluePastel</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/felipemiramontesr"&gt;felipemiramontesr&lt;/p&gt;&lt;p&gt;Drupal Theme | Pink And Blue Pastel&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/2458832?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 18:51&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/felipemiramontesr/pinkAndBluePastel</guid>
+      <pubDate>Sun, 14 Aug 2022 18:51:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>nightModeTwitter</title>
+      <link>https://github.com/felipemiramontesr/nightModeTwitter</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/felipemiramontesr"&gt;felipemiramontesr&lt;/p&gt;&lt;p&gt;Drupal Theme | Night Mode Twitter&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/2458832?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 18:26&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/felipemiramontesr/nightModeTwitter</guid>
+      <pubDate>Sun, 14 Aug 2022 18:26:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>berryPop</title>
+      <link>https://github.com/felipemiramontesr/berryPop</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/felipemiramontesr"&gt;felipemiramontesr&lt;/p&gt;&lt;p&gt;Single Drupall 8 Theme&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/2458832?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 17:37&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/felipemiramontesr/berryPop</guid>
+      <pubDate>Sun, 14 Aug 2022 17:37:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>avance_censo</title>
+      <link>https://github.com/mauforonda/avance_censo</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 15:07&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauforonda/avance_censo</guid>
+      <pubDate>Sun, 14 Aug 2022 15:07:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>mauriballes</title>
+      <link>https://github.com/mauriballes/mauriballes</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriballes"&gt;mauriballes&lt;/p&gt;&lt;p&gt;My Personal Info&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16750543?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 14:55&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/mauriballes/mauriballes</guid>
+      <pubDate>Sun, 14 Aug 2022 14:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>multiarch</title>
+      <link>https://github.com/jevillanueva/multiarch</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jevillanueva"&gt;jevillanueva&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/7273659?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 14, 2022 at 04:38&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jevillanueva/multiarch</guid>
+      <pubDate>Sun, 14 Aug 2022 04:38:00 +0000</pubDate>
+    </item>
     <item>
       <title>OlmosToHeroku</title>
       <link>https://github.com/NickyGon/OlmosToHeroku</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/NickyGon"&gt;NickyGon&lt;/p&gt;&lt;p&gt;App Olmos para Heroku&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/60781642?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 13, 2022 at 23:51&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/NickyGon/OlmosToHeroku</guid>
       <pubDate>Sat, 13 Aug 2022 23:51:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>VSCode-tips</title>
-      <link>https://github.com/taha-mahmoud37/VSCode-tips</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/taha-mahmoud37"&gt;taha-mahmoud37&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/72076246?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 13, 2022 at 22:24&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/taha-mahmoud37/VSCode-tips</guid>
-      <pubDate>Sat, 13 Aug 2022 22:24:00 +0000</pubDate>
     </item>
     <item>
       <title>accessibility</title>
@@ -118,13 +237,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Serius69"&gt;Serius69&lt;/p&gt;&lt;p&gt;Angular project of a pseudoaleatorio numbers&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/45407889?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 12, 2022 at 23:04&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Serius69/pseudoaleatorio-front</guid>
       <pubDate>Fri, 12 Aug 2022 23:04:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>cr0wg4n.github.io</title>
-      <link>https://github.com/cr0wg4n/cr0wg4n.github.io</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/cr0wg4n"&gt;cr0wg4n&lt;/p&gt;&lt;p&gt;Mauricio's personal page&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/14966182?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 12, 2022 at 22:53&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/cr0wg4n/cr0wg4n.github.io</guid>
-      <pubDate>Fri, 12 Aug 2022 22:53:00 +0000</pubDate>
     </item>
     <item>
       <title>jenkins-integration</title>
@@ -279,13 +391,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/davejuanes"&gt;davejuanes&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/65831379?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 12, 2022 at 03:22&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/davejuanes/javascriptMatematicaEstadistica</guid>
       <pubDate>Fri, 12 Aug 2022 03:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ChallengeUnoAlura</title>
-      <link>https://github.com/fs17006/ChallengeUnoAlura</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/fs17006"&gt;fs17006&lt;/p&gt;&lt;p&gt;desarrollo de un encriptador &lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/71518696?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 12, 2022 at 03:21&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/fs17006/ChallengeUnoAlura</guid>
-      <pubDate>Fri, 12 Aug 2022 03:21:00 +0000</pubDate>
     </item>
     <item>
       <title>appxiv2</title>
@@ -482,20 +587,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/parduccinward"&gt;parduccinward&lt;/p&gt;&lt;p&gt;This repository contains an application to manage events and control the entry of customers through encrypted QR codes. This app is under improvement. Feel free to clone this repository.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/22183427?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 10, 2022 at 23:43&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/parduccinward/qr-ticket-management-system</guid>
       <pubDate>Wed, 10 Aug 2022 23:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>landing-v2</title>
-      <link>https://github.com/mauriballes/landing-v2</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriballes"&gt;mauriballes&lt;/p&gt;&lt;p&gt;Landing Page using Next.js&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16750543?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 10, 2022 at 22:57&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauriballes/landing-v2</guid>
-      <pubDate>Wed, 10 Aug 2022 22:57:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>mauriballes</title>
-      <link>https://github.com/mauriballes/mauriballes</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauriballes"&gt;mauriballes&lt;/p&gt;&lt;p&gt;My Personal Info&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16750543?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 10, 2022 at 22:25&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauriballes/mauriballes</guid>
-      <pubDate>Wed, 10 Aug 2022 22:25:00 +0000</pubDate>
     </item>
     <item>
       <title>fran-studios</title>
@@ -708,6 +799,13 @@
       <pubDate>Tue, 09 Aug 2022 22:22:00 +0000</pubDate>
     </item>
     <item>
+      <title>ff</title>
+      <link>https://github.com/felipemiramontesr/ff</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/felipemiramontesr"&gt;felipemiramontesr&lt;/p&gt;&lt;p&gt;felipemiramontesr.net | Drupal Theme&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/2458832?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 09, 2022 at 21:54&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/felipemiramontesr/ff</guid>
+      <pubDate>Tue, 09 Aug 2022 21:54:00 +0000</pubDate>
+    </item>
+    <item>
       <title>bases</title>
       <link>https://github.com/oliverSCZ/bases</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/oliverSCZ"&gt;oliverSCZ&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/87836464?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 09, 2022 at 21:11&lt;/p&gt;</description>
@@ -806,25 +904,11 @@
       <pubDate>Tue, 09 Aug 2022 01:02:00 +0000</pubDate>
     </item>
     <item>
-      <title>decode_apk</title>
-      <link>https://github.com/krypton612/decode_apk</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/krypton612"&gt;krypton612&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/50895807?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 23:42&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/krypton612/decode_apk</guid>
-      <pubDate>Mon, 08 Aug 2022 23:42:00 +0000</pubDate>
-    </item>
-    <item>
       <title>course-dashboard</title>
       <link>https://github.com/devferx/course-dashboard</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/devferx"&gt;devferx&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/37563836?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 23:27&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/devferx/course-dashboard</guid>
       <pubDate>Mon, 08 Aug 2022 23:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>flutter-internet-connectivity</title>
-      <link>https://github.com/AleMancilla/flutter-internet-connectivity</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/AleMancilla"&gt;AleMancilla&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/49656371?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 21:35&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/AleMancilla/flutter-internet-connectivity</guid>
-      <pubDate>Mon, 08 Aug 2022 21:35:00 +0000</pubDate>
     </item>
     <item>
       <title>introDevBlockSmartContract</title>
@@ -841,109 +925,11 @@
       <pubDate>Mon, 08 Aug 2022 18:56:00 +0000</pubDate>
     </item>
     <item>
-      <title>Casero</title>
-      <link>https://github.com/agustin-vaca/Casero</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/agustin-vaca"&gt;agustin-vaca&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/70115889?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 16:01&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/agustin-vaca/Casero</guid>
-      <pubDate>Mon, 08 Aug 2022 16:01:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Writing_Efficient_Code_with_pandas</title>
-      <link>https://github.com/AdrikMendoza/Writing_Efficient_Code_with_pandas</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/AdrikMendoza"&gt;AdrikMendoza&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/93889486?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 13:24&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/AdrikMendoza/Writing_Efficient_Code_with_pandas</guid>
-      <pubDate>Mon, 08 Aug 2022 13:24:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>challenge</title>
-      <link>https://github.com/diegozambrana/challenge</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/diegozambrana"&gt;diegozambrana&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/3308376?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 12:20&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/diegozambrana/challenge</guid>
-      <pubDate>Mon, 08 Aug 2022 12:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lak-Bay</title>
-      <link>https://github.com/wvsu-cict-code/Lak-Bay</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/wvsu-cict-code"&gt;wvsu-cict-code&lt;/p&gt;&lt;p&gt;Android Game that Teaches Baybayin&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/9645096?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 06:19&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/wvsu-cict-code/Lak-Bay</guid>
-      <pubDate>Mon, 08 Aug 2022 06:19:00 +0000</pubDate>
-    </item>
-    <item>
       <title>PatronesDeDiseno</title>
       <link>https://github.com/tatooin6/PatronesDeDiseno</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/tatooin6"&gt;tatooin6&lt;/p&gt;&lt;p&gt;Patrones de Diseño en Español&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/49573652?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 04:22&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/tatooin6/PatronesDeDiseno</guid>
       <pubDate>Mon, 08 Aug 2022 04:22:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>unit-test-with-xunit</title>
-      <link>https://github.com/DilanOjeda/unit-test-with-xunit</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/DilanOjeda"&gt;DilanOjeda&lt;/p&gt;&lt;p&gt;Integrate xunit using net core 6 for unit testing&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/82473007?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 02:53&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/DilanOjeda/unit-test-with-xunit</guid>
-      <pubDate>Mon, 08 Aug 2022 02:53:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>LionsF1</title>
-      <link>https://github.com/Legatrun/LionsF1</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Legatrun"&gt;Legatrun&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/70861011?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 02:17&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Legatrun/LionsF1</guid>
-      <pubDate>Mon, 08 Aug 2022 02:17:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chat-Tiempo-Real-NodeJS</title>
-      <link>https://github.com/nahuelXZV/Chat-Tiempo-Real-NodeJS</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/nahuelXZV"&gt;nahuelXZV&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/80172547?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 01:40&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/nahuelXZV/Chat-Tiempo-Real-NodeJS</guid>
-      <pubDate>Mon, 08 Aug 2022 01:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TipTime</title>
-      <link>https://github.com/tintayadev/TipTime</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/tintayadev"&gt;tintayadev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/95485537?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 00:50&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/tintayadev/TipTime</guid>
-      <pubDate>Mon, 08 Aug 2022 00:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>web3-decentralized-staking-app</title>
-      <link>https://github.com/ggonzalez94/web3-decentralized-staking-app</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/ggonzalez94"&gt;ggonzalez94&lt;/p&gt;&lt;p&gt;Project based on Speed Run Ethereum challenges that allows users that dont trust each other stake and collect funds on a decentrilezed, trustless manner&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/17907743?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 00:21&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/ggonzalez94/web3-decentralized-staking-app</guid>
-      <pubDate>Mon, 08 Aug 2022 00:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>web3-token-vendor</title>
-      <link>https://github.com/ggonzalez94/web3-token-vendor</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/ggonzalez94"&gt;ggonzalez94&lt;/p&gt;&lt;p&gt;Create your own ERC20 token and deploy a decentralized vending machine that lets users buy and sell that token&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/17907743?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 08, 2022 at 00:20&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/ggonzalez94/web3-token-vendor</guid>
-      <pubDate>Mon, 08 Aug 2022 00:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>pagina-inicio-con-secciones-curvas</title>
-      <link>https://github.com/Antonmarchitec/pagina-inicio-con-secciones-curvas</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Antonmarchitec"&gt;Antonmarchitec&lt;/p&gt;&lt;p&gt;Página de inicio de grupo con secciones curvas || Antonio Ponce&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/70084380?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 07, 2022 at 20:21&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Antonmarchitec/pagina-inicio-con-secciones-curvas</guid>
-      <pubDate>Sun, 07 Aug 2022 20:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>sczenglishlanding</title>
-      <link>https://github.com/cattobaby/sczenglishlanding</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/cattobaby"&gt;cattobaby&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/89213345?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 07, 2022 at 10:44&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/cattobaby/sczenglishlanding</guid>
-      <pubDate>Sun, 07 Aug 2022 10:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>pertecPagina</title>
-      <link>https://github.com/marvinero1/pertecPagina</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/marvinero1"&gt;marvinero1&lt;/p&gt;&lt;p&gt;Sistema Web para Pertec S.R.L &lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/29873474?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 07, 2022 at 03:20&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/marvinero1/pertecPagina</guid>
-      <pubDate>Sun, 07 Aug 2022 03:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>InventarioApp</title>
-      <link>https://github.com/JHIMMY/InventarioApp</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/JHIMMY"&gt;JHIMMY&lt;/p&gt;&lt;p&gt;Una aplicación de practica de conceptos OO actualizada a .NET 6, basada en una clase que dió el profe Carlos IoT el 2018&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16492822?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated August 07, 2022 at 02:52&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/JHIMMY/InventarioApp</guid>
-      <pubDate>Sun, 07 Aug 2022 02:52:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
