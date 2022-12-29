@@ -6,20 +6,83 @@
     <description>Code Radar</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 28 Dec 2022 00:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2022 00:05:25 +0000</lastBuildDate>
     <item>
-      <title>lambda-idioms</title>
-      <link>https://github.com/kevin-mcm/lambda-idioms</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/kevin-mcm"&gt;kevin-mcm&lt;/p&gt;&lt;p&gt;C++ lambda idioms&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/28254614?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 27, 2022 at 23:33&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/kevin-mcm/lambda-idioms</guid>
-      <pubDate>Tue, 27 Dec 2022 23:33:00 +0000</pubDate>
+      <title>condo-manager</title>
+      <link>https://github.com/rontucuman/condo-manager</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/rontucuman"&gt;rontucuman&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/11792135?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 22:59&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/rontucuman/condo-manager</guid>
+      <pubDate>Wed, 28 Dec 2022 22:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>stand-up-reminder</title>
+      <link>https://github.com/jhordyess/stand-up-reminder</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/jhordyess"&gt;jhordyess&lt;/p&gt;&lt;p&gt;Stand up reminder with Arduino Multifunction Shield, Real Time Clock Module, and Ultrasonic Distance Sensor.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/65508346?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 22:30&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/jhordyess/stand-up-reminder</guid>
+      <pubDate>Wed, 28 Dec 2022 22:30:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Flask-project</title>
+      <link>https://github.com/MauricioAliendre182/Flask-project</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/MauricioAliendre182"&gt;MauricioAliendre182&lt;/p&gt;&lt;p&gt;This is a Flask project where someone can learn or add extra concepts&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/86843637?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 18:59&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/MauricioAliendre182/Flask-project</guid>
+      <pubDate>Wed, 28 Dec 2022 18:59:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>dotfiles</title>
+      <link>https://github.com/freddyvelarde/dotfiles</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/freddyvelarde"&gt;freddyvelarde&lt;/p&gt;&lt;p&gt;Those are all my linux configs and settings&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78813256?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 17:02&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/freddyvelarde/dotfiles</guid>
+      <pubDate>Wed, 28 Dec 2022 17:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>hola-juniors-challenge-api</title>
+      <link>https://github.com/Khatanna/hola-juniors-challenge-api</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Khatanna"&gt;Khatanna&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/88213570?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 15:56&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Khatanna/hola-juniors-challenge-api</guid>
+      <pubDate>Wed, 28 Dec 2022 15:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>platzi-plugin</title>
+      <link>https://github.com/rodruxdev/platzi-plugin</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/rodruxdev"&gt;rodruxdev&lt;/p&gt;&lt;p&gt;This is a plugin to get the time for Platzi courses.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/53325125?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 14:25&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/rodruxdev/platzi-plugin</guid>
+      <pubDate>Wed, 28 Dec 2022 14:25:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>even3-backend</title>
+      <link>https://github.com/MrRaccxxn/even3-backend</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/MrRaccxxn"&gt;MrRaccxxn&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/25932297?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 04:23&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/MrRaccxxn/even3-backend</guid>
+      <pubDate>Wed, 28 Dec 2022 04:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>my-portfolio</title>
+      <link>https://github.com/khorneflakes-dev/my-portfolio</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/khorneflakes-dev"&gt;khorneflakes-dev&lt;/p&gt;&lt;p&gt;portfolio made with svelte&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98509698?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 03:11&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/khorneflakes-dev/my-portfolio</guid>
+      <pubDate>Wed, 28 Dec 2022 03:11:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>tensorflow_projects</title>
+      <link>https://github.com/ENez7/tensorflow_projects</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/ENez7"&gt;ENez7&lt;/p&gt;&lt;p&gt;Tensorflow and keras noobie making progress&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/27792588?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 01:28&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/ENez7/tensorflow_projects</guid>
+      <pubDate>Wed, 28 Dec 2022 01:28:00 +0000</pubDate>
     </item>
     <item>
       <title>pycopy</title>
       <link>https://github.com/freddyvelarde/pycopy</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/freddyvelarde"&gt;freddyvelarde&lt;/p&gt;&lt;p&gt;CLI program to copy content from a file into your clipboard&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78813256?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 27, 2022 at 23:14&lt;/p&gt;</description>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/freddyvelarde"&gt;freddyvelarde&lt;/p&gt;&lt;p&gt;CLI program to copy content from a file into your clipboard&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78813256?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 01:08&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/freddyvelarde/pycopy</guid>
-      <pubDate>Tue, 27 Dec 2022 23:14:00 +0000</pubDate>
+      <pubDate>Wed, 28 Dec 2022 01:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>lambda-idioms</title>
+      <link>https://github.com/kevin-mcm/lambda-idioms</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/kevin-mcm"&gt;kevin-mcm&lt;/p&gt;&lt;p&gt;C++ lambda idioms&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/28254614?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 28, 2022 at 00:53&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/kevin-mcm/lambda-idioms</guid>
+      <pubDate>Wed, 28 Dec 2022 00:53:00 +0000</pubDate>
     </item>
     <item>
       <title>js-google-translate-free</title>
@@ -99,13 +162,6 @@
       <pubDate>Tue, 27 Dec 2022 15:09:00 +0000</pubDate>
     </item>
     <item>
-      <title>dotfiles</title>
-      <link>https://github.com/freddyvelarde/dotfiles</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/freddyvelarde"&gt;freddyvelarde&lt;/p&gt;&lt;p&gt;Those are all my linux configs and settings&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/78813256?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 27, 2022 at 13:55&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/freddyvelarde/dotfiles</guid>
-      <pubDate>Tue, 27 Dec 2022 13:55:00 +0000</pubDate>
-    </item>
-    <item>
       <title>jccm17</title>
       <link>https://github.com/jccm17/jccm17</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/jccm17"&gt;jccm17&lt;/p&gt;&lt;p&gt;Config files for my GitHub profile.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/40042640?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 27, 2022 at 13:34&lt;/p&gt;</description>
@@ -174,6 +230,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/ivansanguezax"&gt;ivansanguezax&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/39546708?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 27, 2022 at 00:08&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/ivansanguezax/learning-CSSGrid</guid>
       <pubDate>Tue, 27 Dec 2022 00:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>node_entregable6</title>
+      <link>https://github.com/FlorencioQuelca/node_entregable6</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/FlorencioQuelca"&gt;FlorencioQuelca&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/54711776?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 26, 2022 at 22:18&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/FlorencioQuelca/node_entregable6</guid>
+      <pubDate>Mon, 26 Dec 2022 22:18:00 +0000</pubDate>
     </item>
     <item>
       <title>MentorLab-Page</title>
@@ -246,18 +309,18 @@
       <pubDate>Sun, 25 Dec 2022 00:18:00 +0000</pubDate>
     </item>
     <item>
+      <title>bluetoothKotlinCompose</title>
+      <link>https://github.com/alvarohurtadobo/bluetoothKotlinCompose</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/alvarohurtadobo"&gt;alvarohurtadobo&lt;/p&gt;&lt;p&gt;Test of Beacon connect with bluetooth in background&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/5840011?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 24, 2022 at 17:34&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/alvarohurtadobo/bluetoothKotlinCompose</guid>
+      <pubDate>Sat, 24 Dec 2022 17:34:00 +0000</pubDate>
+    </item>
+    <item>
       <title>scriptures_api</title>
       <link>https://github.com/danieloyolaj/scriptures_api</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/danieloyolaj"&gt;danieloyolaj&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/106420655?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 24, 2022 at 12:40&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/danieloyolaj/scriptures_api</guid>
       <pubDate>Sat, 24 Dec 2022 12:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>mastodon_links</title>
-      <link>https://github.com/mauforonda/mastodon_links</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mauforonda"&gt;mauforonda&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/4010711?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 24, 2022 at 05:13&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mauforonda/mastodon_links</guid>
-      <pubDate>Sat, 24 Dec 2022 05:13:00 +0000</pubDate>
     </item>
     <item>
       <title>simple-auto-night-timer</title>
@@ -274,18 +337,18 @@
       <pubDate>Sat, 24 Dec 2022 02:50:00 +0000</pubDate>
     </item>
     <item>
+      <title>principios_solid_y_clean_code</title>
+      <link>https://github.com/GerardoDev25/principios_solid_y_clean_code</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/GerardoDev25"&gt;GerardoDev25&lt;/p&gt;&lt;p&gt;principios_solid_y_clean_code&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/83968980?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 24, 2022 at 02:40&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/GerardoDev25/principios_solid_y_clean_code</guid>
+      <pubDate>Sat, 24 Dec 2022 02:40:00 +0000</pubDate>
+    </item>
+    <item>
       <title>merry-christmas.github.io</title>
       <link>https://github.com/RodrigoApaza/merry-christmas.github.io</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/RodrigoApaza"&gt;RodrigoApaza&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/68876289?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 24, 2022 at 01:31&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/RodrigoApaza/merry-christmas.github.io</guid>
       <pubDate>Sat, 24 Dec 2022 01:31:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RecyclerViewComposeTaller</title>
-      <link>https://github.com/victorsanjines666/RecyclerViewComposeTaller</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/victorsanjines666"&gt;victorsanjines666&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/103433997?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 24, 2022 at 00:39&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/victorsanjines666/RecyclerViewComposeTaller</guid>
-      <pubDate>Sat, 24 Dec 2022 00:39:00 +0000</pubDate>
     </item>
     <item>
       <title>NavegacionComposeTaller</title>
@@ -307,6 +370,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/victorsanjines666"&gt;victorsanjines666&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/103433997?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 24, 2022 at 00:23&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/victorsanjines666/InyeccionDependenciasTaller</guid>
       <pubDate>Sat, 24 Dec 2022 00:23:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>auth0-react-example</title>
+      <link>https://github.com/cristianiniguez/auth0-react-example</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/cristianiniguez"&gt;cristianiniguez&lt;/p&gt;&lt;p&gt;Monorepo to test Auth0 with React&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/64929919?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 23, 2022 at 22:34&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/cristianiniguez/auth0-react-example</guid>
+      <pubDate>Fri, 23 Dec 2022 22:34:00 +0000</pubDate>
     </item>
     <item>
       <title>E6redSocial</title>
@@ -342,6 +412,13 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Kevin-Jhonatan"&gt;Kevin-Jhonatan&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/83718854?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 23, 2022 at 17:57&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Kevin-Jhonatan/updsCondominios</guid>
       <pubDate>Fri, 23 Dec 2022 17:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CheckCj7</title>
+      <link>https://github.com/Juliocj7/CheckCj7</link>
+      <description>&lt;p&gt;made by &lt;a href="https://github.com/Juliocj7"&gt;Juliocj7&lt;/p&gt;&lt;p&gt;🔥 Generador y Checker de Tarjetas de Crédito... By: ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/81049859?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 23, 2022 at 16:40&lt;/p&gt;</description>
+      <guid isPermaLink="false">https://github.com/Juliocj7/CheckCj7</guid>
+      <pubDate>Fri, 23 Dec 2022 16:40:00 +0000</pubDate>
     </item>
     <item>
       <title>alvarosiles.com</title>
@@ -449,25 +526,11 @@
       <pubDate>Fri, 23 Dec 2022 05:53:00 +0000</pubDate>
     </item>
     <item>
-      <title>EDOPro-Megaman-Deck</title>
-      <link>https://github.com/arceus6666/EDOPro-Megaman-Deck</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/arceus6666"&gt;arceus6666&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/38559541?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 23, 2022 at 04:40&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/arceus6666/EDOPro-Megaman-Deck</guid>
-      <pubDate>Fri, 23 Dec 2022 04:40:00 +0000</pubDate>
-    </item>
-    <item>
       <title>example-ssr-node</title>
       <link>https://github.com/Saint-Diego/example-ssr-node</link>
       <description>&lt;p&gt;made by &lt;a href="https://github.com/Saint-Diego"&gt;Saint-Diego&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/89640777?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 23, 2022 at 04:06&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/Saint-Diego/example-ssr-node</guid>
       <pubDate>Fri, 23 Dec 2022 04:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>my-portfolio</title>
-      <link>https://github.com/khorneflakes-dev/my-portfolio</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/khorneflakes-dev"&gt;khorneflakes-dev&lt;/p&gt;&lt;p&gt;portfolio made with svelte&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/98509698?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 23, 2022 at 01:24&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/khorneflakes-dev/my-portfolio</guid>
-      <pubDate>Fri, 23 Dec 2022 01:24:00 +0000</pubDate>
     </item>
     <item>
       <title>khorneflakes-dev.github.io</title>
@@ -482,69 +545,6 @@
       <description>&lt;p&gt;made by &lt;a href="https://github.com/OmarDiegoOblitas"&gt;OmarDiegoOblitas&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/51056602?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 23, 2022 at 01:16&lt;/p&gt;</description>
       <guid isPermaLink="false">https://github.com/OmarDiegoOblitas/hospitalWebSite</guid>
       <pubDate>Fri, 23 Dec 2022 01:16:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>tensorflow_projects</title>
-      <link>https://github.com/ENez7/tensorflow_projects</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/ENez7"&gt;ENez7&lt;/p&gt;&lt;p&gt;Tensorflow and keras noobie making progress&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/27792588?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 23, 2022 at 01:08&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/ENez7/tensorflow_projects</guid>
-      <pubDate>Fri, 23 Dec 2022 01:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>clevo</title>
-      <link>https://github.com/enrique159/clevo</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/enrique159"&gt;enrique159&lt;/p&gt;&lt;p&gt;Clevo es una plataforma para facturación electrónica que ofrece realizar de forma muy sencilla tus facturas.&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/16583689?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 22, 2022 at 21:10&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/enrique159/clevo</guid>
-      <pubDate>Thu, 22 Dec 2022 21:10:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>dynamodb-crud-api-gateway</title>
-      <link>https://github.com/mcoria08/dynamodb-crud-api-gateway</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/mcoria08"&gt;mcoria08&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/6056274?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 22, 2022 at 18:27&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/mcoria08/dynamodb-crud-api-gateway</guid>
-      <pubDate>Thu, 22 Dec 2022 18:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>cancun_project</title>
-      <link>https://github.com/gramscih/cancun_project</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/gramscih"&gt;gramscih&lt;/p&gt;&lt;p&gt;This would be an application where the user coul set his plan vacation for the year&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/5256669?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 22, 2022 at 14:44&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/gramscih/cancun_project</guid>
-      <pubDate>Thu, 22 Dec 2022 14:44:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>AdventOfCode2022</title>
-      <link>https://github.com/cristianfchq/AdventOfCode2022</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/cristianfchq"&gt;cristianfchq&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/46145612?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 22, 2022 at 03:37&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/cristianfchq/AdventOfCode2022</guid>
-      <pubDate>Thu, 22 Dec 2022 03:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>React-Native-2</title>
-      <link>https://github.com/alejandrozeb/React-Native-2</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/alejandrozeb"&gt;alejandrozeb&lt;/p&gt;&lt;p&gt;react native intermediate&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/50850784?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 22, 2022 at 00:47&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/alejandrozeb/React-Native-2</guid>
-      <pubDate>Thu, 22 Dec 2022 00:47:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>WebDemo</title>
-      <link>https://github.com/r3xakead0/WebDemo</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/r3xakead0"&gt;r3xakead0&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/152909?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 21, 2022 at 20:50&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/r3xakead0/WebDemo</guid>
-      <pubDate>Wed, 21 Dec 2022 20:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>cerma</title>
-      <link>https://github.com/loginweb-dev/cerma</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/loginweb-dev"&gt;loginweb-dev&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/45406884?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 21, 2022 at 14:27&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/loginweb-dev/cerma</guid>
-      <pubDate>Wed, 21 Dec 2022 14:27:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Saloodo-Task</title>
-      <link>https://github.com/Mohamed-Tallal/Saloodo-Task</link>
-      <description>&lt;p&gt;made by &lt;a href="https://github.com/Mohamed-Tallal"&gt;Mohamed-Tallal&lt;/p&gt;&lt;p&gt;None&lt;/p&gt; &lt;img src="https://avatars.githubusercontent.com/u/68516727?v=4"&gt;&lt;/img&gt;&lt;p&gt;updated December 21, 2022 at 10:45&lt;/p&gt;</description>
-      <guid isPermaLink="false">https://github.com/Mohamed-Tallal/Saloodo-Task</guid>
-      <pubDate>Wed, 21 Dec 2022 10:45:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
